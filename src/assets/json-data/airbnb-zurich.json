@@ -1,0 +1,3705 @@
+[{
+  "url": "https://www.airbnb.com/rooms/49084052",
+  "name": "Luxury Villa",
+  "numberOfGuests": 14,
+  "address": "Dättlikon, Zürich, Switzerland",
+  "roomType": "Entire villa",
+  "location": {
+    "lat": 47.52588,
+    "lng": 8.62215
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 2629,
+      "amount_formatted": "2,629 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 2629,
+      "amount_formatted": "2,629 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/22557433",
+  "name": "New! EXCLUSIV VILLA direct at the LAKE of Zürich",
+  "stars": 5,
+  "numberOfGuests": 8,
+  "address": "Meilen Zürich , ZH, Switzerland",
+  "roomType": "Entire villa",
+  "location": {
+    "lat": 47.26186,
+    "lng": 8.66603
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Irina",
+        "hasProfilePic": true,
+        "id": 15017732,
+        "pictureUrl": "https://a0.muscache.com/im/users/15017732/profile_pic/1399225941/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Irina",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/15017732/profile_pic/1399225941/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 15017732,
+      "canBeEdited": false,
+      "comments": "Monique is wonderful host. The house recently renovated, all was good. Thank you",
+      "createdAt": "2019-01-30T12:22:07Z",
+      "id": 406583077,
+      "idStr": "406583077",
+      "listingId": 22557433,
+      "recipientId": 99237374,
+      "collectionTag": null,
+      "listing": {
+        "id": 22557433,
+        "listingIdStr": "22557433",
+        "name": "New! EXCLUSIV VILLA direct at the LAKE of Zürich"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Monique",
+        "hasProfilePic": true,
+        "id": 99237374,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/69a94dcb-d062-4c3a-bc54-22f455b5ec29.jpg?aki_policy=profile_x_medium",
+        "smartName": "Monique",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/69a94dcb-d062-4c3a-bc54-22f455b5ec29.jpg?aki_policy=profile_small"
+      },
+      "response": "Thank you so much . \nI am glad you like my property. \nHope to have you back soon \nKind regards",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Mascha",
+        "hasProfilePic": true,
+        "id": 26690925,
+        "pictureUrl": "https://a0.muscache.com/im/users/26690925/profile_pic/1443261241/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Mascha",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/26690925/profile_pic/1443261241/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 26690925,
+      "canBeEdited": false,
+      "comments": "Fantastische Villa, direkt am See, mit stilvolle Ausrichtung.",
+      "createdAt": "2020-09-06T14:49:42Z",
+      "id": 661091241,
+      "idStr": "661091241",
+      "listingId": 22557433,
+      "recipientId": 99237374,
+      "collectionTag": null,
+      "listing": {
+        "id": 22557433,
+        "listingIdStr": "22557433",
+        "name": "New! EXCLUSIV VILLA direct at the LAKE of Zürich"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Monique",
+        "hasProfilePic": true,
+        "id": 99237374,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/69a94dcb-d062-4c3a-bc54-22f455b5ec29.jpg?aki_policy=profile_x_medium",
+        "smartName": "Monique",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/69a94dcb-d062-4c3a-bc54-22f455b5ec29.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "de",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Mascha",
+        "hasProfilePic": true,
+        "id": 26690925,
+        "pictureUrl": "https://a0.muscache.com/im/users/26690925/profile_pic/1443261241/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Mascha",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/26690925/profile_pic/1443261241/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 26690925,
+      "canBeEdited": false,
+      "comments": "Super Lage, super Kommunikation, sehr freundliche Gastgeberin",
+      "createdAt": "2020-08-26T13:36:08Z",
+      "id": 656633163,
+      "idStr": "656633163",
+      "listingId": 22557433,
+      "recipientId": 99237374,
+      "collectionTag": null,
+      "listing": {
+        "id": 22557433,
+        "listingIdStr": "22557433",
+        "name": "New! EXCLUSIV VILLA direct at the LAKE of Zürich"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Monique",
+        "hasProfilePic": true,
+        "id": 99237374,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/69a94dcb-d062-4c3a-bc54-22f455b5ec29.jpg?aki_policy=profile_x_medium",
+        "smartName": "Monique",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/69a94dcb-d062-4c3a-bc54-22f455b5ec29.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "de",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Moni",
+        "hasProfilePic": true,
+        "id": 164241106,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/42efa732-0347-47cb-879d-dcb376a55101.jpg?aki_policy=profile_x_medium",
+        "smartName": "Moni",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/42efa732-0347-47cb-879d-dcb376a55101.jpg?aki_policy=profile_small"
+      },
+      "authorId": 164241106,
+      "canBeEdited": false,
+      "comments": "Tolle und geschmackvolle Villa direkt am schönen Zürichsee. gepflegt und geschmackvoll. Ideal für 8-10 Personen. Perfekt für ein Familienfest. Mit dem Boot kann man Ankern vor dem Haus.",
+      "createdAt": "2020-06-15T11:37:13Z",
+      "id": 629847915,
+      "idStr": "629847915",
+      "listingId": 22557433,
+      "recipientId": 99237374,
+      "collectionTag": null,
+      "listing": {
+        "id": 22557433,
+        "listingIdStr": "22557433",
+        "name": "New! EXCLUSIV VILLA direct at the LAKE of Zürich"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Monique",
+        "hasProfilePic": true,
+        "id": 99237374,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/69a94dcb-d062-4c3a-bc54-22f455b5ec29.jpg?aki_policy=profile_x_medium",
+        "smartName": "Monique",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/69a94dcb-d062-4c3a-bc54-22f455b5ec29.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "de",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Jasmina",
+        "hasProfilePic": true,
+        "id": 60166094,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/6545383e-2519-4103-872e-0607411ba058.jpg?aki_policy=profile_x_medium",
+        "smartName": "Jasmina",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/6545383e-2519-4103-872e-0607411ba058.jpg?aki_policy=profile_small"
+      },
+      "authorId": 60166094,
+      "canBeEdited": false,
+      "comments": "Wer hier ein paar Tage verbringen darf, hat es ins Paradies geschafft. Die Villa bietet so unglaublich viel Platz und ist sehr stillvoll eingerichtet. Die Aussicht ist traumhaft und einzigartig. Für ein Familienfest oder einfach zur Erholung das perfekte Haus.\nDer Garten lädt zum herumtollen ein für Kinder, es gibt mehrere Möglichkeiten den See zu geniessen und wer den Luxus liebt, ist hier genau richtig. ",
+      "createdAt": "2018-06-24T13:35:19Z",
+      "id": 281017621,
+      "idStr": "281017621",
+      "listingId": 22557433,
+      "recipientId": 99237374,
+      "collectionTag": null,
+      "listing": {
+        "id": 22557433,
+        "listingIdStr": "22557433",
+        "name": "New! EXCLUSIV VILLA direct at the LAKE of Zürich"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Monique",
+        "hasProfilePic": true,
+        "id": 99237374,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/69a94dcb-d062-4c3a-bc54-22f455b5ec29.jpg?aki_policy=profile_x_medium",
+        "smartName": "Monique",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/69a94dcb-d062-4c3a-bc54-22f455b5ec29.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "de",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 2643,
+      "amount_formatted": "2,643 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 2643,
+      "amount_formatted": "2,643 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/42659426",
+  "name": "ZÜRICH Amazing UNIQUE new built 5StarLAKE property",
+  "numberOfGuests": 8,
+  "address": "Kilchberg, ZH, Switzerland",
+  "roomType": "Entire villa",
+  "location": {
+    "lat": 47.32651,
+    "lng": 8.549
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 3379,
+      "amount_formatted": "3,379 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 3379,
+      "amount_formatted": "3,379 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/53180756",
+  "name": "Cozy Exhibition Room in Winterthur",
+  "numberOfGuests": 2,
+  "address": "Winterthur, Zürich, Switzerland",
+  "roomType": "Private room in hut",
+  "location": {
+    "lat": 47.49863,
+    "lng": 8.73443
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 3750,
+      "amount_formatted": "3,750 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 3750,
+      "amount_formatted": "3,750 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/32268898",
+  "name": "3-Zimmer Wohnung mit Seesicht",
+  "stars": 5,
+  "numberOfGuests": 1,
+  "address": "Stäfa, Zürich, Switzerland",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 47.24574,
+    "lng": 8.72449
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Lucas",
+        "hasProfilePic": true,
+        "id": 52862871,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/d914ff4d-c0fd-4b87-9ef3-28807a973a85.jpg?aki_policy=profile_x_medium",
+        "smartName": "Lucas",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/d914ff4d-c0fd-4b87-9ef3-28807a973a85.jpg?aki_policy=profile_small"
+      },
+      "authorId": 52862871,
+      "canBeEdited": false,
+      "comments": "Room in a beautiful house situated in quiet location near the train station. Rut is a very friendly, welcoming and helpful host. Definitely recommend!",
+      "createdAt": "2021-10-24T13:46:25Z",
+      "id": 480217490814006700,
+      "idStr": "480217490814006698",
+      "listingId": 32268898,
+      "recipientId": 26221790,
+      "collectionTag": null,
+      "listing": {
+        "id": 32268898,
+        "listingIdStr": "32268898",
+        "name": "3-Zimmer Wohnung mit Seesicht"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Rut",
+        "hasProfilePic": true,
+        "id": 26221790,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/8d02cc85-74b8-4175-a565-4d32c6f06299.jpg?aki_policy=profile_x_medium",
+        "smartName": "Rut",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/8d02cc85-74b8-4175-a565-4d32c6f06299.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Łukasz",
+        "hasProfilePic": true,
+        "id": 392256911,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/d1d032b5-7bd2-437c-b714-e2df7b993ec4.jpg?aki_policy=profile_x_medium",
+        "smartName": "Łukasz",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/d1d032b5-7bd2-437c-b714-e2df7b993ec4.jpg?aki_policy=profile_small"
+      },
+      "authorId": 392256911,
+      "canBeEdited": false,
+      "comments": "the best place and host You can imagine!",
+      "createdAt": "2021-07-01T13:30:24Z",
+      "id": 396860217266687900,
+      "idStr": "396860217266687895",
+      "listingId": 32268898,
+      "recipientId": 26221790,
+      "collectionTag": null,
+      "listing": {
+        "id": 32268898,
+        "listingIdStr": "32268898",
+        "name": "3-Zimmer Wohnung mit Seesicht"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Rut",
+        "hasProfilePic": true,
+        "id": 26221790,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/8d02cc85-74b8-4175-a565-4d32c6f06299.jpg?aki_policy=profile_x_medium",
+        "smartName": "Rut",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/8d02cc85-74b8-4175-a565-4d32c6f06299.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Georgeta",
+        "hasProfilePic": true,
+        "id": 410745999,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/8a4fd994-880e-4aae-8383-882d44796262.jpg?aki_policy=profile_x_medium",
+        "smartName": "Georgeta",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/8a4fd994-880e-4aae-8383-882d44796262.jpg?aki_policy=profile_small"
+      },
+      "authorId": 410745999,
+      "canBeEdited": false,
+      "comments": "Ich habe über 1 Monat bei Rut gewohnt. Ich habe mich sehr wohl gefühlt,  am Ende fast wie Zuhause.  Rut ist eine sehr nette,  freundliche und aufmerksame Dame.  Das Zimmer ist nicht sehr groß, aber gemütlich . Bei gutem Wetter kann man sehr schön auf die Terrasse entspannen. \nIch werde Rut und \" Katze\" bald wieder besuchen.  Ich bedanke mich herzlich für die Gastfreundlichkeit. \nGeorgeta",
+      "createdAt": "2021-08-31T11:11:38Z",
+      "id": 441001688754663700,
+      "idStr": "441001688754663648",
+      "listingId": 32268898,
+      "recipientId": 26221790,
+      "collectionTag": null,
+      "listing": {
+        "id": 32268898,
+        "listingIdStr": "32268898",
+        "name": "3-Zimmer Wohnung mit Seesicht"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Rut",
+        "hasProfilePic": true,
+        "id": 26221790,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/8d02cc85-74b8-4175-a565-4d32c6f06299.jpg?aki_policy=profile_x_medium",
+        "smartName": "Rut",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/8d02cc85-74b8-4175-a565-4d32c6f06299.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "de",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Daniele",
+        "hasProfilePic": true,
+        "id": 393650373,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/baa4b24d-3786-40be-92db-a98cfd9ddb85.jpg?aki_policy=profile_x_medium",
+        "smartName": "Daniele",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/baa4b24d-3786-40be-92db-a98cfd9ddb85.jpg?aki_policy=profile_small"
+      },
+      "authorId": 393650373,
+      "canBeEdited": false,
+      "comments": "Die Unterkunft ist top und absolut für 1 Person weiter zu empfehlen. \nRut ist eine super angenehme Gastgeberin. \nWäre gerne auch länger geblieben. \nIhre Katze ist zudem ein richtiges Kuscheltier!!! \nHabe mich sehr wohl gefühlt.",
+      "createdAt": "2021-04-17T13:15:32Z",
+      "id": 749372504,
+      "idStr": "749372504",
+      "listingId": 32268898,
+      "recipientId": 26221790,
+      "collectionTag": null,
+      "listing": {
+        "id": 32268898,
+        "listingIdStr": "32268898",
+        "name": "3-Zimmer Wohnung mit Seesicht"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Rut",
+        "hasProfilePic": true,
+        "id": 26221790,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/8d02cc85-74b8-4175-a565-4d32c6f06299.jpg?aki_policy=profile_x_medium",
+        "smartName": "Rut",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/8d02cc85-74b8-4175-a565-4d32c6f06299.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "de",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 2500,
+      "amount_formatted": "2,500 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 2500,
+      "amount_formatted": "2,500 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/43561547",
+  "name": "A Day on the Lake",
+  "numberOfGuests": 12,
+  "address": "Zürich, Switzerland",
+  "roomType": "Boat",
+  "location": {
+    "lat": 47.36803,
+    "lng": 8.5419
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 4600,
+      "amount_formatted": "4,600 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 4600,
+      "amount_formatted": "4,600 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/22694368",
+  "name": "White Riviera House",
+  "numberOfGuests": 6,
+  "address": "Zürich, Switzerland",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 47.33633,
+    "lng": 8.53903
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 1799,
+      "amount_formatted": "1,799 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1799,
+      "amount_formatted": "1,799 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/38992441",
+  "name": "K",
+  "stars": 5,
+  "numberOfGuests": 1,
+  "address": "Wallisellen, Zürich, Switzerland",
+  "roomType": "Private room in rental unit",
+  "location": {
+    "lat": 47.41869,
+    "lng": 8.58722
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Iman",
+        "hasProfilePic": true,
+        "id": 303141344,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/a2793e40-5805-486e-ad13-d40ab726c426.jpg?aki_policy=profile_x_medium",
+        "smartName": "Iman",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/a2793e40-5805-486e-ad13-d40ab726c426.jpg?aki_policy=profile_small"
+      },
+      "authorId": 303141344,
+      "canBeEdited": false,
+      "comments": "The host canceled this reservation 4 days before arrival. This is an automated posting.",
+      "createdAt": "2019-10-18T19:56:36Z",
+      "id": 550288083,
+      "idStr": "550288083",
+      "listingId": 38992441,
+      "recipientId": 109489364,
+      "collectionTag": null,
+      "listing": {
+        "id": 38992441,
+        "listingIdStr": "38992441",
+        "name": "K"
+      },
+      "rating": 0,
+      "recipient": {
+        "firstName": "Martina",
+        "hasProfilePic": true,
+        "id": 109489364,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/783bcef2-9628-49c0-8ae6-805516c48e68.jpg?aki_policy=profile_x_medium",
+        "smartName": "Martina",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/783bcef2-9628-49c0-8ae6-805516c48e68.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Mohammad",
+        "hasProfilePic": true,
+        "id": 149523860,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/d70fc16a-bb26-48a3-bfd8-c102f6e4fea7.jpg?aki_policy=profile_x_medium",
+        "smartName": "Mohammad",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/d70fc16a-bb26-48a3-bfd8-c102f6e4fea7.jpg?aki_policy=profile_small"
+      },
+      "authorId": 149523860,
+      "canBeEdited": false,
+      "comments": "Martina is a very welcoming host with a nice and cosy place. She is flexible and happy to help. The village where the property is located,  is so calm and beautiful with easy access to Zurich downtown.",
+      "createdAt": "2020-03-06T13:29:04Z",
+      "id": 614730554,
+      "idStr": "614730554",
+      "listingId": 38992441,
+      "recipientId": 109489364,
+      "collectionTag": null,
+      "listing": {
+        "id": 38992441,
+        "listingIdStr": "38992441",
+        "name": "K"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Martina",
+        "hasProfilePic": true,
+        "id": 109489364,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/783bcef2-9628-49c0-8ae6-805516c48e68.jpg?aki_policy=profile_x_medium",
+        "smartName": "Martina",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/783bcef2-9628-49c0-8ae6-805516c48e68.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Miodrag",
+        "hasProfilePic": true,
+        "id": 156048072,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/f516bc65-53ee-4fc7-bfe5-ec5e7aa259e0.jpg?aki_policy=profile_x_medium",
+        "smartName": "Miodrag",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/f516bc65-53ee-4fc7-bfe5-ec5e7aa259e0.jpg?aki_policy=profile_small"
+      },
+      "authorId": 156048072,
+      "canBeEdited": false,
+      "comments": "Qute and kousy. Great hospitality. ",
+      "createdAt": "2020-02-28T12:09:03Z",
+      "id": 611789466,
+      "idStr": "611789466",
+      "listingId": 38992441,
+      "recipientId": 109489364,
+      "collectionTag": null,
+      "listing": {
+        "id": 38992441,
+        "listingIdStr": "38992441",
+        "name": "K"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Martina",
+        "hasProfilePic": true,
+        "id": 109489364,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/783bcef2-9628-49c0-8ae6-805516c48e68.jpg?aki_policy=profile_x_medium",
+        "smartName": "Martina",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/783bcef2-9628-49c0-8ae6-805516c48e68.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Lucas",
+        "hasProfilePic": true,
+        "id": 16137356,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/176b453b-7208-4ac0-9e4f-a226f4458144.jpg?aki_policy=profile_x_medium",
+        "smartName": "Lucas",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/176b453b-7208-4ac0-9e4f-a226f4458144.jpg?aki_policy=profile_small"
+      },
+      "authorId": 16137356,
+      "canBeEdited": false,
+      "comments": "Perfect for a short-term stay in Zurich",
+      "createdAt": "2019-11-30T15:13:41Z",
+      "id": 570816266,
+      "idStr": "570816266",
+      "listingId": 38992441,
+      "recipientId": 109489364,
+      "collectionTag": null,
+      "listing": {
+        "id": 38992441,
+        "listingIdStr": "38992441",
+        "name": "K"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Martina",
+        "hasProfilePic": true,
+        "id": 109489364,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/783bcef2-9628-49c0-8ae6-805516c48e68.jpg?aki_policy=profile_x_medium",
+        "smartName": "Martina",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/783bcef2-9628-49c0-8ae6-805516c48e68.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Fulvio",
+        "hasProfilePic": true,
+        "id": 172872391,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/ae1eb177-fa06-45f9-84f8-8f06a4588114.jpg?aki_policy=profile_x_medium",
+        "smartName": "Fulvio",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/ae1eb177-fa06-45f9-84f8-8f06a4588114.jpg?aki_policy=profile_small"
+      },
+      "authorId": 172872391,
+      "canBeEdited": false,
+      "comments": "Martina is a super host kind and friendly.",
+      "createdAt": "2019-11-07T14:41:46Z",
+      "id": 560610316,
+      "idStr": "560610316",
+      "listingId": 38992441,
+      "recipientId": 109489364,
+      "collectionTag": null,
+      "listing": {
+        "id": 38992441,
+        "listingIdStr": "38992441",
+        "name": "K"
+      },
+      "rating": 4,
+      "recipient": {
+        "firstName": "Martina",
+        "hasProfilePic": true,
+        "id": 109489364,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/783bcef2-9628-49c0-8ae6-805516c48e68.jpg?aki_policy=profile_x_medium",
+        "smartName": "Martina",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/783bcef2-9628-49c0-8ae6-805516c48e68.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Marc",
+        "hasProfilePic": true,
+        "id": 109481911,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/5247a9bc-aa6f-456e-80d5-0485d36b6e3d.jpg?aki_policy=profile_x_medium",
+        "smartName": "Marc",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/5247a9bc-aa6f-456e-80d5-0485d36b6e3d.jpg?aki_policy=profile_small"
+      },
+      "authorId": 109481911,
+      "canBeEdited": false,
+      "comments": "Very cosy place. Very clean and confortable. Martina was very welcoming. Can only recommend it!",
+      "createdAt": "2019-11-01T13:24:51Z",
+      "id": 557491482,
+      "idStr": "557491482",
+      "listingId": 38992441,
+      "recipientId": 109489364,
+      "collectionTag": null,
+      "listing": {
+        "id": 38992441,
+        "listingIdStr": "38992441",
+        "name": "K"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Martina",
+        "hasProfilePic": true,
+        "id": 109489364,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/783bcef2-9628-49c0-8ae6-805516c48e68.jpg?aki_policy=profile_x_medium",
+        "smartName": "Martina",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/783bcef2-9628-49c0-8ae6-805516c48e68.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Shelby",
+        "hasProfilePic": true,
+        "id": 256044075,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/83026742-9079-40c6-b750-8a9dc260407a.jpg?aki_policy=profile_x_medium",
+        "smartName": "Shelby",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/83026742-9079-40c6-b750-8a9dc260407a.jpg?aki_policy=profile_small"
+      },
+      "authorId": 256044075,
+      "canBeEdited": false,
+      "comments": "The apartment was very nice, I especially loved the balcony and how clean and just generally nice the space was. Martina was very friendly and helpful, and I would highly recommend her place!!",
+      "createdAt": "2019-10-17T12:29:50Z",
+      "id": 548252457,
+      "idStr": "548252457",
+      "listingId": 38992441,
+      "recipientId": 109489364,
+      "collectionTag": null,
+      "listing": {
+        "id": 38992441,
+        "listingIdStr": "38992441",
+        "name": "K"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Martina",
+        "hasProfilePic": true,
+        "id": 109489364,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/783bcef2-9628-49c0-8ae6-805516c48e68.jpg?aki_policy=profile_x_medium",
+        "smartName": "Martina",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/783bcef2-9628-49c0-8ae6-805516c48e68.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Alessandro",
+        "hasProfilePic": true,
+        "id": 53809509,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/008bc1ce-cc8c-469a-b52c-82f148046cb8.jpg?aki_policy=profile_x_medium",
+        "smartName": "Alessandro",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/008bc1ce-cc8c-469a-b52c-82f148046cb8.jpg?aki_policy=profile_small"
+      },
+      "authorId": 53809509,
+      "canBeEdited": false,
+      "comments": "Sehr nett und freundlich! Schöne und saubere Wohnung, gerne wieder!",
+      "createdAt": "2019-12-15T12:32:07Z",
+      "id": 577185295,
+      "idStr": "577185295",
+      "listingId": 38992441,
+      "recipientId": 109489364,
+      "collectionTag": null,
+      "listing": {
+        "id": 38992441,
+        "listingIdStr": "38992441",
+        "name": "K"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Martina",
+        "hasProfilePic": true,
+        "id": 109489364,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/783bcef2-9628-49c0-8ae6-805516c48e68.jpg?aki_policy=profile_x_medium",
+        "smartName": "Martina",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/783bcef2-9628-49c0-8ae6-805516c48e68.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "de",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Daniel",
+        "hasProfilePic": true,
+        "id": 41057950,
+        "pictureUrl": "https://a0.muscache.com/im/users/41057950/profile_pic/1439221854/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Daniel",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/41057950/profile_pic/1439221854/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 41057950,
+      "canBeEdited": false,
+      "comments": "Ich hatte einen Kurztrip nach Zürich für ein Bewerbungsgespräch. Die verfügbaren Hotels waren aus meiner Sicht sehr teuer und daher habe ich mich auf AirBnB nach einer günstigen Unterkunft für einen Kurzaufenthalt umgesehen. Bei Martina habe ich bekommen, was mir zugesagt wurde. Eine Luftmatratze (bequemer als gedacht), Bettzeug und ein Handtuch zum waschen und damit alles was ich brauchte. Die Wohnung war sehr sauber und vom Balkon aus hatte man einen schönen Ausblick. Zusätzlich konnte ich morgens noch einen Espresso genießen. Ich habe mich in der Wohnung sehr wohl gefühlt.\n\nDa sowohl Martina und als auch ich viel unterwegs waren, haben wir uns nur einmal gesehen aber dabei ein sehr nettes Gespräch geführt und ich habe noch zwei gute Tipps für das abendliche Ausgehen von ihr bekommen.\n\nWallisellen ist zwar ein Stück von der Innenstadt entfernt aber sehr gut angebunden, wodurch man tatsächlich nach kurzem Fußmarsch zum Bahnhof Wallisellen in 15 Minuten entweder mitten in der Innenstadt ist oder (in die andere Richtung) am Flughafen.\n\nKurzum, ich war sehr zufrieden und kann sowohl den Host als auch die Unterkunft weiterempfehlen - gerne wieder!",
+      "createdAt": "2019-11-19T15:10:02Z",
+      "id": 566416128,
+      "idStr": "566416128",
+      "listingId": 38992441,
+      "recipientId": 109489364,
+      "collectionTag": null,
+      "listing": {
+        "id": 38992441,
+        "listingIdStr": "38992441",
+        "name": "K"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Martina",
+        "hasProfilePic": true,
+        "id": 109489364,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/783bcef2-9628-49c0-8ae6-805516c48e68.jpg?aki_policy=profile_x_medium",
+        "smartName": "Martina",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/783bcef2-9628-49c0-8ae6-805516c48e68.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "de",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Oskar",
+        "hasProfilePic": true,
+        "id": 267423156,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/17256618-50f2-437d-b6d4-dd731000e8b2.jpg?aki_policy=profile_x_medium",
+        "smartName": "Oskar",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/17256618-50f2-437d-b6d4-dd731000e8b2.jpg?aki_policy=profile_small"
+      },
+      "authorId": 267423156,
+      "canBeEdited": false,
+      "comments": "Kommunikation war super und ohne jegliche Probleme. Alles war super, nur hat die Matratze fast den gesamten Raum ausgefüllt. Wiederkommen würde ich trotzdem :)",
+      "createdAt": "2019-10-21T14:28:09Z",
+      "id": 552310214,
+      "idStr": "552310214",
+      "listingId": 38992441,
+      "recipientId": 109489364,
+      "collectionTag": null,
+      "listing": {
+        "id": 38992441,
+        "listingIdStr": "38992441",
+        "name": "K"
+      },
+      "rating": 4,
+      "recipient": {
+        "firstName": "Martina",
+        "hasProfilePic": true,
+        "id": 109489364,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/783bcef2-9628-49c0-8ae6-805516c48e68.jpg?aki_policy=profile_x_medium",
+        "smartName": "Martina",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/783bcef2-9628-49c0-8ae6-805516c48e68.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "de",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 4000,
+      "amount_formatted": "4,000 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 4000,
+      "amount_formatted": "4,000 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/46386231",
+  "name": "Junior Suite für 1 Person, inkl. Frühstück",
+  "numberOfGuests": 1,
+  "address": "Zürich, Switzerland",
+  "roomType": "Room in hotel",
+  "location": {
+    "lat": 47.36096,
+    "lng": 8.55098
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 1500,
+      "amount_formatted": "1,500 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1500,
+      "amount_formatted": "1,500 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/10123467",
+  "name": "Le Bijou MH6 Jacuzzi Penthouse Apartment",
+  "stars": 4.5,
+  "numberOfGuests": 8,
+  "address": "Zürich, Switzerland",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 47.37075,
+    "lng": 8.54147
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Michael",
+        "hasProfilePic": true,
+        "id": 296527096,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/acf47645-615c-4db9-86fb-786bef04fe47.jpg?aki_policy=profile_x_medium",
+        "smartName": "Michael",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/acf47645-615c-4db9-86fb-786bef04fe47.jpg?aki_policy=profile_small"
+      },
+      "authorId": 296527096,
+      "canBeEdited": false,
+      "comments": "This is a truly exceptional location and space, with fantastic service. It is almost tempting to try to keep it to myself",
+      "createdAt": "2020-02-22T14:26:01Z",
+      "id": 609094457,
+      "idStr": "609094457",
+      "listingId": 10123467,
+      "recipientId": 475053,
+      "collectionTag": null,
+      "listing": {
+        "id": 10123467,
+        "listingIdStr": "10123467",
+        "name": "Le Bijou MH6 Jacuzzi Penthouse Apartment"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "James",
+        "hasProfilePic": true,
+        "id": 475053,
+        "pictureUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "James",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Michael, thank you very much for your kind words! We are happy to welcome you again! Warmest wishes, James.",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Taylor",
+        "hasProfilePic": true,
+        "id": 6411705,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/f34450d5-c831-4936-8e50-c2a0fc8f5817.jpg?aki_policy=profile_x_medium",
+        "smartName": "Taylor",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/f34450d5-c831-4936-8e50-c2a0fc8f5817.jpg?aki_policy=profile_small"
+      },
+      "authorId": 6411705,
+      "canBeEdited": false,
+      "comments": "This is a wonderful spot! Truly the location can't be beat and the space is very stylish and modern. Jacuzzi was wonderful. I would definitely stay here again.",
+      "createdAt": "2019-06-14T14:24:46Z",
+      "id": 469312188,
+      "idStr": "469312188",
+      "listingId": 10123467,
+      "recipientId": 475053,
+      "collectionTag": null,
+      "listing": {
+        "id": 10123467,
+        "listingIdStr": "10123467",
+        "name": "Le Bijou MH6 Jacuzzi Penthouse Apartment"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "James",
+        "hasProfilePic": true,
+        "id": 475053,
+        "pictureUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "James",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Taylor, thank you very much for your lovely review! It is highly appreciated. We are truly happy that you had an enjoyable stay with us. I am looking forward to hosting you again very soon. Take care, James.",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Michael",
+        "hasProfilePic": true,
+        "id": 180383819,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/2e31d49f-5b46-480d-b12e-8c6df6ac59fc.jpg?aki_policy=profile_x_medium",
+        "smartName": "Michael",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/2e31d49f-5b46-480d-b12e-8c6df6ac59fc.jpg?aki_policy=profile_small"
+      },
+      "authorId": 180383819,
+      "canBeEdited": false,
+      "comments": "You are welcome to post my private comments.",
+      "createdAt": "2019-01-02T15:55:56Z",
+      "id": 366296012,
+      "idStr": "366296012",
+      "listingId": 10123467,
+      "recipientId": 475053,
+      "collectionTag": null,
+      "listing": {
+        "id": 10123467,
+        "listingIdStr": "10123467",
+        "name": "Le Bijou MH6 Jacuzzi Penthouse Apartment"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "James",
+        "hasProfilePic": true,
+        "id": 475053,
+        "pictureUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "James",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Michael, many thanks for sharing your feedback and comments after your stay! We will be very pleased to welcome you as our guests again, so come back at any time! All the best, James",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Charles",
+        "hasProfilePic": true,
+        "id": 12255190,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/a70b005b-a3d0-462a-8aca-60ae7c694340.jpg?aki_policy=profile_x_medium",
+        "smartName": "Charles",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/a70b005b-a3d0-462a-8aca-60ae7c694340.jpg?aki_policy=profile_small"
+      },
+      "authorId": 12255190,
+      "canBeEdited": false,
+      "comments": "wonderful location and exceptional service",
+      "createdAt": "2018-11-09T13:28:10Z",
+      "id": 346581504,
+      "idStr": "346581504",
+      "listingId": 10123467,
+      "recipientId": 475053,
+      "collectionTag": null,
+      "listing": {
+        "id": 10123467,
+        "listingIdStr": "10123467",
+        "name": "Le Bijou MH6 Jacuzzi Penthouse Apartment"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "James",
+        "hasProfilePic": true,
+        "id": 475053,
+        "pictureUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "James",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Kelye",
+        "hasProfilePic": true,
+        "id": 120363684,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/c1c0c855-6cfd-4cc4-aa9d-c57cecd8e924.jpg?aki_policy=profile_x_medium",
+        "smartName": "Kelye",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/c1c0c855-6cfd-4cc4-aa9d-c57cecd8e924.jpg?aki_policy=profile_small"
+      },
+      "authorId": 120363684,
+      "canBeEdited": false,
+      "comments": "Easy check in",
+      "createdAt": "2018-06-25T11:05:02Z",
+      "id": 281538674,
+      "idStr": "281538674",
+      "listingId": 10123467,
+      "recipientId": 475053,
+      "collectionTag": null,
+      "listing": {
+        "id": 10123467,
+        "listingIdStr": "10123467",
+        "name": "Le Bijou MH6 Jacuzzi Penthouse Apartment"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "James",
+        "hasProfilePic": true,
+        "id": 475053,
+        "pictureUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "James",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Kelye, thank you for your review and for staying with us! It was a pleasure hosting you. All the best, James",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Michael",
+        "hasProfilePic": true,
+        "id": 14913801,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/1e2c7c88-aea4-4056-99c1-4161008a1a91.jpg?aki_policy=profile_x_medium",
+        "smartName": "Michael",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/1e2c7c88-aea4-4056-99c1-4161008a1a91.jpg?aki_policy=profile_small"
+      },
+      "authorId": 14913801,
+      "canBeEdited": false,
+      "comments": "Very expensive.  Location is great and It is the place in the pictures, but the pictures are really nice.  It has only one smallish window looking out over the square.  You have to walk up one flight of stairs with your heavy luggage before you get to the lift.  All in all for my taste it was a lot of money for what you get.  The host has a service that was responsive to our needs.  We couldn’t figure out how to get the air conditioning to work.  They sent someone fairly quickly, within an hour, to show us how to operate it.  Unfortunately you couldn’t do laundry and have the air conditioning on at the same time which was annoying.  Also there is no air conditioning outside of the bedrooms.  It’s not bad just very expensive for what you get.",
+      "createdAt": "2018-06-20T11:25:32Z",
+      "id": 279228032,
+      "idStr": "279228032",
+      "listingId": 10123467,
+      "recipientId": 475053,
+      "collectionTag": null,
+      "listing": {
+        "id": 10123467,
+        "listingIdStr": "10123467",
+        "name": "Le Bijou MH6 Jacuzzi Penthouse Apartment"
+      },
+      "rating": 4,
+      "recipient": {
+        "firstName": "James",
+        "hasProfilePic": true,
+        "id": 475053,
+        "pictureUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "James",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Beta",
+        "hasProfilePic": true,
+        "id": 96345629,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/f2318e17-ae49-4b68-aa9d-5df74e1e943d.jpg?aki_policy=profile_x_medium",
+        "smartName": "Beta",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/f2318e17-ae49-4b68-aa9d-5df74e1e943d.jpg?aki_policy=profile_small"
+      },
+      "authorId": 96345629,
+      "canBeEdited": false,
+      "comments": "Host made us feel welcome!  Great apartment and location!  Host was very amenable to our late checkout.  Will book again.  ",
+      "createdAt": "2016-09-30T09:09:06Z",
+      "id": 105106619,
+      "idStr": "105106619",
+      "listingId": 10123467,
+      "recipientId": 475053,
+      "collectionTag": null,
+      "listing": {
+        "id": 10123467,
+        "listingIdStr": "10123467",
+        "name": "Le Bijou MH6 Jacuzzi Penthouse Apartment"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "James",
+        "hasProfilePic": true,
+        "id": 475053,
+        "pictureUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "James",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Beta, thank you for your nice review. We'll be waiting for your next booking:) All the best, James",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Oscar",
+        "hasProfilePic": true,
+        "id": 5408267,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/a5f0acde-c960-4a93-a0ed-65cf4f56641b.jpg?aki_policy=profile_x_medium",
+        "smartName": "Oscar",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/a5f0acde-c960-4a93-a0ed-65cf4f56641b.jpg?aki_policy=profile_small"
+      },
+      "authorId": 5408267,
+      "canBeEdited": false,
+      "comments": "I don't know how to start .!!! I will just say that this is THE BEST APARTMENT in ZURICH ..!!!! BY FAR..!! Everything was easy ..!! the communication fast and the UNIT huge and Spotless..!!!!!\r\nI'm glad I did make that  choice ,  The price is NOT a reflection of the luxury that you get  once you enter to this beautiful place.\r\n\r\nI will recommend this Apartment to anyone who likes upscale life.\r\n\r\nRegards\r\n\r\nOscar",
+      "createdAt": "2016-04-26T02:34:54Z",
+      "id": 71473425,
+      "idStr": "71473425",
+      "listingId": 10123467,
+      "recipientId": 475053,
+      "collectionTag": null,
+      "listing": {
+        "id": 10123467,
+        "listingIdStr": "10123467",
+        "name": "Le Bijou MH6 Jacuzzi Penthouse Apartment"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "James",
+        "hasProfilePic": true,
+        "id": 475053,
+        "pictureUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "James",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Oscar\r\nThank you very much for your positive review. We try to do more in the future when this apartment is being upgraded to a Le Bijou Apartment and hope to see you soon again! Just to make you curious: It will be worth visiting it again :) Cheers, James",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Marsha",
+        "hasProfilePic": true,
+        "id": 15512597,
+        "pictureUrl": "https://a0.muscache.com/im/users/15512597/profile_pic/1400076162/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Marsha",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/15512597/profile_pic/1400076162/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 15512597,
+      "canBeEdited": false,
+      "comments": "A beautiful apartment in the TOP location in Zurich; the apartment was spacious, light and sunny, with a stunning view. We celebrated our son's wedding with a family dinner cooked and served in this well equipped apartment. It was a perfect home base where everyone could relax and have a glass of wine between events!\r\nThe host was super - very attentive and friendly. I would recommend this for a luxury business stay, a honeymoon suite or getaway, or a family apartment. Thank you!",
+      "createdAt": "2016-02-21T15:07:14Z",
+      "id": 63187342,
+      "idStr": "63187342",
+      "listingId": 10123467,
+      "recipientId": 475053,
+      "collectionTag": null,
+      "listing": {
+        "id": 10123467,
+        "listingIdStr": "10123467",
+        "name": "Le Bijou MH6 Jacuzzi Penthouse Apartment"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "James",
+        "hasProfilePic": true,
+        "id": 475053,
+        "pictureUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "James",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Kislinskii",
+        "hasProfilePic": true,
+        "id": 138788874,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/d48f2b30-11e1-46cb-9d07-5651eb8fd24f.jpg?aki_policy=profile_x_medium",
+        "smartName": "Kislinskii",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/d48f2b30-11e1-46cb-9d07-5651eb8fd24f.jpg?aki_policy=profile_small"
+      },
+      "authorId": 138788874,
+      "canBeEdited": false,
+      "comments": "Fantastic.",
+      "createdAt": "2021-01-20T13:14:46Z",
+      "id": 725605234,
+      "idStr": "725605234",
+      "listingId": 10123467,
+      "recipientId": 475053,
+      "collectionTag": null,
+      "listing": {
+        "id": 10123467,
+        "listingIdStr": "10123467",
+        "name": "Le Bijou MH6 Jacuzzi Penthouse Apartment"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "James",
+        "hasProfilePic": true,
+        "id": 475053,
+        "pictureUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "James",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 1314,
+      "amount_formatted": "1,314 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1314,
+      "amount_formatted": "1,314 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/53178725",
+  "name": "Director office/living 140 m2 Loft in city center",
+  "numberOfGuests": 2,
+  "address": "Zug, Switzerland",
+  "roomType": "Entire villa",
+  "location": {
+    "lat": 47.1807,
+    "lng": 8.51879
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 1550,
+      "amount_formatted": "1,550 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1550,
+      "amount_formatted": "1,550 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/23802342",
+  "name": "A Night on the Lake",
+  "numberOfGuests": 2,
+  "address": "Zürich, Switzerland",
+  "roomType": "Boat",
+  "location": {
+    "lat": 47.36585,
+    "lng": 8.54254
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 1500,
+      "amount_formatted": "1,500 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1500,
+      "amount_formatted": "1,500 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/34590010",
+  "name": "Traditional luxury Swiss house & charming cellar",
+  "stars": 5,
+  "numberOfGuests": 8,
+  "address": "Rüschlikon, Zurich, Switzerland",
+  "roomType": "Entire residential home",
+  "location": {
+    "lat": 47.30214,
+    "lng": 8.55739
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Angela",
+        "hasProfilePic": true,
+        "id": 348088725,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/3502d815-1734-43f5-ba4d-f883c5e56507.jpg?aki_policy=profile_x_medium",
+        "smartName": "Angela",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/3502d815-1734-43f5-ba4d-f883c5e56507.jpg?aki_policy=profile_small"
+      },
+      "authorId": 348088725,
+      "canBeEdited": false,
+      "comments": "This is an amazingly unique property.  We stayed here with our 2 children, ages 7 and 9, while moving into our new home in the area.  The house has plenty of space to explore, everyone was able to spread-out.  We walked into town, took advantage of a local playground and enjoyed the yard area that included a trampoline!  It is an older home, so you need to be cautious on the stairways.  Very fun mix of old and new décor.  Beds were comfortable too.  We'd recommend it to any friends and relatives that would come to visit us.",
+      "createdAt": "2021-10-20T14:25:46Z",
+      "id": 477338192741320100,
+      "idStr": "477338192741320105",
+      "listingId": 34590010,
+      "recipientId": 11898101,
+      "collectionTag": null,
+      "listing": {
+        "id": 34590010,
+        "listingIdStr": "34590010",
+        "name": "Traditional luxury Swiss house & charming cellar"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Amanda",
+        "hasProfilePic": true,
+        "id": 11898101,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/1081726e-3905-4956-bc91-fd13b4c0839b.jpg?aki_policy=profile_x_medium",
+        "smartName": "Amanda",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/1081726e-3905-4956-bc91-fd13b4c0839b.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Nicolas",
+        "hasProfilePic": true,
+        "id": 149815132,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/9c8743b4-b343-4c84-99ba-b70c9ef53965.jpg?aki_policy=profile_x_medium",
+        "smartName": "Nicolas",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/9c8743b4-b343-4c84-99ba-b70c9ef53965.jpg?aki_policy=profile_small"
+      },
+      "authorId": 149815132,
+      "canBeEdited": false,
+      "comments": "Great place with an authentic atmosphere of an old farm. Close to facilities and Zurich center. I do definitely recommend a stay there !\n\nthank you to Amenda , regards\n\nNicolas",
+      "createdAt": "2021-11-14T13:10:46Z",
+      "id": 495419834869620100,
+      "idStr": "495419834869620103",
+      "listingId": 34590010,
+      "recipientId": 11898101,
+      "collectionTag": null,
+      "listing": {
+        "id": 34590010,
+        "listingIdStr": "34590010",
+        "name": "Traditional luxury Swiss house & charming cellar"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Amanda",
+        "hasProfilePic": true,
+        "id": 11898101,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/1081726e-3905-4956-bc91-fd13b4c0839b.jpg?aki_policy=profile_x_medium",
+        "smartName": "Amanda",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/1081726e-3905-4956-bc91-fd13b4c0839b.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Whitney",
+        "hasProfilePic": true,
+        "id": 69792737,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/67d4e627-7e23-4f85-a112-6b617eb5f4eb.jpg?aki_policy=profile_x_medium",
+        "smartName": "Whitney",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/67d4e627-7e23-4f85-a112-6b617eb5f4eb.jpg?aki_policy=profile_small"
+      },
+      "authorId": 69792737,
+      "canBeEdited": false,
+      "comments": "The cellar is awesome!  We really enjoyed our stay and the house is an easy 40 min drive to Lucerne.  I would stay here again for sure!",
+      "createdAt": "2021-10-10T11:57:22Z",
+      "id": 470015742747532600,
+      "idStr": "470015742747532601",
+      "listingId": 34590010,
+      "recipientId": 11898101,
+      "collectionTag": null,
+      "listing": {
+        "id": 34590010,
+        "listingIdStr": "34590010",
+        "name": "Traditional luxury Swiss house & charming cellar"
+      },
+      "rating": 4,
+      "recipient": {
+        "firstName": "Amanda",
+        "hasProfilePic": true,
+        "id": 11898101,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/1081726e-3905-4956-bc91-fd13b4c0839b.jpg?aki_policy=profile_x_medium",
+        "smartName": "Amanda",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/1081726e-3905-4956-bc91-fd13b4c0839b.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Géraldine",
+        "hasProfilePic": true,
+        "id": 394637818,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/3c26007f-d135-4453-b274-0aa8928c0354.jpg?aki_policy=profile_x_medium",
+        "smartName": "Géraldine",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/3c26007f-d135-4453-b274-0aa8928c0354.jpg?aki_policy=profile_small"
+      },
+      "authorId": 394637818,
+      "canBeEdited": false,
+      "comments": "Very nice house with a beautiful cellar!",
+      "createdAt": "2021-05-22T12:37:06Z",
+      "id": 760896835,
+      "idStr": "760896835",
+      "listingId": 34590010,
+      "recipientId": 11898101,
+      "collectionTag": null,
+      "listing": {
+        "id": 34590010,
+        "listingIdStr": "34590010",
+        "name": "Traditional luxury Swiss house & charming cellar"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Amanda",
+        "hasProfilePic": true,
+        "id": 11898101,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/1081726e-3905-4956-bc91-fd13b4c0839b.jpg?aki_policy=profile_x_medium",
+        "smartName": "Amanda",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/1081726e-3905-4956-bc91-fd13b4c0839b.jpg?aki_policy=profile_small"
+      },
+      "response": "The cellar rocks :)",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Stefan",
+        "hasProfilePic": true,
+        "id": 75395485,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/0c62a34b-9c36-45da-b4e7-48d0b1c3a9b4.jpg?aki_policy=profile_x_medium",
+        "smartName": "Stefan",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/0c62a34b-9c36-45da-b4e7-48d0b1c3a9b4.jpg?aki_policy=profile_small"
+      },
+      "authorId": 75395485,
+      "canBeEdited": false,
+      "comments": "Fancy house.",
+      "createdAt": "2021-01-03T12:40:37Z",
+      "id": 721318626,
+      "idStr": "721318626",
+      "listingId": 34590010,
+      "recipientId": 11898101,
+      "collectionTag": null,
+      "listing": {
+        "id": 34590010,
+        "listingIdStr": "34590010",
+        "name": "Traditional luxury Swiss house & charming cellar"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Amanda",
+        "hasProfilePic": true,
+        "id": 11898101,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/1081726e-3905-4956-bc91-fd13b4c0839b.jpg?aki_policy=profile_x_medium",
+        "smartName": "Amanda",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/1081726e-3905-4956-bc91-fd13b4c0839b.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Christopher",
+        "hasProfilePic": true,
+        "id": 145945836,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/026e3884-ea36-4f2e-975b-408254896b8d.jpg?aki_policy=profile_x_medium",
+        "smartName": "Christopher",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/026e3884-ea36-4f2e-975b-408254896b8d.jpg?aki_policy=profile_small"
+      },
+      "authorId": 145945836,
+      "canBeEdited": false,
+      "comments": "A great stay in a unique house in a lovely area with plenty to explore.",
+      "createdAt": "2019-08-12T15:27:46Z",
+      "id": 508162176,
+      "idStr": "508162176",
+      "listingId": 34590010,
+      "recipientId": 11898101,
+      "collectionTag": null,
+      "listing": {
+        "id": 34590010,
+        "listingIdStr": "34590010",
+        "name": "Traditional luxury Swiss house & charming cellar"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Amanda",
+        "hasProfilePic": true,
+        "id": 11898101,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/1081726e-3905-4956-bc91-fd13b4c0839b.jpg?aki_policy=profile_x_medium",
+        "smartName": "Amanda",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/1081726e-3905-4956-bc91-fd13b4c0839b.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 1268,
+      "amount_formatted": "1,268 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1268,
+      "amount_formatted": "1,268 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/46385718",
+  "name": "Junior Suite für 2 Personen inkl. Frühstück",
+  "numberOfGuests": 2,
+  "address": "Zürich, Switzerland",
+  "roomType": "Room in boutique hotel",
+  "location": {
+    "lat": 47.36007,
+    "lng": 8.54889
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 1500,
+      "amount_formatted": "1,500 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1500,
+      "amount_formatted": "1,500 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/11006986",
+  "name": "Beautiful Mansion on the lake of Zurich",
+  "stars": 4.5,
+  "numberOfGuests": 8,
+  "address": "Horgen, Zürich, Switzerland",
+  "roomType": "Entire villa",
+  "location": {
+    "lat": 47.25076,
+    "lng": 8.62447
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Gina",
+        "hasProfilePic": true,
+        "id": 182173535,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/7c07e3ab-d304-4973-84f2-472716f6a124.jpg?aki_policy=profile_x_medium",
+        "smartName": "Gina",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/7c07e3ab-d304-4973-84f2-472716f6a124.jpg?aki_policy=profile_small"
+      },
+      "authorId": 182173535,
+      "canBeEdited": false,
+      "comments": "Superb view. Great location. Easy public transportation to Zurich and all of central Switzerland. Convenient parking.  Patrick, as host, is gracious, responsive, and very helpful with activity suggestions.",
+      "createdAt": "2019-07-06T14:37:00Z",
+      "id": 482378856,
+      "idStr": "482378856",
+      "listingId": 11006986,
+      "recipientId": 22004663,
+      "collectionTag": null,
+      "listing": {
+        "id": 11006986,
+        "listingIdStr": "11006986",
+        "name": "Beautiful Mansion on the lake of Zurich"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Patrick",
+        "hasProfilePic": true,
+        "id": 22004663,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/e68f64dc-d1f8-444f-adb8-9f762993f595.jpg?aki_policy=profile_x_medium",
+        "smartName": "Patrick",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/e68f64dc-d1f8-444f-adb8-9f762993f595.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Ryan",
+        "hasProfilePic": true,
+        "id": 329115325,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/d120470a-933b-474b-8ecd-02e3d54a5256.jpg?aki_policy=profile_x_medium",
+        "smartName": "Ryan",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/d120470a-933b-474b-8ecd-02e3d54a5256.jpg?aki_policy=profile_small"
+      },
+      "authorId": 329115325,
+      "canBeEdited": false,
+      "comments": "The listing oversells the place. We only had access to a few of the rooms in the house, and the only common area we had was outside.  \n\nOne of the sinks leaked and made a mess upstairs.\n\nThe owner keeps a cat in the home and didn’t tell us until the day before. One of our guests was allergic and the owner then offered to put the cat up elsewhere, but the cat was in the kitchen when we arrived and there was a sign on the door telling us to just not go in there. \n\nThe host wasn’t ready when we arrived. The cleaning lady was supposed to let us in but she wasn’t there when we showed up. \n\nFor the price of this place and the posting we were pretty disappointed with what we got",
+      "createdAt": "2021-08-16T12:53:09Z",
+      "id": 430181147765833100,
+      "idStr": "430181147765833102",
+      "listingId": 11006986,
+      "recipientId": 22004663,
+      "collectionTag": null,
+      "listing": {
+        "id": 11006986,
+        "listingIdStr": "11006986",
+        "name": "Beautiful Mansion on the lake of Zurich"
+      },
+      "rating": 2,
+      "recipient": {
+        "firstName": "Patrick",
+        "hasProfilePic": true,
+        "id": 22004663,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/e68f64dc-d1f8-444f-adb8-9f762993f595.jpg?aki_policy=profile_x_medium",
+        "smartName": "Patrick",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/e68f64dc-d1f8-444f-adb8-9f762993f595.jpg?aki_policy=profile_small"
+      },
+      "response": "Unfair feedback, from a bunch of  young soldiers, not used to handle a flat nor even a house, already drunk when arrived, did not read the instructions, not followig the rules, left a big mess, bottles and cans everywhere. ... no respect.\r\nthat was the fist and last time renting to them, even for this price, as its half of the  full house, exactly like in the ad.",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Navid",
+        "hasProfilePic": true,
+        "id": 88970518,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/14892c5a-f877-461f-aff0-c7151e49b44e.jpg?aki_policy=profile_x_medium",
+        "smartName": "Navid",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/14892c5a-f877-461f-aff0-c7151e49b44e.jpg?aki_policy=profile_small"
+      },
+      "authorId": 88970518,
+      "canBeEdited": false,
+      "comments": "Location is cool, I would recommend a trip on the lake if the weather is good",
+      "createdAt": "2019-08-26T13:41:10Z",
+      "id": 518218723,
+      "idStr": "518218723",
+      "listingId": 11006986,
+      "recipientId": 22004663,
+      "collectionTag": null,
+      "listing": {
+        "id": 11006986,
+        "listingIdStr": "11006986",
+        "name": "Beautiful Mansion on the lake of Zurich"
+      },
+      "rating": 4,
+      "recipient": {
+        "firstName": "Patrick",
+        "hasProfilePic": true,
+        "id": 22004663,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/e68f64dc-d1f8-444f-adb8-9f762993f595.jpg?aki_policy=profile_x_medium",
+        "smartName": "Patrick",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/e68f64dc-d1f8-444f-adb8-9f762993f595.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Mrym",
+        "hasProfilePic": false,
+        "id": 40583144,
+        "pictureUrl": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+        "smartName": "Mrym",
+        "thumbnailUrl": "https://a0.muscache.com/defaults/user_pic-50x50.png?v=3"
+      },
+      "authorId": 40583144,
+      "canBeEdited": false,
+      "comments": "Nice vila nice place near zurch \nMr.bitk  was helpful",
+      "createdAt": "2019-08-10T11:19:12Z",
+      "id": 505974575,
+      "idStr": "505974575",
+      "listingId": 11006986,
+      "recipientId": 22004663,
+      "collectionTag": null,
+      "listing": {
+        "id": 11006986,
+        "listingIdStr": "11006986",
+        "name": "Beautiful Mansion on the lake of Zurich"
+      },
+      "rating": 4,
+      "recipient": {
+        "firstName": "Patrick",
+        "hasProfilePic": true,
+        "id": 22004663,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/e68f64dc-d1f8-444f-adb8-9f762993f595.jpg?aki_policy=profile_x_medium",
+        "smartName": "Patrick",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/e68f64dc-d1f8-444f-adb8-9f762993f595.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Valerie",
+        "hasProfilePic": true,
+        "id": 16577721,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/93ddafb3-cb65-42c4-af92-cbc378e4f267.jpg?aki_policy=profile_x_medium",
+        "smartName": "Valerie",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/93ddafb3-cb65-42c4-af92-cbc378e4f267.jpg?aki_policy=profile_small"
+      },
+      "authorId": 16577721,
+      "canBeEdited": false,
+      "comments": "Nice apartment in a villa where the owner lives with a beautiful garden which you can enter when they aren’t there. Nice location with view on the lake and some nice parks in the neighborhood.",
+      "createdAt": "2019-07-22T13:41:17Z",
+      "id": 493306796,
+      "idStr": "493306796",
+      "listingId": 11006986,
+      "recipientId": 22004663,
+      "collectionTag": null,
+      "listing": {
+        "id": 11006986,
+        "listingIdStr": "11006986",
+        "name": "Beautiful Mansion on the lake of Zurich"
+      },
+      "rating": 4,
+      "recipient": {
+        "firstName": "Patrick",
+        "hasProfilePic": true,
+        "id": 22004663,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/e68f64dc-d1f8-444f-adb8-9f762993f595.jpg?aki_policy=profile_x_medium",
+        "smartName": "Patrick",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/e68f64dc-d1f8-444f-adb8-9f762993f595.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Martha",
+        "hasProfilePic": true,
+        "id": 172676165,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/1945f768-68cb-4985-b600-635dd31636e4.jpg?aki_policy=profile_x_medium",
+        "smartName": "Martha",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/1945f768-68cb-4985-b600-635dd31636e4.jpg?aki_policy=profile_small"
+      },
+      "authorId": 172676165,
+      "canBeEdited": false,
+      "comments": "The host canceled this reservation the day before arrival. This is an automated posting.",
+      "createdAt": "2018-08-07T15:47:03Z",
+      "id": 303484149,
+      "idStr": "303484149",
+      "listingId": 11006986,
+      "recipientId": 22004663,
+      "collectionTag": null,
+      "listing": {
+        "id": 11006986,
+        "listingIdStr": "11006986",
+        "name": "Beautiful Mansion on the lake of Zurich"
+      },
+      "rating": 0,
+      "recipient": {
+        "firstName": "Patrick",
+        "hasProfilePic": true,
+        "id": 22004663,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/e68f64dc-d1f8-444f-adb8-9f762993f595.jpg?aki_policy=profile_x_medium",
+        "smartName": "Patrick",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/e68f64dc-d1f8-444f-adb8-9f762993f595.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Sebastian",
+        "hasProfilePic": true,
+        "id": 176507039,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/916b30f2-9c4e-4d65-ae42-6d64e91aef98.jpg?aki_policy=profile_x_medium",
+        "smartName": "Sebastian",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/916b30f2-9c4e-4d65-ae42-6d64e91aef98.jpg?aki_policy=profile_small"
+      },
+      "authorId": 176507039,
+      "canBeEdited": false,
+      "comments": "The host canceled this reservation 87 days before arrival. This is an automated posting.",
+      "createdAt": "2018-05-27T09:52:15Z",
+      "id": 269205198,
+      "idStr": "269205198",
+      "listingId": 11006986,
+      "recipientId": 22004663,
+      "collectionTag": null,
+      "listing": {
+        "id": 11006986,
+        "listingIdStr": "11006986",
+        "name": "Beautiful Mansion on the lake of Zurich"
+      },
+      "rating": 0,
+      "recipient": {
+        "firstName": "Patrick",
+        "hasProfilePic": true,
+        "id": 22004663,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/e68f64dc-d1f8-444f-adb8-9f762993f595.jpg?aki_policy=profile_x_medium",
+        "smartName": "Patrick",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/e68f64dc-d1f8-444f-adb8-9f762993f595.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Claire",
+        "hasProfilePic": true,
+        "id": 171251186,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/f2df24bc-94d1-48f7-bba7-b5e17d63ec49.jpg?aki_policy=profile_x_medium",
+        "smartName": "Claire",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/f2df24bc-94d1-48f7-bba7-b5e17d63ec49.jpg?aki_policy=profile_small"
+      },
+      "authorId": 171251186,
+      "canBeEdited": false,
+      "comments": "We had a very good time in Patrick's house. The view is really great and the house is spacious  and well located, not far from Zurich and the main places to visit.",
+      "createdAt": "2018-05-04T06:41:20Z",
+      "id": 260225661,
+      "idStr": "260225661",
+      "listingId": 11006986,
+      "recipientId": 22004663,
+      "collectionTag": null,
+      "listing": {
+        "id": 11006986,
+        "listingIdStr": "11006986",
+        "name": "Beautiful Mansion on the lake of Zurich"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Patrick",
+        "hasProfilePic": true,
+        "id": 22004663,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/e68f64dc-d1f8-444f-adb8-9f762993f595.jpg?aki_policy=profile_x_medium",
+        "smartName": "Patrick",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/e68f64dc-d1f8-444f-adb8-9f762993f595.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Yubin",
+        "hasProfilePic": true,
+        "id": 25142494,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/265bb539-18c5-4f1c-a13e-0b0eaa568859.jpg?aki_policy=profile_x_medium",
+        "smartName": "Yubin",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/265bb539-18c5-4f1c-a13e-0b0eaa568859.jpg?aki_policy=profile_small"
+      },
+      "authorId": 25142494,
+      "canBeEdited": false,
+      "comments": "The house is large, upstairs is the room, downstairs is the living room and activity area. fully equipped. Easy parking. The house looked at the lake, the scenery is good. very quiet. Sir Patrick was very hospitable and gift us an Italian champagne.",
+      "createdAt": "2018-02-19T14:31:52Z",
+      "id": 236435712,
+      "idStr": "236435712",
+      "listingId": 11006986,
+      "recipientId": 22004663,
+      "collectionTag": null,
+      "listing": {
+        "id": 11006986,
+        "listingIdStr": "11006986",
+        "name": "Beautiful Mansion on the lake of Zurich"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Patrick",
+        "hasProfilePic": true,
+        "id": 22004663,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/e68f64dc-d1f8-444f-adb8-9f762993f595.jpg?aki_policy=profile_x_medium",
+        "smartName": "Patrick",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/e68f64dc-d1f8-444f-adb8-9f762993f595.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Aurel",
+        "hasProfilePic": true,
+        "id": 24041925,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/7325979c-fe89-49f2-8b91-c20e90d45577.jpg?aki_policy=profile_x_medium",
+        "smartName": "Aurel",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/7325979c-fe89-49f2-8b91-c20e90d45577.jpg?aki_policy=profile_small"
+      },
+      "authorId": 24041925,
+      "canBeEdited": false,
+      "comments": "Great house ! We loved it",
+      "createdAt": "2017-10-19T11:28:34Z",
+      "id": 204629222,
+      "idStr": "204629222",
+      "listingId": 11006986,
+      "recipientId": 22004663,
+      "collectionTag": null,
+      "listing": {
+        "id": 11006986,
+        "listingIdStr": "11006986",
+        "name": "Beautiful Mansion on the lake of Zurich"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Patrick",
+        "hasProfilePic": true,
+        "id": 22004663,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/e68f64dc-d1f8-444f-adb8-9f762993f595.jpg?aki_policy=profile_x_medium",
+        "smartName": "Patrick",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/e68f64dc-d1f8-444f-adb8-9f762993f595.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 1700,
+      "amount_formatted": "1,700 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1700,
+      "amount_formatted": "1,700 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/46367584",
+  "name": "Junior Suite für 3 Personen inkl. Frühstück",
+  "numberOfGuests": 3,
+  "address": "Zürich, Switzerland",
+  "roomType": "Room in boutique hotel",
+  "location": {
+    "lat": 47.35925,
+    "lng": 8.54884
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 1500,
+      "amount_formatted": "1,500 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1500,
+      "amount_formatted": "1,500 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/35835296",
+  "name": "Le Bijou Bahnhofstrasse / Paradeplatz LB18C",
+  "stars": 5,
+  "numberOfGuests": 2,
+  "address": "Zürich, Switzerland",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 47.369,
+    "lng": 8.54
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Danielle",
+        "hasProfilePic": true,
+        "id": 2070064,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/45b8c690-70ce-43c7-a405-7afa28eac59d.jpg?aki_policy=profile_x_medium",
+        "smartName": "Danielle",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/45b8c690-70ce-43c7-a405-7afa28eac59d.jpg?aki_policy=profile_small"
+      },
+      "authorId": 2070064,
+      "canBeEdited": false,
+      "comments": "This is a real gem near everything. Clean, super easy check in, comfortable.  10/10 would  stay again",
+      "createdAt": "2021-10-09T11:45:36Z",
+      "id": 469285039207296900,
+      "idStr": "469285039207296925",
+      "listingId": 35835296,
+      "recipientId": 475053,
+      "collectionTag": null,
+      "listing": {
+        "id": 35835296,
+        "listingIdStr": "35835296",
+        "name": "Le Bijou Bahnhofstrasse / Paradeplatz LB18C"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "James",
+        "hasProfilePic": true,
+        "id": 475053,
+        "pictureUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "James",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Danielle, we are glad you enjoyed your time:) Kind Regards, James",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Daniel V",
+        "hasProfilePic": true,
+        "id": 82376853,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/30d9607c-2ca7-4d68-a3e0-1bf365b34d82.jpg?aki_policy=profile_x_medium",
+        "smartName": "Daniel V",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/30d9607c-2ca7-4d68-a3e0-1bf365b34d82.jpg?aki_policy=profile_small"
+      },
+      "authorId": 82376853,
+      "canBeEdited": false,
+      "comments": "N",
+      "createdAt": "2021-09-20T13:49:56Z",
+      "id": 455576881083957060,
+      "idStr": "455576881083957032",
+      "listingId": 35835296,
+      "recipientId": 475053,
+      "collectionTag": null,
+      "listing": {
+        "id": 35835296,
+        "listingIdStr": "35835296",
+        "name": "Le Bijou Bahnhofstrasse / Paradeplatz LB18C"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "James",
+        "hasProfilePic": true,
+        "id": 475053,
+        "pictureUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "James",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Danielle",
+        "hasProfilePic": true,
+        "id": 2070064,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/45b8c690-70ce-43c7-a405-7afa28eac59d.jpg?aki_policy=profile_x_medium",
+        "smartName": "Danielle",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/45b8c690-70ce-43c7-a405-7afa28eac59d.jpg?aki_policy=profile_small"
+      },
+      "authorId": 2070064,
+      "canBeEdited": false,
+      "comments": "This was a great location and really well laid out apt. Everything anyone could ask for was taken care of.  Directions we easy, check in was simple.  I would definitely recommend this place for individuals or a couple to stay in Zurich.",
+      "createdAt": "2021-09-04T13:10:21Z",
+      "id": 443960548259425540,
+      "idStr": "443960548259425529",
+      "listingId": 35835296,
+      "recipientId": 475053,
+      "collectionTag": null,
+      "listing": {
+        "id": 35835296,
+        "listingIdStr": "35835296",
+        "name": "Le Bijou Bahnhofstrasse / Paradeplatz LB18C"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "James",
+        "hasProfilePic": true,
+        "id": 475053,
+        "pictureUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "James",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Danielle, thank you very much for your  kind words! Take care, James.",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Arjun",
+        "hasProfilePic": true,
+        "id": 263054707,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/8f511f94-99ad-4b71-a0e0-580b7f639f29.jpg?aki_policy=profile_x_medium",
+        "smartName": "Arjun",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/8f511f94-99ad-4b71-a0e0-580b7f639f29.jpg?aki_policy=profile_small"
+      },
+      "authorId": 263054707,
+      "canBeEdited": false,
+      "comments": "Great apartment. Super central location. Nice finishings and toilet as well. Almost like a hotel with a kitchen.",
+      "createdAt": "2021-06-25T11:07:43Z",
+      "id": 392439749915374000,
+      "idStr": "392439749915374026",
+      "listingId": 35835296,
+      "recipientId": 475053,
+      "collectionTag": null,
+      "listing": {
+        "id": 35835296,
+        "listingIdStr": "35835296",
+        "name": "Le Bijou Bahnhofstrasse / Paradeplatz LB18C"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "James",
+        "hasProfilePic": true,
+        "id": 475053,
+        "pictureUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "James",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_small"
+      },
+      "response": "Thank you very much for your nice review! I am happy you liked it here) Cheers, James",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Oluwaseun",
+        "hasProfilePic": true,
+        "id": 119087295,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b9ade59e-e8a0-46d5-a9c6-627bb62e655b.jpg?aki_policy=profile_x_medium",
+        "smartName": "Oluwaseun",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b9ade59e-e8a0-46d5-a9c6-627bb62e655b.jpg?aki_policy=profile_small"
+      },
+      "authorId": 119087295,
+      "canBeEdited": false,
+      "comments": "Great location , seamless checking, I will definitely stay here again.",
+      "createdAt": "2021-05-16T12:49:21Z",
+      "id": 758795044,
+      "idStr": "758795044",
+      "listingId": 35835296,
+      "recipientId": 475053,
+      "collectionTag": null,
+      "listing": {
+        "id": 35835296,
+        "listingIdStr": "35835296",
+        "name": "Le Bijou Bahnhofstrasse / Paradeplatz LB18C"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "James",
+        "hasProfilePic": true,
+        "id": 475053,
+        "pictureUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "James",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Oluwaseun, thank you very much for your amazing review! We will be happy to host you again :)",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Vygaudas",
+        "hasProfilePic": true,
+        "id": 432001570,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/e124d995-9bdc-483d-9da7-5eff30fb77c2.jpg?aki_policy=profile_x_medium",
+        "smartName": "Vygaudas",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/e124d995-9bdc-483d-9da7-5eff30fb77c2.jpg?aki_policy=profile_small"
+      },
+      "authorId": 432001570,
+      "canBeEdited": false,
+      "comments": "The apartment is Great, perfectly located, easy access and extremely friendly host. \nIf a property could be rated six stars this one would be it!",
+      "createdAt": "2021-12-06T13:46:40Z",
+      "id": 511382969281859500,
+      "idStr": "511382969281859529",
+      "listingId": 35835296,
+      "recipientId": 475053,
+      "collectionTag": null,
+      "listing": {
+        "id": 35835296,
+        "listingIdStr": "35835296",
+        "name": "Le Bijou Bahnhofstrasse / Paradeplatz LB18C"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "James",
+        "hasProfilePic": true,
+        "id": 475053,
+        "pictureUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "James",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_small"
+      },
+      "response": "Thank you very much for your lovely review! I am happy to read it :)",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Raphael",
+        "hasProfilePic": true,
+        "id": 47136652,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/43c83228-e9ff-4966-a9b8-44cd7d6cf0e4.jpg?aki_policy=profile_x_medium",
+        "smartName": "Raphael",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/43c83228-e9ff-4966-a9b8-44cd7d6cf0e4.jpg?aki_policy=profile_small"
+      },
+      "authorId": 47136652,
+      "canBeEdited": false,
+      "comments": "Great location and modern flat with all amenities. Clean and smart. Easy check-in/out with door codes.",
+      "createdAt": "2021-10-14T11:10:13Z",
+      "id": 472891107958993100,
+      "idStr": "472891107958993066",
+      "listingId": 35835296,
+      "recipientId": 475053,
+      "collectionTag": null,
+      "listing": {
+        "id": 35835296,
+        "listingIdStr": "35835296",
+        "name": "Le Bijou Bahnhofstrasse / Paradeplatz LB18C"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "James",
+        "hasProfilePic": true,
+        "id": 475053,
+        "pictureUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "James",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_small"
+      },
+      "response": "Thank you very much, Raphael!",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Micael",
+        "hasProfilePic": true,
+        "id": 5505605,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/a0e9f504-9bdb-4074-b756-2d11c862b473.jpg?aki_policy=profile_x_medium",
+        "smartName": "Micael",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/a0e9f504-9bdb-4074-b756-2d11c862b473.jpg?aki_policy=profile_small"
+      },
+      "authorId": 5505605,
+      "canBeEdited": false,
+      "comments": "Very nice flat in a perfect location. Not huge but comfy and exactly as anticipated in photos.",
+      "createdAt": "2021-08-05T11:14:54Z",
+      "id": 422159168232659260,
+      "idStr": "422159168232659263",
+      "listingId": 35835296,
+      "recipientId": 475053,
+      "collectionTag": null,
+      "listing": {
+        "id": 35835296,
+        "listingIdStr": "35835296",
+        "name": "Le Bijou Bahnhofstrasse / Paradeplatz LB18C"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "James",
+        "hasProfilePic": true,
+        "id": 475053,
+        "pictureUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "James",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Micael, thank you for your feedback! We are very glad you have enjoyed your stay with us and hope you will come back in the future! \r\n\r\nRegards, James",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Marcos",
+        "hasProfilePic": true,
+        "id": 9054777,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/9e083885-9d9a-4800-970a-f23f746b73a5.jpg?aki_policy=profile_x_medium",
+        "smartName": "Marcos",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/9e083885-9d9a-4800-970a-f23f746b73a5.jpg?aki_policy=profile_small"
+      },
+      "authorId": 9054777,
+      "canBeEdited": false,
+      "comments": "Great apartament, best location in Zurich.",
+      "createdAt": "2021-07-16T11:11:14Z",
+      "id": 407661805238035100,
+      "idStr": "407661805238035069",
+      "listingId": 35835296,
+      "recipientId": 475053,
+      "collectionTag": null,
+      "listing": {
+        "id": 35835296,
+        "listingIdStr": "35835296",
+        "name": "Le Bijou Bahnhofstrasse / Paradeplatz LB18C"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "James",
+        "hasProfilePic": true,
+        "id": 475053,
+        "pictureUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "James",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Marcos,  thank you very much for being such an amazing guest! Hope to host you again soon! Cheers, James.",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Jonathan",
+        "hasProfilePic": true,
+        "id": 239126008,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/a3766984-831d-44e0-a259-5ebc21af30c6.jpg?aki_policy=profile_x_medium",
+        "smartName": "Jonathan",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/a3766984-831d-44e0-a259-5ebc21af30c6.jpg?aki_policy=profile_small"
+      },
+      "authorId": 239126008,
+      "canBeEdited": false,
+      "comments": "The appartment is very nice and has quick connections to all the important parts of the city. Clean and great service!",
+      "createdAt": "2021-04-10T14:49:14Z",
+      "id": 747337677,
+      "idStr": "747337677",
+      "listingId": 35835296,
+      "recipientId": 475053,
+      "collectionTag": null,
+      "listing": {
+        "id": 35835296,
+        "listingIdStr": "35835296",
+        "name": "Le Bijou Bahnhofstrasse / Paradeplatz LB18C"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "James",
+        "hasProfilePic": true,
+        "id": 475053,
+        "pictureUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "James",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/475053/profile_pic/1361399429/original.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Jonathan, thank you very much for your lovely review! That is truly appreciated! warm regards, James.",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 425,
+      "amount_formatted": "425 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 425,
+      "amount_formatted": "425 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/41921096",
+  "name": "Penthouse above the clouds (126 m2 / 14. floor)",
+  "stars": 5,
+  "numberOfGuests": 6,
+  "address": "Zürich, Switzerland",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 47.417,
+    "lng": 8.541
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Cameron",
+        "hasProfilePic": true,
+        "id": 318746357,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/8dac677f-71e6-4956-999c-ee6fd76cc9fc.jpg?aki_policy=profile_x_medium",
+        "smartName": "Cameron",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/8dac677f-71e6-4956-999c-ee6fd76cc9fc.jpg?aki_policy=profile_small"
+      },
+      "authorId": 318746357,
+      "canBeEdited": false,
+      "comments": "This is a beautiful apartment you wont regret it definitely top tier!",
+      "createdAt": "2021-11-14T15:07:56Z",
+      "id": 495478803271321900,
+      "idStr": "495478803271321951",
+      "listingId": 41921096,
+      "recipientId": 331668558,
+      "collectionTag": null,
+      "listing": {
+        "id": 41921096,
+        "listingIdStr": "41921096",
+        "name": "Penthouse above the clouds (126 m2 / 14. floor)"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Osterwalder",
+        "hasProfilePic": true,
+        "id": 331668558,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/7118c978-fb73-473f-b751-0b71e1b2f08d.jpg?aki_policy=profile_x_medium",
+        "smartName": "Osterwalder",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/7118c978-fb73-473f-b751-0b71e1b2f08d.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Kent",
+        "hasProfilePic": true,
+        "id": 53164681,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/89ebabe5-91b6-4b24-86a7-66c22b08cdf6.jpg?aki_policy=profile_x_medium",
+        "smartName": "Kent",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/89ebabe5-91b6-4b24-86a7-66c22b08cdf6.jpg?aki_policy=profile_small"
+      },
+      "authorId": 53164681,
+      "canBeEdited": false,
+      "comments": "The Osterwalder penthouse ranks as one of my favorite Air B n B’s. The accommodations are truly first class from the decorating to the fantastic views.  Hosts were great at communicating quickly and having easy to understand instructions for entry access and use of the apartment.  Nice  location to access public transit.",
+      "createdAt": "2021-10-08T11:16:10Z",
+      "id": 468545454200948350,
+      "idStr": "468545454200948367",
+      "listingId": 41921096,
+      "recipientId": 331668558,
+      "collectionTag": null,
+      "listing": {
+        "id": 41921096,
+        "listingIdStr": "41921096",
+        "name": "Penthouse above the clouds (126 m2 / 14. floor)"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Osterwalder",
+        "hasProfilePic": true,
+        "id": 331668558,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/7118c978-fb73-473f-b751-0b71e1b2f08d.jpg?aki_policy=profile_x_medium",
+        "smartName": "Osterwalder",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/7118c978-fb73-473f-b751-0b71e1b2f08d.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Jose Antonio",
+        "hasProfilePic": true,
+        "id": 259055505,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/db9a1349-1bbd-4e44-86ee-bf3d1d8612d7.jpg?aki_policy=profile_x_medium",
+        "smartName": "Jose Antonio",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/db9a1349-1bbd-4e44-86ee-bf3d1d8612d7.jpg?aki_policy=profile_small"
+      },
+      "authorId": 259055505,
+      "canBeEdited": false,
+      "comments": "We stayed in this apartment for 28 days, family of 4 relocating from US, with two kids going to international school.\n\nThe apartment: Superb. High end appliances and kitchen, great interior design, we felt in a 5 stars luxury accommodation. Very high roof (12ft) makes you feel in a much  larger place. Super comfortable, with different living areas.\n\nThe area: Very convenient area, one stop from Airport (4 minutes), and 3 minutes walking to train station. Plenty of options for local grocery shopping, Aldi, Coop, etc. All less than 5 minutes walking. There is also a large park in front of the building. Very quiete and nice for children. \n\nIn summary we love this place, best Airbnb stay in Europe and North America by far.",
+      "createdAt": "2021-09-14T13:39:55Z",
+      "id": 451223189179209800,
+      "idStr": "451223189179209805",
+      "listingId": 41921096,
+      "recipientId": 331668558,
+      "collectionTag": null,
+      "listing": {
+        "id": 41921096,
+        "listingIdStr": "41921096",
+        "name": "Penthouse above the clouds (126 m2 / 14. floor)"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Osterwalder",
+        "hasProfilePic": true,
+        "id": 331668558,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/7118c978-fb73-473f-b751-0b71e1b2f08d.jpg?aki_policy=profile_x_medium",
+        "smartName": "Osterwalder",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/7118c978-fb73-473f-b751-0b71e1b2f08d.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Jan-Geert",
+        "hasProfilePic": false,
+        "id": 433964287,
+        "pictureUrl": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+        "smartName": "Jan-Geert",
+        "thumbnailUrl": "https://a0.muscache.com/defaults/user_pic-50x50.png?v=3"
+      },
+      "authorId": 433964287,
+      "canBeEdited": false,
+      "comments": "We had to stay for 10 days in quarantine in Switzerland. This is the best apartment to stay in !",
+      "createdAt": "2021-12-11T13:03:24Z",
+      "id": 514985070523270100,
+      "idStr": "514985070523270057",
+      "listingId": 41921096,
+      "recipientId": 331668558,
+      "collectionTag": null,
+      "listing": {
+        "id": 41921096,
+        "listingIdStr": "41921096",
+        "name": "Penthouse above the clouds (126 m2 / 14. floor)"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Osterwalder",
+        "hasProfilePic": true,
+        "id": 331668558,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/7118c978-fb73-473f-b751-0b71e1b2f08d.jpg?aki_policy=profile_x_medium",
+        "smartName": "Osterwalder",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/7118c978-fb73-473f-b751-0b71e1b2f08d.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Ben",
+        "hasProfilePic": true,
+        "id": 69748175,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/15039996-cec1-4945-bd57-e278ea7cfc0c.jpg?aki_policy=profile_x_medium",
+        "smartName": "Ben",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/15039996-cec1-4945-bd57-e278ea7cfc0c.jpg?aki_policy=profile_small"
+      },
+      "authorId": 69748175,
+      "canBeEdited": false,
+      "comments": "This apartment is fantastic! Great views and amazing facilities. Would recommend it to anyone!",
+      "createdAt": "2021-11-07T12:01:42Z",
+      "id": 490311643993800450,
+      "idStr": "490311643993800448",
+      "listingId": 41921096,
+      "recipientId": 331668558,
+      "collectionTag": null,
+      "listing": {
+        "id": 41921096,
+        "listingIdStr": "41921096",
+        "name": "Penthouse above the clouds (126 m2 / 14. floor)"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Osterwalder",
+        "hasProfilePic": true,
+        "id": 331668558,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/7118c978-fb73-473f-b751-0b71e1b2f08d.jpg?aki_policy=profile_x_medium",
+        "smartName": "Osterwalder",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/7118c978-fb73-473f-b751-0b71e1b2f08d.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Karin",
+        "hasProfilePic": true,
+        "id": 16517131,
+        "pictureUrl": "https://a0.muscache.com/im/users/16517131/profile_pic/1402221852/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Karin",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/16517131/profile_pic/1402221852/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 16517131,
+      "canBeEdited": false,
+      "comments": "The apartment is absolutely gorgeous with beautiful views and being able to rent a close parking space was perfect. The apartment looks even better than on the pictures and is very well equipped. There is even a small grocery store in the building, others are a bit further away, but still in walking distance. The responsiveness and level of service from the host were outstanding and our family is looking forward to renting the apartment again when we are back in Zürich. Warmly recommended!",
+      "createdAt": "2021-10-24T14:59:58Z",
+      "id": 480254509602322940,
+      "idStr": "480254509602322950",
+      "listingId": 41921096,
+      "recipientId": 331668558,
+      "collectionTag": null,
+      "listing": {
+        "id": 41921096,
+        "listingIdStr": "41921096",
+        "name": "Penthouse above the clouds (126 m2 / 14. floor)"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Osterwalder",
+        "hasProfilePic": true,
+        "id": 331668558,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/7118c978-fb73-473f-b751-0b71e1b2f08d.jpg?aki_policy=profile_x_medium",
+        "smartName": "Osterwalder",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/7118c978-fb73-473f-b751-0b71e1b2f08d.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Sebastian",
+        "hasProfilePic": true,
+        "id": 16161440,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/70e649e0-f048-4164-b6d6-1405a03a5097.jpg?aki_policy=profile_x_medium",
+        "smartName": "Sebastian",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/70e649e0-f048-4164-b6d6-1405a03a5097.jpg?aki_policy=profile_small"
+      },
+      "authorId": 16161440,
+      "canBeEdited": false,
+      "comments": "Great place, great view, great facilities. \nWould definitely stay here again.",
+      "createdAt": "2021-05-22T14:10:19Z",
+      "id": 760936000,
+      "idStr": "760936000",
+      "listingId": 41921096,
+      "recipientId": 331668558,
+      "collectionTag": null,
+      "listing": {
+        "id": 41921096,
+        "listingIdStr": "41921096",
+        "name": "Penthouse above the clouds (126 m2 / 14. floor)"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Osterwalder",
+        "hasProfilePic": true,
+        "id": 331668558,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/7118c978-fb73-473f-b751-0b71e1b2f08d.jpg?aki_policy=profile_x_medium",
+        "smartName": "Osterwalder",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/7118c978-fb73-473f-b751-0b71e1b2f08d.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "David",
+        "hasProfilePic": true,
+        "id": 395228428,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/c87917d1-1e57-464e-b64a-f4678f97251c.jpg?aki_policy=profile_x_medium",
+        "smartName": "David",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/c87917d1-1e57-464e-b64a-f4678f97251c.jpg?aki_policy=profile_small"
+      },
+      "authorId": 395228428,
+      "canBeEdited": false,
+      "comments": "Top",
+      "createdAt": "2021-05-17T11:29:08Z",
+      "id": 759463767,
+      "idStr": "759463767",
+      "listingId": 41921096,
+      "recipientId": 331668558,
+      "collectionTag": null,
+      "listing": {
+        "id": 41921096,
+        "listingIdStr": "41921096",
+        "name": "Penthouse above the clouds (126 m2 / 14. floor)"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Osterwalder",
+        "hasProfilePic": true,
+        "id": 331668558,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/7118c978-fb73-473f-b751-0b71e1b2f08d.jpg?aki_policy=profile_x_medium",
+        "smartName": "Osterwalder",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/7118c978-fb73-473f-b751-0b71e1b2f08d.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Erwin",
+        "hasProfilePic": true,
+        "id": 121700928,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/d8c74b40-ca48-48e7-b494-c4d9a11d12bc.jpg?aki_policy=profile_x_medium",
+        "smartName": "Erwin",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/d8c74b40-ca48-48e7-b494-c4d9a11d12bc.jpg?aki_policy=profile_small"
+      },
+      "authorId": 121700928,
+      "canBeEdited": false,
+      "comments": "Great place \nStunning modern apartment, comfortable and design. We'll definitely be back in case of another trip to Zurich.",
+      "createdAt": "2021-02-15T13:33:28Z",
+      "id": 731479004,
+      "idStr": "731479004",
+      "listingId": 41921096,
+      "recipientId": 331668558,
+      "collectionTag": null,
+      "listing": {
+        "id": 41921096,
+        "listingIdStr": "41921096",
+        "name": "Penthouse above the clouds (126 m2 / 14. floor)"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Osterwalder",
+        "hasProfilePic": true,
+        "id": 331668558,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/7118c978-fb73-473f-b751-0b71e1b2f08d.jpg?aki_policy=profile_x_medium",
+        "smartName": "Osterwalder",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/7118c978-fb73-473f-b751-0b71e1b2f08d.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Markus",
+        "hasProfilePic": false,
+        "id": 208197355,
+        "pictureUrl": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+        "smartName": "Markus",
+        "thumbnailUrl": "https://a0.muscache.com/defaults/user_pic-50x50.png?v=3"
+      },
+      "authorId": 208197355,
+      "canBeEdited": false,
+      "comments": "Amazing place. We would stay there again.",
+      "createdAt": "2021-01-11T14:49:19Z",
+      "id": 723633262,
+      "idStr": "723633262",
+      "listingId": 41921096,
+      "recipientId": 331668558,
+      "collectionTag": null,
+      "listing": {
+        "id": 41921096,
+        "listingIdStr": "41921096",
+        "name": "Penthouse above the clouds (126 m2 / 14. floor)"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Osterwalder",
+        "hasProfilePic": true,
+        "id": 331668558,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/7118c978-fb73-473f-b751-0b71e1b2f08d.jpg?aki_policy=profile_x_medium",
+        "smartName": "Osterwalder",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/7118c978-fb73-473f-b751-0b71e1b2f08d.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 345,
+      "amount_formatted": "345 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 345,
+      "amount_formatted": "345 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/16791727",
+  "name": "Downtown Penthouse Apartment, including Parking",
+  "stars": 5,
+  "numberOfGuests": 7,
+  "address": "Zürich, Switzerland",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 47.375,
+    "lng": 8.53
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Kelly",
+        "hasProfilePic": true,
+        "id": 29177931,
+        "pictureUrl": "https://a0.muscache.com/im/users/29177931/profile_pic/1426110359/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Kelly",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/29177931/profile_pic/1426110359/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 29177931,
+      "canBeEdited": false,
+      "comments": "This place is a gem. beautiful, clean apartment, responsive hosts, central neighborhood, a short walk from the train station and Old Town.\n\nWould definitely return.",
+      "createdAt": "2021-12-05T15:06:27Z",
+      "id": 510698351736820100,
+      "idStr": "510698351736820070",
+      "listingId": 16791727,
+      "recipientId": 1788253,
+      "collectionTag": null,
+      "listing": {
+        "id": 16791727,
+        "listingIdStr": "16791727",
+        "name": "Downtown Penthouse Apartment, including Parking"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Thierry",
+        "hasProfilePic": true,
+        "id": 1788253,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b0c27cfe-f4d8-45fd-a644-8dd7e9372f0b.jpg?aki_policy=profile_x_medium",
+        "smartName": "Thierry",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b0c27cfe-f4d8-45fd-a644-8dd7e9372f0b.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Erin",
+        "hasProfilePic": true,
+        "id": 116380981,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/89cfa84d-74ef-471c-b5f4-0768b5c9689e.jpg?aki_policy=profile_x_medium",
+        "smartName": "Erin",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/89cfa84d-74ef-471c-b5f4-0768b5c9689e.jpg?aki_policy=profile_small"
+      },
+      "authorId": 116380981,
+      "canBeEdited": false,
+      "comments": "Great location and very nice accommodations for two families traveling together. Nice quiet building. \nPascal was very helpful with our stay.",
+      "createdAt": "2021-12-02T13:38:21Z",
+      "id": 508479679069950850,
+      "idStr": "508479679069950832",
+      "listingId": 16791727,
+      "recipientId": 1788253,
+      "collectionTag": null,
+      "listing": {
+        "id": 16791727,
+        "listingIdStr": "16791727",
+        "name": "Downtown Penthouse Apartment, including Parking"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Thierry",
+        "hasProfilePic": true,
+        "id": 1788253,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b0c27cfe-f4d8-45fd-a644-8dd7e9372f0b.jpg?aki_policy=profile_x_medium",
+        "smartName": "Thierry",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b0c27cfe-f4d8-45fd-a644-8dd7e9372f0b.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Anil",
+        "hasProfilePic": true,
+        "id": 36658081,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b924ea8d-6605-4490-b177-7dcff07f64a3.jpg?aki_policy=profile_x_medium",
+        "smartName": "Anil",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b924ea8d-6605-4490-b177-7dcff07f64a3.jpg?aki_policy=profile_small"
+      },
+      "authorId": 36658081,
+      "canBeEdited": false,
+      "comments": "Upscale Airbnb. Everything is tastefully and carefully planned. Near to many restaurants, shopping and public transport. 10 mins walk to main train station. Will stay again.",
+      "createdAt": "2021-11-10T15:41:40Z",
+      "id": 492596682136368450,
+      "idStr": "492596682136368443",
+      "listingId": 16791727,
+      "recipientId": 1788253,
+      "collectionTag": null,
+      "listing": {
+        "id": 16791727,
+        "listingIdStr": "16791727",
+        "name": "Downtown Penthouse Apartment, including Parking"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Thierry",
+        "hasProfilePic": true,
+        "id": 1788253,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b0c27cfe-f4d8-45fd-a644-8dd7e9372f0b.jpg?aki_policy=profile_x_medium",
+        "smartName": "Thierry",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b0c27cfe-f4d8-45fd-a644-8dd7e9372f0b.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Ryan",
+        "hasProfilePic": true,
+        "id": 31973755,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/11482d0b-a5bf-4e52-ace1-d188f899b0c6.jpg?aki_policy=profile_x_medium",
+        "smartName": "Ryan",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/11482d0b-a5bf-4e52-ace1-d188f899b0c6.jpg?aki_policy=profile_small"
+      },
+      "authorId": 31973755,
+      "canBeEdited": false,
+      "comments": "The penthouse apartment is amazing! We absolutely loved our stay and recommend it to anyone. It’s centrally located, only a 10 minute pretty walk to Zurich HB train station. Very close to a lot of great shops and we would stay there again for sure.",
+      "createdAt": "2021-10-15T14:18:58Z",
+      "id": 473710887198569660,
+      "idStr": "473710887198569664",
+      "listingId": 16791727,
+      "recipientId": 1788253,
+      "collectionTag": null,
+      "listing": {
+        "id": 16791727,
+        "listingIdStr": "16791727",
+        "name": "Downtown Penthouse Apartment, including Parking"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Thierry",
+        "hasProfilePic": true,
+        "id": 1788253,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b0c27cfe-f4d8-45fd-a644-8dd7e9372f0b.jpg?aki_policy=profile_x_medium",
+        "smartName": "Thierry",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b0c27cfe-f4d8-45fd-a644-8dd7e9372f0b.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Sabina",
+        "hasProfilePic": true,
+        "id": 36826583,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/458ff405-f936-4c02-bcd1-4ec33f8ccc23.jpg?aki_policy=profile_x_medium",
+        "smartName": "Sabina",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/458ff405-f936-4c02-bcd1-4ec33f8ccc23.jpg?aki_policy=profile_small"
+      },
+      "authorId": 36826583,
+      "canBeEdited": false,
+      "comments": "Great location, very central to many parts of Zurich.  The apartment was extremely spacious and well laid out.  The kitchen was well stocked.  Thierry and Pascal were very responsive.  We thoroughly enjoyed the space!",
+      "createdAt": "2021-10-08T12:06:38Z",
+      "id": 468570855346075700,
+      "idStr": "468570855346075733",
+      "listingId": 16791727,
+      "recipientId": 1788253,
+      "collectionTag": null,
+      "listing": {
+        "id": 16791727,
+        "listingIdStr": "16791727",
+        "name": "Downtown Penthouse Apartment, including Parking"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Thierry",
+        "hasProfilePic": true,
+        "id": 1788253,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b0c27cfe-f4d8-45fd-a644-8dd7e9372f0b.jpg?aki_policy=profile_x_medium",
+        "smartName": "Thierry",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b0c27cfe-f4d8-45fd-a644-8dd7e9372f0b.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Nic",
+        "hasProfilePic": true,
+        "id": 67488748,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/4fc45cff-4347-4866-9d6f-1dd918396ec6.jpg?aki_policy=profile_x_medium",
+        "smartName": "Nic",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/4fc45cff-4347-4866-9d6f-1dd918396ec6.jpg?aki_policy=profile_small"
+      },
+      "authorId": 67488748,
+      "canBeEdited": false,
+      "comments": "Great spot, easy access, amazing tub. Had everything we needed for a business stay. Very nice and welcoming host. Easy to find, get key, and in. There is a lift. Quiet building with much around it and only a 10 minute walk to the main train station. Would indeed stay again.",
+      "createdAt": "2021-09-02T11:37:35Z",
+      "id": 442464303324007900,
+      "idStr": "442464303324007889",
+      "listingId": 16791727,
+      "recipientId": 1788253,
+      "collectionTag": null,
+      "listing": {
+        "id": 16791727,
+        "listingIdStr": "16791727",
+        "name": "Downtown Penthouse Apartment, including Parking"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Thierry",
+        "hasProfilePic": true,
+        "id": 1788253,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b0c27cfe-f4d8-45fd-a644-8dd7e9372f0b.jpg?aki_policy=profile_x_medium",
+        "smartName": "Thierry",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b0c27cfe-f4d8-45fd-a644-8dd7e9372f0b.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Britt",
+        "hasProfilePic": true,
+        "id": 234990471,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/76c6f56e-d04c-4421-8837-949b4a780acc.jpg?aki_policy=profile_x_medium",
+        "smartName": "Britt",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/76c6f56e-d04c-4421-8837-949b4a780acc.jpg?aki_policy=profile_small"
+      },
+      "authorId": 234990471,
+      "canBeEdited": false,
+      "comments": "Wonderful place and great location! Thierry was wonderful with allowing us to store bags both on the day of arrival and departure, which made travel easy for us! Additionally, it was very kid friendly and had some toys for the kids as well as a crib. Excellent stay!",
+      "createdAt": "2021-07-20T11:28:06Z",
+      "id": 410569397720873400,
+      "idStr": "410569397720873382",
+      "listingId": 16791727,
+      "recipientId": 1788253,
+      "collectionTag": null,
+      "listing": {
+        "id": 16791727,
+        "listingIdStr": "16791727",
+        "name": "Downtown Penthouse Apartment, including Parking"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Thierry",
+        "hasProfilePic": true,
+        "id": 1788253,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b0c27cfe-f4d8-45fd-a644-8dd7e9372f0b.jpg?aki_policy=profile_x_medium",
+        "smartName": "Thierry",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b0c27cfe-f4d8-45fd-a644-8dd7e9372f0b.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Leonid",
+        "hasProfilePic": true,
+        "id": 18931818,
+        "pictureUrl": "https://a0.muscache.com/im/users/18931818/profile_pic/1406413739/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Leonid",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/18931818/profile_pic/1406413739/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 18931818,
+      "canBeEdited": false,
+      "comments": "Great place, in a wonderful location. Thierry and Pascal are very helpful and accommodating. Stay here, you will enjoy it!",
+      "createdAt": "2021-07-17T13:55:54Z",
+      "id": 408469459847144400,
+      "idStr": "408469459847144372",
+      "listingId": 16791727,
+      "recipientId": 1788253,
+      "collectionTag": null,
+      "listing": {
+        "id": 16791727,
+        "listingIdStr": "16791727",
+        "name": "Downtown Penthouse Apartment, including Parking"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Thierry",
+        "hasProfilePic": true,
+        "id": 1788253,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b0c27cfe-f4d8-45fd-a644-8dd7e9372f0b.jpg?aki_policy=profile_x_medium",
+        "smartName": "Thierry",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b0c27cfe-f4d8-45fd-a644-8dd7e9372f0b.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Tim",
+        "hasProfilePic": true,
+        "id": 29814921,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/e2027dc9-85b5-4a7f-bbd7-e32ae2bf1bf5.jpg?aki_policy=profile_x_medium",
+        "smartName": "Tim",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/e2027dc9-85b5-4a7f-bbd7-e32ae2bf1bf5.jpg?aki_policy=profile_small"
+      },
+      "authorId": 29814921,
+      "canBeEdited": false,
+      "comments": "Thierry has a tremendous apartment which is wonderfully located and very stylish. I particularly liked having easy off-street parking available. I look forward to staying again!",
+      "createdAt": "2020-09-08T14:30:03Z",
+      "id": 662077164,
+      "idStr": "662077164",
+      "listingId": 16791727,
+      "recipientId": 1788253,
+      "collectionTag": null,
+      "listing": {
+        "id": 16791727,
+        "listingIdStr": "16791727",
+        "name": "Downtown Penthouse Apartment, including Parking"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Thierry",
+        "hasProfilePic": true,
+        "id": 1788253,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b0c27cfe-f4d8-45fd-a644-8dd7e9372f0b.jpg?aki_policy=profile_x_medium",
+        "smartName": "Thierry",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b0c27cfe-f4d8-45fd-a644-8dd7e9372f0b.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Gerardo",
+        "hasProfilePic": true,
+        "id": 205936976,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/7e07b6a3-6407-40ee-ba0d-e45216417ca0.jpg?aki_policy=profile_x_medium",
+        "smartName": "Gerardo",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/7e07b6a3-6407-40ee-ba0d-e45216417ca0.jpg?aki_policy=profile_small"
+      },
+      "authorId": 205936976,
+      "canBeEdited": false,
+      "comments": "Great location. The apartment is spacious and has everything you need for your stay. I recommend staying at Thierry’s place.",
+      "createdAt": "2020-06-23T14:37:13Z",
+      "id": 631651294,
+      "idStr": "631651294",
+      "listingId": 16791727,
+      "recipientId": 1788253,
+      "collectionTag": null,
+      "listing": {
+        "id": 16791727,
+        "listingIdStr": "16791727",
+        "name": "Downtown Penthouse Apartment, including Parking"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Thierry",
+        "hasProfilePic": true,
+        "id": 1788253,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b0c27cfe-f4d8-45fd-a644-8dd7e9372f0b.jpg?aki_policy=profile_x_medium",
+        "smartName": "Thierry",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b0c27cfe-f4d8-45fd-a644-8dd7e9372f0b.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 519,
+      "amount_formatted": "519 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 519,
+      "amount_formatted": "519 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/45432996",
+  "name": "2 Bedroom Superior Penthouse Apartment, Seefeld",
+  "stars": 5,
+  "numberOfGuests": 4,
+  "address": "Zürich, Switzerland",
+  "roomType": "Entire serviced apartment",
+  "location": {
+    "lat": 47.361,
+    "lng": 8.551
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Nelson",
+        "hasProfilePic": true,
+        "id": 30384716,
+        "pictureUrl": "https://a0.muscache.com/im/users/30384716/profile_pic/1427859800/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Nelson",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/30384716/profile_pic/1427859800/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 30384716,
+      "canBeEdited": false,
+      "comments": "Great space in a great location and the team was very communicative to coordinate the stay.",
+      "createdAt": "2021-11-11T13:18:09Z",
+      "id": 493249222941210100,
+      "idStr": "493249222941210130",
+      "listingId": 45432996,
+      "recipientId": 24506494,
+      "collectionTag": null,
+      "listing": {
+        "id": 45432996,
+        "listingIdStr": "45432996",
+        "name": "2 Bedroom Superior Penthouse Apartment, Seefeld"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "EMA House",
+        "hasProfilePic": true,
+        "id": 24506494,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/c978dfc1-cad7-4a22-9d90-c26cf369e57b.jpg?aki_policy=profile_x_medium",
+        "smartName": "EMA House",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/c978dfc1-cad7-4a22-9d90-c26cf369e57b.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Nelson\r\nThank you for your fedback and we hope to welcome you on another time in Zurich.",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Tanya",
+        "hasProfilePic": true,
+        "id": 118773599,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/6c9be96f-ddc7-463b-9578-f49eff05b3ab.jpg?aki_policy=profile_x_medium",
+        "smartName": "Tanya",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/6c9be96f-ddc7-463b-9578-f49eff05b3ab.jpg?aki_policy=profile_small"
+      },
+      "authorId": 118773599,
+      "canBeEdited": false,
+      "comments": "Great location, super clean and the apartment functioned well for a week long stay in Zurich.  We loved the 3 times a week housekeeping service too.  We would rent again if we visit the city - our daughter lives nearby.",
+      "createdAt": "2021-10-28T14:42:42Z",
+      "id": 483144918659046460,
+      "idStr": "483144918659046488",
+      "listingId": 45432996,
+      "recipientId": 24506494,
+      "collectionTag": null,
+      "listing": {
+        "id": 45432996,
+        "listingIdStr": "45432996",
+        "name": "2 Bedroom Superior Penthouse Apartment, Seefeld"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "EMA House",
+        "hasProfilePic": true,
+        "id": 24506494,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/c978dfc1-cad7-4a22-9d90-c26cf369e57b.jpg?aki_policy=profile_x_medium",
+        "smartName": "EMA House",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/c978dfc1-cad7-4a22-9d90-c26cf369e57b.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Tanya\r\nThank you for your kind feedback and we hope to welcome you again during your next time in Zurich.",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Aria",
+        "hasProfilePic": true,
+        "id": 260994967,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/d571e1d7-3edb-4155-9917-cf617dba8f0b.jpg?aki_policy=profile_x_medium",
+        "smartName": "Aria",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/d571e1d7-3edb-4155-9917-cf617dba8f0b.jpg?aki_policy=profile_small"
+      },
+      "authorId": 260994967,
+      "canBeEdited": false,
+      "comments": "Great apartments in a great location, everything about the apartment itself was perfect except two items, I had a large SUV with me and the parking spot I was initially offered wasn’t large enough for the car and I had to switch to street parking. Finding parking at certain hours was super difficult and I even ended up got a parking ticket because I hadn’t filled out the street parking permit correctly… other issue was that the elevator on the property was suuper tiny…it barely fits one adult and to get to the elevator you have to climb 6-7 stairs, this was particularly challenging when I wanted to take my luggage to the unit which was on the 5th floor. It was unfortunate that this situation was not correctly communicated to me when I had asked about the elevator at the time of booking.",
+      "createdAt": "2021-10-10T14:04:11Z",
+      "id": 470079570599243840,
+      "idStr": "470079570599243864",
+      "listingId": 45432996,
+      "recipientId": 24506494,
+      "collectionTag": null,
+      "listing": {
+        "id": 45432996,
+        "listingIdStr": "45432996",
+        "name": "2 Bedroom Superior Penthouse Apartment, Seefeld"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "EMA House",
+        "hasProfilePic": true,
+        "id": 24506494,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/c978dfc1-cad7-4a22-9d90-c26cf369e57b.jpg?aki_policy=profile_x_medium",
+        "smartName": "EMA House",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/c978dfc1-cad7-4a22-9d90-c26cf369e57b.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Aria\r\nThank you for your warm words and your feedback.\r\nWe are sorry to hear, that you had some struggle with the luggage and also to find a parking slot.\r\nWe will also teach our agents to communicate this cases a better way - thank you again for your feedback. This helps us to let our guests feel comfortable.",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Taryn",
+        "hasProfilePic": true,
+        "id": 117719464,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/445cb879-8b63-41fe-bf9c-ddc6352f3630.jpg?aki_policy=profile_x_medium",
+        "smartName": "Taryn",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/445cb879-8b63-41fe-bf9c-ddc6352f3630.jpg?aki_policy=profile_small"
+      },
+      "authorId": 117719464,
+      "canBeEdited": false,
+      "comments": "This apartment is in a wonderful location — it is very close to plenty of restaurants and shops and only a 15 minute walk to everything you could want in Old Town. There is also a great park very close and the lake is two blocks away. The hosts are very communicative and helpful and the apartment was clean and well equipped. A great place to stay!",
+      "createdAt": "2021-10-01T11:08:51Z",
+      "id": 463468343734482200,
+      "idStr": "463468343734482154",
+      "listingId": 45432996,
+      "recipientId": 24506494,
+      "collectionTag": null,
+      "listing": {
+        "id": 45432996,
+        "listingIdStr": "45432996",
+        "name": "2 Bedroom Superior Penthouse Apartment, Seefeld"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "EMA House",
+        "hasProfilePic": true,
+        "id": 24506494,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/c978dfc1-cad7-4a22-9d90-c26cf369e57b.jpg?aki_policy=profile_x_medium",
+        "smartName": "EMA House",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/c978dfc1-cad7-4a22-9d90-c26cf369e57b.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Taryn\r\nThank you for your kind feedback and it is a pleasure to hear that you had a wonderful time in Switzerland.\r\nWe would be pleased to welcome you again as our guest at EMA House Serviced Apartments.",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Donna",
+        "hasProfilePic": false,
+        "id": 418590862,
+        "pictureUrl": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+        "smartName": "Donna",
+        "thumbnailUrl": "https://a0.muscache.com/defaults/user_pic-50x50.png?v=3"
+      },
+      "authorId": 418590862,
+      "canBeEdited": false,
+      "comments": "We enjoyed our stay. The apartment is in a great location and very well appointed.",
+      "createdAt": "2021-09-25T13:24:24Z",
+      "id": 459187911812965250,
+      "idStr": "459187911812965260",
+      "listingId": 45432996,
+      "recipientId": 24506494,
+      "collectionTag": null,
+      "listing": {
+        "id": 45432996,
+        "listingIdStr": "45432996",
+        "name": "2 Bedroom Superior Penthouse Apartment, Seefeld"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "EMA House",
+        "hasProfilePic": true,
+        "id": 24506494,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/c978dfc1-cad7-4a22-9d90-c26cf369e57b.jpg?aki_policy=profile_x_medium",
+        "smartName": "EMA House",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/c978dfc1-cad7-4a22-9d90-c26cf369e57b.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Annie",
+        "hasProfilePic": true,
+        "id": 385916998,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b3543314-1a83-4f6f-8e40-93075a6a756d.jpg?aki_policy=profile_x_medium",
+        "smartName": "Annie",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b3543314-1a83-4f6f-8e40-93075a6a756d.jpg?aki_policy=profile_small"
+      },
+      "authorId": 385916998,
+      "canBeEdited": false,
+      "comments": "Great spot and view. Comfortable. Would recommend.",
+      "createdAt": "2021-09-11T13:46:33Z",
+      "id": 449052202066973440,
+      "idStr": "449052202066973412",
+      "listingId": 45432996,
+      "recipientId": 24506494,
+      "collectionTag": null,
+      "listing": {
+        "id": 45432996,
+        "listingIdStr": "45432996",
+        "name": "2 Bedroom Superior Penthouse Apartment, Seefeld"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "EMA House",
+        "hasProfilePic": true,
+        "id": 24506494,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/c978dfc1-cad7-4a22-9d90-c26cf369e57b.jpg?aki_policy=profile_x_medium",
+        "smartName": "EMA House",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/c978dfc1-cad7-4a22-9d90-c26cf369e57b.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Annie, Thank you for your mail and your feedback. We would be pleased to welcome you again as our guest at EMA House.",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Monika",
+        "hasProfilePic": true,
+        "id": 346778993,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/c3fdeb16-dbbb-49d0-a37c-c088ccfb7c09.jpg?aki_policy=profile_x_medium",
+        "smartName": "Monika",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/c3fdeb16-dbbb-49d0-a37c-c088ccfb7c09.jpg?aki_policy=profile_small"
+      },
+      "authorId": 346778993,
+      "canBeEdited": false,
+      "comments": "Great stay! Thanks for the excellent service!",
+      "createdAt": "2021-08-06T12:03:16Z",
+      "id": 422908288800797000,
+      "idStr": "422908288800797007",
+      "listingId": 45432996,
+      "recipientId": 24506494,
+      "collectionTag": null,
+      "listing": {
+        "id": 45432996,
+        "listingIdStr": "45432996",
+        "name": "2 Bedroom Superior Penthouse Apartment, Seefeld"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "EMA House",
+        "hasProfilePic": true,
+        "id": 24506494,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/c978dfc1-cad7-4a22-9d90-c26cf369e57b.jpg?aki_policy=profile_x_medium",
+        "smartName": "EMA House",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/c978dfc1-cad7-4a22-9d90-c26cf369e57b.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Monika\r\nThank you for your feedback and we are looking forward to welcome you on another time at EMA House.",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Amanda",
+        "hasProfilePic": true,
+        "id": 403715941,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/c0f0cf0f-f7f7-45d6-b49b-7883aaf4e732.jpg?aki_policy=profile_x_medium",
+        "smartName": "Amanda",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/c0f0cf0f-f7f7-45d6-b49b-7883aaf4e732.jpg?aki_policy=profile_small"
+      },
+      "authorId": 403715941,
+      "canBeEdited": false,
+      "comments": "Loved our stay. It was the perfect accommodation in the perfect location. Very clean and well kept. Will definitely be back on our next trip back to Zurich!",
+      "createdAt": "2021-06-28T11:06:25Z",
+      "id": 394613420093716800,
+      "idStr": "394613420093716828",
+      "listingId": 45432996,
+      "recipientId": 24506494,
+      "collectionTag": null,
+      "listing": {
+        "id": 45432996,
+        "listingIdStr": "45432996",
+        "name": "2 Bedroom Superior Penthouse Apartment, Seefeld"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "EMA House",
+        "hasProfilePic": true,
+        "id": 24506494,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/c978dfc1-cad7-4a22-9d90-c26cf369e57b.jpg?aki_policy=profile_x_medium",
+        "smartName": "EMA House",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/c978dfc1-cad7-4a22-9d90-c26cf369e57b.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Amanda\r\nThank you for your lovely feedback.\r\nWe are looking forward to welcome you again at EMA House.\r\n\r\nBest regards",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Nicola",
+        "hasProfilePic": false,
+        "id": 398268007,
+        "pictureUrl": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+        "smartName": "Nicola",
+        "thumbnailUrl": "https://a0.muscache.com/defaults/user_pic-50x50.png?v=3"
+      },
+      "authorId": 398268007,
+      "canBeEdited": false,
+      "comments": "amazing house in a very good position",
+      "createdAt": "2021-10-09T12:44:02Z",
+      "id": 469314451763470900,
+      "idStr": "469314451763470930",
+      "listingId": 45432996,
+      "recipientId": 24506494,
+      "collectionTag": null,
+      "listing": {
+        "id": 45432996,
+        "listingIdStr": "45432996",
+        "name": "2 Bedroom Superior Penthouse Apartment, Seefeld"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "EMA House",
+        "hasProfilePic": true,
+        "id": 24506494,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/c978dfc1-cad7-4a22-9d90-c26cf369e57b.jpg?aki_policy=profile_x_medium",
+        "smartName": "EMA House",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/c978dfc1-cad7-4a22-9d90-c26cf369e57b.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Nicola\r\n\r\nThank you for your kind feedback and we hope to welcome you on another time at EMA House Serviced Apartment.",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Agnieszka",
+        "hasProfilePic": true,
+        "id": 75534876,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/18563992-6062-45ae-ab2a-c1b6e6ab3ae0.jpg?aki_policy=profile_x_medium",
+        "smartName": "Agnieszka",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/18563992-6062-45ae-ab2a-c1b6e6ab3ae0.jpg?aki_policy=profile_small"
+      },
+      "authorId": 75534876,
+      "canBeEdited": false,
+      "comments": "Amazing place, very good location, everything that you need! Very communicative hosts.",
+      "createdAt": "2021-09-12T14:50:46Z",
+      "id": 449809297204943360,
+      "idStr": "449809297204943340",
+      "listingId": 45432996,
+      "recipientId": 24506494,
+      "collectionTag": null,
+      "listing": {
+        "id": 45432996,
+        "listingIdStr": "45432996",
+        "name": "2 Bedroom Superior Penthouse Apartment, Seefeld"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "EMA House",
+        "hasProfilePic": true,
+        "id": 24506494,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/c978dfc1-cad7-4a22-9d90-c26cf369e57b.jpg?aki_policy=profile_x_medium",
+        "smartName": "EMA House",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/c978dfc1-cad7-4a22-9d90-c26cf369e57b.jpg?aki_policy=profile_small"
+      },
+      "response": "Dear Agnieszka\r\nThank you for your mail and your nice feedback.\r\nWe hope to welcome you again at EMA House Serviced Apartment during your next time in Zurich.",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 335,
+      "amount_formatted": "335 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 335,
+      "amount_formatted": "335 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+}]

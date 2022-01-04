@@ -1,0 +1,2297 @@
+[{
+  "url": "https://www.airbnb.com/rooms/12415551",
+  "name": "Deluxe duplex in the Old Town",
+  "numberOfGuests": 4,
+  "address": "Genève, Switzerland",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 46.20009,
+    "lng": 6.15002
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Alberto",
+        "hasProfilePic": true,
+        "id": 4976236,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/67f33c4f-9a92-4465-a567-335e7c927865.jpg?aki_policy=profile_x_medium",
+        "smartName": "Alberto",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/67f33c4f-9a92-4465-a567-335e7c927865.jpg?aki_policy=profile_small"
+      },
+      "authorId": 4976236,
+      "canBeEdited": false,
+      "comments": "The place was as described. Centrally located and close to restaurants and old towns. A few minutes walk from train station.\nVery nice apartment, modern, cozy and well taken care of. It is located at a quiet and nice part of town.\nNina was very attentive, responded fast and was willing to accommodate our needs. \nI cannot ask for more from Nina or the place.\nConfortable bed and sofa bed.",
+      "createdAt": "2018-05-17T13:08:38Z",
+      "id": 265464293,
+      "idStr": "265464293",
+      "listingId": 12415551,
+      "recipientId": 3111534,
+      "collectionTag": null,
+      "listing": {
+        "id": 12415551,
+        "listingIdStr": "12415551",
+        "name": "Deluxe duplex in the Old Town"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "The Hamlet",
+        "hasProfilePic": true,
+        "id": 3111534,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/78073596-87f9-4f2d-a1c2-c29268097ec9.jpg?aki_policy=profile_x_medium",
+        "smartName": "The Hamlet",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/78073596-87f9-4f2d-a1c2-c29268097ec9.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 676,
+      "amount_formatted": "676 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 676,
+      "amount_formatted": "676 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/9271687",
+  "name": "The Hamlet - Townhouse 13",
+  "numberOfGuests": 2,
+  "address": "Genève, Switzerland",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 46.19961,
+    "lng": 6.14838
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Jason",
+        "hasProfilePic": true,
+        "id": 46137611,
+        "pictureUrl": "https://a0.muscache.com/im/users/46137611/profile_pic/1444397686/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Jason",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/46137611/profile_pic/1444397686/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 46137611,
+      "canBeEdited": false,
+      "comments": "Great apartment, excellent location. Nina was responsive and a great hostess.",
+      "createdAt": "2016-08-14T00:22:30Z",
+      "id": 93663183,
+      "idStr": "93663183",
+      "listingId": 9271687,
+      "recipientId": 3111534,
+      "collectionTag": null,
+      "listing": {
+        "id": 9271687,
+        "listingIdStr": "9271687",
+        "name": "The Hamlet - Townhouse 13"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "The Hamlet",
+        "hasProfilePic": true,
+        "id": 3111534,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/78073596-87f9-4f2d-a1c2-c29268097ec9.jpg?aki_policy=profile_x_medium",
+        "smartName": "The Hamlet",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/78073596-87f9-4f2d-a1c2-c29268097ec9.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 676,
+      "amount_formatted": "676 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 676,
+      "amount_formatted": "676 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/43661787",
+  "name": "Beautiful 2-bedroom Apart Attic 100 sqm 6 persons",
+  "stars": 5,
+  "numberOfGuests": 6,
+  "address": "Genève, Switzerland",
+  "roomType": "Entire serviced apartment",
+  "location": {
+    "lat": 46.209,
+    "lng": 6.149
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Pamela",
+        "hasProfilePic": true,
+        "id": 18594004,
+        "pictureUrl": "https://a0.muscache.com/im/users/18594004/profile_pic/1406052123/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Pamela",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/18594004/profile_pic/1406052123/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 18594004,
+      "canBeEdited": false,
+      "comments": "Great place! Highly recommended.",
+      "createdAt": "2021-06-26T12:00:46Z",
+      "id": 393191223157667300,
+      "idStr": "393191223157667296",
+      "listingId": 43661787,
+      "recipientId": 8287850,
+      "collectionTag": null,
+      "listing": {
+        "id": 43661787,
+        "listingIdStr": "43661787",
+        "name": "Beautiful 2-bedroom Apart Attic 100 sqm 6 persons"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Martin",
+        "hasProfilePic": true,
+        "id": 8287850,
+        "pictureUrl": "https://a0.muscache.com/im/users/8287850/profile_pic/1377035770/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Martin",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/8287850/profile_pic/1377035770/original.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Alexis",
+        "hasProfilePic": true,
+        "id": 18278119,
+        "pictureUrl": "https://a0.muscache.com/im/users/18278119/profile_pic/1405632452/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Alexis",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/18278119/profile_pic/1405632452/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 18278119,
+      "canBeEdited": false,
+      "comments": ".",
+      "createdAt": "2021-12-21T13:38:45Z",
+      "id": 522250621401177900,
+      "idStr": "522250621401177931",
+      "listingId": 43661787,
+      "recipientId": 8287850,
+      "collectionTag": null,
+      "listing": {
+        "id": 43661787,
+        "listingIdStr": "43661787",
+        "name": "Beautiful 2-bedroom Apart Attic 100 sqm 6 persons"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Martin",
+        "hasProfilePic": true,
+        "id": 8287850,
+        "pictureUrl": "https://a0.muscache.com/im/users/8287850/profile_pic/1377035770/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Martin",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/8287850/profile_pic/1377035770/original.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Tirpata",
+        "hasProfilePic": true,
+        "id": 192066422,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/a715a1d2-5b56-45f5-8aa4-f623fe0f1fb1.jpg?aki_policy=profile_x_medium",
+        "smartName": "Tirpata",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/a715a1d2-5b56-45f5-8aa4-f623fe0f1fb1.jpg?aki_policy=profile_small"
+      },
+      "authorId": 192066422,
+      "canBeEdited": false,
+      "comments": "My family of 4 thoroughly enjoyed our stay at Swiss Luxury Apartments.  I searched for a long time to find a contemporary 2 bed apartment that was spacious,  centrally located, kitchen in our premises home away from home and what a find we discovered! Their location is the best In town, serviced to the highest level, supremely clean, very comfortable and luxurious too. We were provided with the best hospitality, the best services, a geneva bus pass and so much more! Thank you Swiss Luxury Apartment for your wonderful hospitality . Looking forward to coming back!",
+      "createdAt": "2021-10-22T13:17:25Z",
+      "id": 478753342274184640,
+      "idStr": "478753342274184667",
+      "listingId": 43661787,
+      "recipientId": 8287850,
+      "collectionTag": null,
+      "listing": {
+        "id": 43661787,
+        "listingIdStr": "43661787",
+        "name": "Beautiful 2-bedroom Apart Attic 100 sqm 6 persons"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Martin",
+        "hasProfilePic": true,
+        "id": 8287850,
+        "pictureUrl": "https://a0.muscache.com/im/users/8287850/profile_pic/1377035770/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Martin",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/8287850/profile_pic/1377035770/original.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Regula",
+        "hasProfilePic": true,
+        "id": 124001288,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/4a249835-0d5a-47bd-b4e6-6ec08dc2a6f8.jpg?aki_policy=profile_x_medium",
+        "smartName": "Regula",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/4a249835-0d5a-47bd-b4e6-6ec08dc2a6f8.jpg?aki_policy=profile_small"
+      },
+      "authorId": 124001288,
+      "canBeEdited": false,
+      "comments": "Very nice and beautiful apt with great service - fantastic location in the heart of Geneva- highly recommended",
+      "createdAt": "2021-05-16T11:10:58Z",
+      "id": 758660122,
+      "idStr": "758660122",
+      "listingId": 43661787,
+      "recipientId": 8287850,
+      "collectionTag": null,
+      "listing": {
+        "id": 43661787,
+        "listingIdStr": "43661787",
+        "name": "Beautiful 2-bedroom Apart Attic 100 sqm 6 persons"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Martin",
+        "hasProfilePic": true,
+        "id": 8287850,
+        "pictureUrl": "https://a0.muscache.com/im/users/8287850/profile_pic/1377035770/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Martin",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/8287850/profile_pic/1377035770/original.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 729,
+      "amount_formatted": "729 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 729,
+      "amount_formatted": "729 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/12422395",
+  "name": "Unique penthouse in Old Town",
+  "numberOfGuests": 4,
+  "address": "Genève, Switzerland",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 46.199,
+    "lng": 6.149
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Ada",
+        "hasProfilePic": true,
+        "id": 110575229,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/e02feb95-31a8-44b6-a332-05347db7d13a.jpg?aki_policy=profile_x_medium",
+        "smartName": "Ada",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/e02feb95-31a8-44b6-a332-05347db7d13a.jpg?aki_policy=profile_small"
+      },
+      "authorId": 110575229,
+      "canBeEdited": false,
+      "comments": "It wasn't that my expectations were low, I thought from the description we would be staying at a great spot. But from the minute Clarence welcomed us to our place, I realized we had found something truly special. The perfect modern apartment in Old Town, with a terrace, and amazing tasteful modern decor. Amenities were beyond, and the Square (shared space) an added treasure. We also loved the story of how Tara and Christoph (the owners) created this haven and meeting some of the other guests. This will be my \"home\" for all future Geneva stays. I can't wait to go back.",
+      "createdAt": "2020-07-24T13:34:37Z",
+      "id": 641691598,
+      "idStr": "641691598",
+      "listingId": 12422395,
+      "recipientId": 3111534,
+      "collectionTag": null,
+      "listing": {
+        "id": 12422395,
+        "listingIdStr": "12422395",
+        "name": "Unique penthouse in Old Town"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "The Hamlet",
+        "hasProfilePic": true,
+        "id": 3111534,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/78073596-87f9-4f2d-a1c2-c29268097ec9.jpg?aki_policy=profile_x_medium",
+        "smartName": "The Hamlet",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/78073596-87f9-4f2d-a1c2-c29268097ec9.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Norka",
+        "hasProfilePic": true,
+        "id": 131107289,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/ebc83504-55fe-49c3-9d49-8a443458f135.jpg?aki_policy=profile_x_medium",
+        "smartName": "Norka",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/ebc83504-55fe-49c3-9d49-8a443458f135.jpg?aki_policy=profile_small"
+      },
+      "authorId": 131107289,
+      "canBeEdited": false,
+      "comments": "Très bon séjour !!! C'est la suisse dans tout les détails, simple, chic, confortable, bien réfléchi et cher. Super écoute et très bien placer. \nMerci !!!",
+      "createdAt": "2017-06-26T15:11:12Z",
+      "id": 164122421,
+      "idStr": "164122421",
+      "listingId": 12422395,
+      "recipientId": 3111534,
+      "collectionTag": null,
+      "listing": {
+        "id": 12422395,
+        "listingIdStr": "12422395",
+        "name": "Unique penthouse in Old Town"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "The Hamlet",
+        "hasProfilePic": true,
+        "id": 3111534,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/78073596-87f9-4f2d-a1c2-c29268097ec9.jpg?aki_policy=profile_x_medium",
+        "smartName": "The Hamlet",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/78073596-87f9-4f2d-a1c2-c29268097ec9.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "fr",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 676,
+      "amount_formatted": "676 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 676,
+      "amount_formatted": "676 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/24341822",
+  "name": "The Hamlet - Townhouse 12",
+  "numberOfGuests": 5,
+  "address": "Genève, Switzerland",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 46.19977,
+    "lng": 6.15022
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Niharika",
+        "hasProfilePic": true,
+        "id": 42732888,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/342dfaba-a34f-4620-9822-5276d82c4726.jpg?aki_policy=profile_x_medium",
+        "smartName": "Niharika",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/342dfaba-a34f-4620-9822-5276d82c4726.jpg?aki_policy=profile_small"
+      },
+      "authorId": 42732888,
+      "canBeEdited": false,
+      "comments": "The host canceled this reservation 42 days before arrival. This is an automated posting.",
+      "createdAt": "2018-04-17T09:03:05Z",
+      "id": 254530786,
+      "idStr": "254530786",
+      "listingId": 24341822,
+      "recipientId": 3111534,
+      "collectionTag": null,
+      "listing": {
+        "id": 24341822,
+        "listingIdStr": "24341822",
+        "name": "The Hamlet - Townhouse 12"
+      },
+      "rating": 0,
+      "recipient": {
+        "firstName": "The Hamlet",
+        "hasProfilePic": true,
+        "id": 3111534,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/78073596-87f9-4f2d-a1c2-c29268097ec9.jpg?aki_policy=profile_x_medium",
+        "smartName": "The Hamlet",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/78073596-87f9-4f2d-a1c2-c29268097ec9.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Ulysses",
+        "hasProfilePic": true,
+        "id": 147783460,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/ac601ae1-f004-4858-aec6-ca0fbbb343fb.jpg?aki_policy=profile_x_medium",
+        "smartName": "Ulysses",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/ac601ae1-f004-4858-aec6-ca0fbbb343fb.jpg?aki_policy=profile_small"
+      },
+      "authorId": 147783460,
+      "canBeEdited": false,
+      "comments": "Great apartment and host 10/10",
+      "createdAt": "2019-03-13T13:54:47Z",
+      "id": 423155459,
+      "idStr": "423155459",
+      "listingId": 24341822,
+      "recipientId": 3111534,
+      "collectionTag": null,
+      "listing": {
+        "id": 24341822,
+        "listingIdStr": "24341822",
+        "name": "The Hamlet - Townhouse 12"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "The Hamlet",
+        "hasProfilePic": true,
+        "id": 3111534,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/78073596-87f9-4f2d-a1c2-c29268097ec9.jpg?aki_policy=profile_x_medium",
+        "smartName": "The Hamlet",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/78073596-87f9-4f2d-a1c2-c29268097ec9.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 1124,
+      "amount_formatted": "1,124 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1124,
+      "amount_formatted": "1,124 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/40877891",
+  "name": "The Hamlet - Townhouse 21",
+  "numberOfGuests": 6,
+  "address": "Genève, Switzerland",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 46.19882,
+    "lng": 6.15038
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 1124,
+      "amount_formatted": "1,124 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1124,
+      "amount_formatted": "1,124 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/42213525",
+  "name": "2BD Modern Apartment in Geneva Center with Rooftop",
+  "numberOfGuests": 4,
+  "address": "Genève, Switzerland",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 46.19868,
+    "lng": 6.13534
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 674,
+      "amount_formatted": "674 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 674,
+      "amount_formatted": "674 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/2664733",
+  "name": "Magnificent villa in Geneva",
+  "stars": 5,
+  "numberOfGuests": 11,
+  "address": "Chêne-Bougeries, Geneva, Switzerland",
+  "roomType": "Entire villa",
+  "location": {
+    "lat": 46.177,
+    "lng": 6.172
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Adam",
+        "hasProfilePic": true,
+        "id": 572265,
+        "pictureUrl": "https://a0.muscache.com/im/users/572265/profile_pic/1305688364/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Adam",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/572265/profile_pic/1305688364/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 572265,
+      "canBeEdited": false,
+      "comments": "Lovely stay and we look forward to coming back next year!",
+      "createdAt": "2019-08-22T16:38:59Z",
+      "id": 514923409,
+      "idStr": "514923409",
+      "listingId": 2664733,
+      "recipientId": 13638515,
+      "collectionTag": null,
+      "listing": {
+        "id": 2664733,
+        "listingIdStr": "2664733",
+        "name": "Magnificent villa in Geneva"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Gudrun",
+        "hasProfilePic": true,
+        "id": 13638515,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/dd51837c-dc98-4afd-87ba-7324fb8397cc.jpg?aki_policy=profile_x_medium",
+        "smartName": "Gudrun",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/dd51837c-dc98-4afd-87ba-7324fb8397cc.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Tremaine",
+        "hasProfilePic": true,
+        "id": 75556798,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/039f7b93-acb1-4fb6-943e-d0ff6fae7cd4.jpg?aki_policy=profile_x_medium",
+        "smartName": "Tremaine",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/039f7b93-acb1-4fb6-943e-d0ff6fae7cd4.jpg?aki_policy=profile_small"
+      },
+      "authorId": 75556798,
+      "canBeEdited": false,
+      "comments": "I would definitely recommend this place if you’re ever visiting Geneva. Beautiful place nice location, the pictures don’t do it justice.",
+      "createdAt": "2019-07-07T12:17:56Z",
+      "id": 482999686,
+      "idStr": "482999686",
+      "listingId": 2664733,
+      "recipientId": 13638515,
+      "collectionTag": null,
+      "listing": {
+        "id": 2664733,
+        "listingIdStr": "2664733",
+        "name": "Magnificent villa in Geneva"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Gudrun",
+        "hasProfilePic": true,
+        "id": 13638515,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/dd51837c-dc98-4afd-87ba-7324fb8397cc.jpg?aki_policy=profile_x_medium",
+        "smartName": "Gudrun",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/dd51837c-dc98-4afd-87ba-7324fb8397cc.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Adam",
+        "hasProfilePic": true,
+        "id": 572265,
+        "pictureUrl": "https://a0.muscache.com/im/users/572265/profile_pic/1305688364/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Adam",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/572265/profile_pic/1305688364/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 572265,
+      "canBeEdited": false,
+      "comments": "A beautiful home that is wonderful for the family. Gudrun is a gracious host! We'll be coming back next year.",
+      "createdAt": "2018-07-30T14:10:09Z",
+      "id": 299139930,
+      "idStr": "299139930",
+      "listingId": 2664733,
+      "recipientId": 13638515,
+      "collectionTag": null,
+      "listing": {
+        "id": 2664733,
+        "listingIdStr": "2664733",
+        "name": "Magnificent villa in Geneva"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Gudrun",
+        "hasProfilePic": true,
+        "id": 13638515,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/dd51837c-dc98-4afd-87ba-7324fb8397cc.jpg?aki_policy=profile_x_medium",
+        "smartName": "Gudrun",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/dd51837c-dc98-4afd-87ba-7324fb8397cc.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Patrick",
+        "hasProfilePic": true,
+        "id": 29193952,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/fa85a8cc-67f0-42bb-b39e-611cacd35b8e.jpg?aki_policy=profile_x_medium",
+        "smartName": "Patrick",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/fa85a8cc-67f0-42bb-b39e-611cacd35b8e.jpg?aki_policy=profile_small"
+      },
+      "authorId": 29193952,
+      "canBeEdited": false,
+      "comments": "Wonderful home!  Even better than described. Would definitely recommend for a large family esp with kids. Gudrun was a warm and welcoming host. Would definitely stay again! ",
+      "createdAt": "2017-04-12T09:47:30Z",
+      "id": 143542949,
+      "idStr": "143542949",
+      "listingId": 2664733,
+      "recipientId": 13638515,
+      "collectionTag": null,
+      "listing": {
+        "id": 2664733,
+        "listingIdStr": "2664733",
+        "name": "Magnificent villa in Geneva"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Gudrun",
+        "hasProfilePic": true,
+        "id": 13638515,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/dd51837c-dc98-4afd-87ba-7324fb8397cc.jpg?aki_policy=profile_x_medium",
+        "smartName": "Gudrun",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/dd51837c-dc98-4afd-87ba-7324fb8397cc.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Yiling",
+        "hasProfilePic": true,
+        "id": 95877576,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/d69f5ce8-0565-4ad0-a788-651e27fb313d.jpg?aki_policy=profile_x_medium",
+        "smartName": "Yiling",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/d69f5ce8-0565-4ad0-a788-651e27fb313d.jpg?aki_policy=profile_small"
+      },
+      "authorId": 95877576,
+      "canBeEdited": false,
+      "comments": "Such a wonderful experience! We had a great time staying in the house and Gudrun is such a nice and amazing person:) it was a outstanding experience and hope I will revisit one day! ",
+      "createdAt": "2016-10-09T06:41:49Z",
+      "id": 106993861,
+      "idStr": "106993861",
+      "listingId": 2664733,
+      "recipientId": 13638515,
+      "collectionTag": null,
+      "listing": {
+        "id": 2664733,
+        "listingIdStr": "2664733",
+        "name": "Magnificent villa in Geneva"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Gudrun",
+        "hasProfilePic": true,
+        "id": 13638515,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/dd51837c-dc98-4afd-87ba-7324fb8397cc.jpg?aki_policy=profile_x_medium",
+        "smartName": "Gudrun",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/dd51837c-dc98-4afd-87ba-7324fb8397cc.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Adam",
+        "hasProfilePic": true,
+        "id": 572265,
+        "pictureUrl": "https://a0.muscache.com/im/users/572265/profile_pic/1305688364/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Adam",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/572265/profile_pic/1305688364/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 572265,
+      "canBeEdited": false,
+      "comments": "A beautiful family-friendly house. Gudrun made us feel welcome immediately and we look forward to coming back. We had a lovely time. Thank you. A+",
+      "createdAt": "2016-08-29T04:31:51Z",
+      "id": 97931210,
+      "idStr": "97931210",
+      "listingId": 2664733,
+      "recipientId": 13638515,
+      "collectionTag": null,
+      "listing": {
+        "id": 2664733,
+        "listingIdStr": "2664733",
+        "name": "Magnificent villa in Geneva"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Gudrun",
+        "hasProfilePic": true,
+        "id": 13638515,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/dd51837c-dc98-4afd-87ba-7324fb8397cc.jpg?aki_policy=profile_x_medium",
+        "smartName": "Gudrun",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/dd51837c-dc98-4afd-87ba-7324fb8397cc.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Adam",
+        "hasProfilePic": true,
+        "id": 572265,
+        "pictureUrl": "https://a0.muscache.com/im/users/572265/profile_pic/1305688364/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Adam",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/572265/profile_pic/1305688364/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 572265,
+      "canBeEdited": false,
+      "comments": "An excellent experience is a lovely home. Wonderful for the whole family. Highly recommend A+",
+      "createdAt": "2015-01-04T12:44:19Z",
+      "id": 24933896,
+      "idStr": "24933896",
+      "listingId": 2664733,
+      "recipientId": 13638515,
+      "collectionTag": null,
+      "listing": {
+        "id": 2664733,
+        "listingIdStr": "2664733",
+        "name": "Magnificent villa in Geneva"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Gudrun",
+        "hasProfilePic": true,
+        "id": 13638515,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/dd51837c-dc98-4afd-87ba-7324fb8397cc.jpg?aki_policy=profile_x_medium",
+        "smartName": "Gudrun",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/dd51837c-dc98-4afd-87ba-7324fb8397cc.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Sultan",
+        "hasProfilePic": true,
+        "id": 20367633,
+        "pictureUrl": "https://a0.muscache.com/im/users/20367633/profile_pic/1413108953/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Sultan",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/20367633/profile_pic/1413108953/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 20367633,
+      "canBeEdited": false,
+      "comments": "The house was extraordinary, we truly enjoyed our stay there, the beds were comfortable, the bathrooms were clean, the garden was beautiful, and  everything was truly welcoming, especially Gudran, her hospitality was exquisite. The house itself felt extremely warm and it felt like a second home for our group.",
+      "createdAt": "2014-10-18T13:21:41Z",
+      "id": 21493557,
+      "idStr": "21493557",
+      "listingId": 2664733,
+      "recipientId": 13638515,
+      "collectionTag": null,
+      "listing": {
+        "id": 2664733,
+        "listingIdStr": "2664733",
+        "name": "Magnificent villa in Geneva"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Gudrun",
+        "hasProfilePic": true,
+        "id": 13638515,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/dd51837c-dc98-4afd-87ba-7324fb8397cc.jpg?aki_policy=profile_x_medium",
+        "smartName": "Gudrun",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/dd51837c-dc98-4afd-87ba-7324fb8397cc.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Dr.Mohammed",
+        "hasProfilePic": true,
+        "id": 7006293,
+        "pictureUrl": "https://a0.muscache.com/im/users/7006293/profile_pic/1418915583/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Dr.Mohammed",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/7006293/profile_pic/1418915583/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 7006293,
+      "canBeEdited": false,
+      "comments": "Since I start searching for a place in Geneva, and found this property, I have a very easy way to complete the reservation, and the reason was the availability of Gudrun.\r\n \r\nShe was very helpful, and provide me with all the information I need. When I arrive to Geneva, she was arranging with me, and we met in the villa, she gave me the key, took me in a tour in side it and in the yard of the villa.\r\n \r\nThe place was excellent, wide, clean, all the facilities are good.",
+      "createdAt": "2014-06-14T11:45:10Z",
+      "id": 14198660,
+      "idStr": "14198660",
+      "listingId": 2664733,
+      "recipientId": 13638515,
+      "collectionTag": null,
+      "listing": {
+        "id": 2664733,
+        "listingIdStr": "2664733",
+        "name": "Magnificent villa in Geneva"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Gudrun",
+        "hasProfilePic": true,
+        "id": 13638515,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/dd51837c-dc98-4afd-87ba-7324fb8397cc.jpg?aki_policy=profile_x_medium",
+        "smartName": "Gudrun",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/dd51837c-dc98-4afd-87ba-7324fb8397cc.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Jonathan",
+        "hasProfilePic": true,
+        "id": 251156717,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/ffdbe30f-df7c-4db5-a7aa-fc1ed18bc30b.jpg?aki_policy=profile_x_medium",
+        "smartName": "Jonathan",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/ffdbe30f-df7c-4db5-a7aa-fc1ed18bc30b.jpg?aki_policy=profile_small"
+      },
+      "authorId": 251156717,
+      "canBeEdited": false,
+      "comments": "If you think this place looks amazing, it is because this place is amazing.\n\nGudrun welcomed us with a big smile, a warm heart, a bottle of wine and a box chocolates. Everything got better from there. The house has all modern amenities, was spectacularly clean, and had beds more comfortable than the finest hotels.\n\nThe hot tub, sauna, bikes, trampolines, walking paths and everything else about this magnificent spot were as advertised, which is to say superb.\n\nI give Gudrun and this place an A+. I recommend it to anyone with a group of 4-6 that needs a top quality place in Geneva. We saved over $1,000 with our group staying here over a hotel and had a much better time.",
+      "createdAt": "2019-04-12T11:07:24Z",
+      "id": 436001358,
+      "idStr": "436001358",
+      "listingId": 2664733,
+      "recipientId": 13638515,
+      "collectionTag": null,
+      "listing": {
+        "id": 2664733,
+        "listingIdStr": "2664733",
+        "name": "Magnificent villa in Geneva"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Gudrun",
+        "hasProfilePic": true,
+        "id": 13638515,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/dd51837c-dc98-4afd-87ba-7324fb8397cc.jpg?aki_policy=profile_x_medium",
+        "smartName": "Gudrun",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/dd51837c-dc98-4afd-87ba-7324fb8397cc.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 979,
+      "amount_formatted": "979 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 979,
+      "amount_formatted": "979 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/18942742",
+  "name": "Luxury 320 sq apartment in Residential area",
+  "stars": 5,
+  "numberOfGuests": 6,
+  "address": "Genève, Switzerland",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 46.19092,
+    "lng": 6.15354
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Aaron",
+        "hasProfilePic": true,
+        "id": 76791693,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/eaa6c6f7-f4ba-416c-aa5f-36e8833009dc.jpg?aki_policy=profile_x_medium",
+        "smartName": "Aaron",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/eaa6c6f7-f4ba-416c-aa5f-36e8833009dc.jpg?aki_policy=profile_small"
+      },
+      "authorId": 76791693,
+      "canBeEdited": false,
+      "comments": "An awesome luxury apartment near Champel station in Geneva. We enjoyed how close it was to the Christmas market.",
+      "createdAt": "2019-12-30T13:47:53Z",
+      "id": 584529075,
+      "idStr": "584529075",
+      "listingId": 18942742,
+      "recipientId": 131928657,
+      "collectionTag": null,
+      "listing": {
+        "id": 18942742,
+        "listingIdStr": "18942742",
+        "name": "Luxury 320 sq apartment in Residential area"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Kiko",
+        "hasProfilePic": true,
+        "id": 131928657,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/f4c65aa8-fc2e-4ce3-8824-d867961c69d7.jpg?aki_policy=profile_x_medium",
+        "smartName": "Kiko",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/f4c65aa8-fc2e-4ce3-8824-d867961c69d7.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Megan",
+        "hasProfilePic": true,
+        "id": 123442871,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/e8570bd4-9fd4-4e7a-8a9e-b78d45b302ea.jpg?aki_policy=profile_x_medium",
+        "smartName": "Megan",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/e8570bd4-9fd4-4e7a-8a9e-b78d45b302ea.jpg?aki_policy=profile_small"
+      },
+      "authorId": 123442871,
+      "canBeEdited": false,
+      "comments": "House and host were wonderful!  Very spacious and clean!  Perfect for our stay in Geneva and convenient for a business trip.  Thank you!",
+      "createdAt": "2019-05-24T13:34:18Z",
+      "id": 457512269,
+      "idStr": "457512269",
+      "listingId": 18942742,
+      "recipientId": 131928657,
+      "collectionTag": null,
+      "listing": {
+        "id": 18942742,
+        "listingIdStr": "18942742",
+        "name": "Luxury 320 sq apartment in Residential area"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Kiko",
+        "hasProfilePic": true,
+        "id": 131928657,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/f4c65aa8-fc2e-4ce3-8824-d867961c69d7.jpg?aki_policy=profile_x_medium",
+        "smartName": "Kiko",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/f4c65aa8-fc2e-4ce3-8824-d867961c69d7.jpg?aki_policy=profile_small"
+      },
+      "response": "Thanks you very much Megan) we hope you again )",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Megan",
+        "hasProfilePic": true,
+        "id": 12318683,
+        "pictureUrl": "https://a0.muscache.com/im/users/12318683/profile_pic/1416844974/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Megan",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/12318683/profile_pic/1416844974/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 12318683,
+      "canBeEdited": false,
+      "comments": "We loved our stay in this beautiful flat. The location is great, especially for families. It is next to a brand new station (Champel) with direct lines into the main station (Cornavin, 11 minutes). Migros and Coop grocery stores are across the street and around the corner, and there are too many coffee shops to count (the one across from Le Pain is great). There is a great playground and park less than a 10-minute walk away. We walked to the lake (20 minutes) through the pretty streets of Champel on a nice day.\n\nThe flat itself is in a beautiful older building with a great vibe. As soon as you walk up the tiled stairway into the building, you know it's going to be a special place (there's an elevator too). The flat is large, with high ceilings and stunning wood floors. The huge windows keep the main rooms bright and sunny. The kitchen is incredibly well-stocked, and we had everything we needed to host a small Thanksgiving dinner for friends. The beds were comfortable, and the entire flat was spotlessly clean. The bathrooms are a bit quirky, but they were also well provisioned, and we loved the huge, fluffy towels, and amenity kits provided.   We really appreciate the separate office space, huge dining room, cozy kitchen, and incredibly spacious and comfortable living room. \n\nThis flat is a FIND for Geneva. We loved it and will definitely return.",
+      "createdAt": "2021-11-22T15:15:47Z",
+      "id": 501280964559261760,
+      "idStr": "501280964559261752",
+      "listingId": 18942742,
+      "recipientId": 131928657,
+      "collectionTag": null,
+      "listing": {
+        "id": 18942742,
+        "listingIdStr": "18942742",
+        "name": "Luxury 320 sq apartment in Residential area"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Kiko",
+        "hasProfilePic": true,
+        "id": 131928657,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/f4c65aa8-fc2e-4ce3-8824-d867961c69d7.jpg?aki_policy=profile_x_medium",
+        "smartName": "Kiko",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/f4c65aa8-fc2e-4ce3-8824-d867961c69d7.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Kos",
+        "hasProfilePic": true,
+        "id": 2108871,
+        "pictureUrl": "https://a0.muscache.com/im/users/2108871/profile_pic/1423228725/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Kos",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/2108871/profile_pic/1423228725/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 2108871,
+      "canBeEdited": false,
+      "comments": "Great place, great host. Amazing flat and location.",
+      "createdAt": "2021-09-25T13:36:54Z",
+      "id": 459194203889316700,
+      "idStr": "459194203889316702",
+      "listingId": 18942742,
+      "recipientId": 131928657,
+      "collectionTag": null,
+      "listing": {
+        "id": 18942742,
+        "listingIdStr": "18942742",
+        "name": "Luxury 320 sq apartment in Residential area"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Kiko",
+        "hasProfilePic": true,
+        "id": 131928657,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/f4c65aa8-fc2e-4ce3-8824-d867961c69d7.jpg?aki_policy=profile_x_medium",
+        "smartName": "Kiko",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/f4c65aa8-fc2e-4ce3-8824-d867961c69d7.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Simon",
+        "hasProfilePic": true,
+        "id": 147408083,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/4432bf6a-cc68-4287-8454-9255cd6f495d.jpg?aki_policy=profile_x_medium",
+        "smartName": "Simon",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/4432bf6a-cc68-4287-8454-9255cd6f495d.jpg?aki_policy=profile_small"
+      },
+      "authorId": 147408083,
+      "canBeEdited": false,
+      "comments": "Everything was fine. Really big rooms and well located. I can recommend.",
+      "createdAt": "2020-07-05T12:21:34Z",
+      "id": 634802422,
+      "idStr": "634802422",
+      "listingId": 18942742,
+      "recipientId": 131928657,
+      "collectionTag": null,
+      "listing": {
+        "id": 18942742,
+        "listingIdStr": "18942742",
+        "name": "Luxury 320 sq apartment in Residential area"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Kiko",
+        "hasProfilePic": true,
+        "id": 131928657,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/f4c65aa8-fc2e-4ce3-8824-d867961c69d7.jpg?aki_policy=profile_x_medium",
+        "smartName": "Kiko",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/f4c65aa8-fc2e-4ce3-8824-d867961c69d7.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Valerie",
+        "hasProfilePic": true,
+        "id": 51746129,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/545e6180-e7cb-4bd8-a007-c3f3676b4d97.jpg?aki_policy=profile_x_medium",
+        "smartName": "Valerie",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/545e6180-e7cb-4bd8-a007-c3f3676b4d97.jpg?aki_policy=profile_small"
+      },
+      "authorId": 51746129,
+      "canBeEdited": false,
+      "comments": "thank you",
+      "createdAt": "2019-12-26T14:54:46Z",
+      "id": 582043715,
+      "idStr": "582043715",
+      "listingId": 18942742,
+      "recipientId": 131928657,
+      "collectionTag": null,
+      "listing": {
+        "id": 18942742,
+        "listingIdStr": "18942742",
+        "name": "Luxury 320 sq apartment in Residential area"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Kiko",
+        "hasProfilePic": true,
+        "id": 131928657,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/f4c65aa8-fc2e-4ce3-8824-d867961c69d7.jpg?aki_policy=profile_x_medium",
+        "smartName": "Kiko",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/f4c65aa8-fc2e-4ce3-8824-d867961c69d7.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Cristina",
+        "hasProfilePic": true,
+        "id": 67873542,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/0fb170b9-36ca-4550-9bf8-98d19c2bc544.jpg?aki_policy=profile_x_medium",
+        "smartName": "Cristina",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/0fb170b9-36ca-4550-9bf8-98d19c2bc544.jpg?aki_policy=profile_small"
+      },
+      "authorId": 67873542,
+      "canBeEdited": false,
+      "comments": "This apartment is incredible! From the size to location. \nIt has 5 bedrooms and 5 full bathrooms with toilets.\nPerfect for a family with children , in-laws and parents or friends. \n\nThank you , Yuliana !",
+      "createdAt": "2019-10-16T12:44:48Z",
+      "id": 547884549,
+      "idStr": "547884549",
+      "listingId": 18942742,
+      "recipientId": 131928657,
+      "collectionTag": null,
+      "listing": {
+        "id": 18942742,
+        "listingIdStr": "18942742",
+        "name": "Luxury 320 sq apartment in Residential area"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Kiko",
+        "hasProfilePic": true,
+        "id": 131928657,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/f4c65aa8-fc2e-4ce3-8824-d867961c69d7.jpg?aki_policy=profile_x_medium",
+        "smartName": "Kiko",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/f4c65aa8-fc2e-4ce3-8824-d867961c69d7.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Adiv Mark",
+        "hasProfilePic": true,
+        "id": 19392653,
+        "pictureUrl": "https://a0.muscache.com/im/users/19392653/profile_pic/1407090715/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Adiv Mark",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/19392653/profile_pic/1407090715/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 19392653,
+      "canBeEdited": false,
+      "comments": "This was a wonderful place to stay with our family and kids. The place is huge and each room has its own bathroom. The place is fully equipped and full of fine objects. The building is also very nice.",
+      "createdAt": "2019-10-02T13:31:36Z",
+      "id": 539887603,
+      "idStr": "539887603",
+      "listingId": 18942742,
+      "recipientId": 131928657,
+      "collectionTag": null,
+      "listing": {
+        "id": 18942742,
+        "listingIdStr": "18942742",
+        "name": "Luxury 320 sq apartment in Residential area"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Kiko",
+        "hasProfilePic": true,
+        "id": 131928657,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/f4c65aa8-fc2e-4ce3-8824-d867961c69d7.jpg?aki_policy=profile_x_medium",
+        "smartName": "Kiko",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/f4c65aa8-fc2e-4ce3-8824-d867961c69d7.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Peter",
+        "hasProfilePic": true,
+        "id": 40839271,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/8d041bb8-56c0-41f1-b84e-7b64479b974c.jpg?aki_policy=profile_x_medium",
+        "smartName": "Peter",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/8d041bb8-56c0-41f1-b84e-7b64479b974c.jpg?aki_policy=profile_small"
+      },
+      "authorId": 40839271,
+      "canBeEdited": false,
+      "comments": "Spacious and stylish apartment.",
+      "createdAt": "2019-08-15T11:37:25Z",
+      "id": 509792177,
+      "idStr": "509792177",
+      "listingId": 18942742,
+      "recipientId": 131928657,
+      "collectionTag": null,
+      "listing": {
+        "id": 18942742,
+        "listingIdStr": "18942742",
+        "name": "Luxury 320 sq apartment in Residential area"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Kiko",
+        "hasProfilePic": true,
+        "id": 131928657,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/f4c65aa8-fc2e-4ce3-8824-d867961c69d7.jpg?aki_policy=profile_x_medium",
+        "smartName": "Kiko",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/f4c65aa8-fc2e-4ce3-8824-d867961c69d7.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Nishant",
+        "hasProfilePic": true,
+        "id": 187063553,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b4e5f14a-cab0-4bac-9e35-d04f424c0149.jpg?aki_policy=profile_x_medium",
+        "smartName": "Nishant",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b4e5f14a-cab0-4bac-9e35-d04f424c0149.jpg?aki_policy=profile_small"
+      },
+      "authorId": 187063553,
+      "canBeEdited": false,
+      "comments": "The place is very spacious with all the amenities.",
+      "createdAt": "2019-05-10T11:07:15Z",
+      "id": 450672543,
+      "idStr": "450672543",
+      "listingId": 18942742,
+      "recipientId": 131928657,
+      "collectionTag": null,
+      "listing": {
+        "id": 18942742,
+        "listingIdStr": "18942742",
+        "name": "Luxury 320 sq apartment in Residential area"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Kiko",
+        "hasProfilePic": true,
+        "id": 131928657,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/f4c65aa8-fc2e-4ce3-8824-d867961c69d7.jpg?aki_policy=profile_x_medium",
+        "smartName": "Kiko",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/f4c65aa8-fc2e-4ce3-8824-d867961c69d7.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 970,
+      "amount_formatted": "970 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 970,
+      "amount_formatted": "970 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/49700699",
+  "name": "Stylish 180 sq.m architect apartment / LAKE",
+  "stars": 5,
+  "numberOfGuests": 4,
+  "address": "Genève, Switzerland",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 46.21228,
+    "lng": 6.15029
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Xavier",
+        "hasProfilePic": true,
+        "id": 103883388,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/9e1f23dc-c33a-4e6e-8a37-93981f9dbe7a.jpg?aki_policy=profile_x_medium",
+        "smartName": "Xavier",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/9e1f23dc-c33a-4e6e-8a37-93981f9dbe7a.jpg?aki_policy=profile_small"
+      },
+      "authorId": 103883388,
+      "canBeEdited": false,
+      "comments": "This is a great place, the apartment is pristine with awesome views from Geneva’s rooftop. Very convenient access to the lake and restaurants.",
+      "createdAt": "2021-07-11T11:13:45Z",
+      "id": 404039198062720200,
+      "idStr": "404039198062720164",
+      "listingId": 49700699,
+      "recipientId": 364539911,
+      "collectionTag": null,
+      "listing": {
+        "id": 49700699,
+        "listingIdStr": "49700699",
+        "name": "Stylish 180 sq.m architect apartment / LAKE"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Sissi",
+        "hasProfilePic": true,
+        "id": 364539911,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/d68827ab-60db-4c6c-946f-538d3a33f2df.jpg?aki_policy=profile_x_medium",
+        "smartName": "Sissi",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/d68827ab-60db-4c6c-946f-538d3a33f2df.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "John",
+        "hasProfilePic": true,
+        "id": 6376610,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/2358002e-076c-49bb-92bd-c02d913f8a1c.jpg?aki_policy=profile_x_medium",
+        "smartName": "John",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/2358002e-076c-49bb-92bd-c02d913f8a1c.jpg?aki_policy=profile_small"
+      },
+      "authorId": 6376610,
+      "canBeEdited": false,
+      "comments": "An incredibly charming place in a wonderful location. Highly recommend!!",
+      "createdAt": "2021-07-08T11:54:25Z",
+      "id": 401885335141397200,
+      "idStr": "401885335141397199",
+      "listingId": 49700699,
+      "recipientId": 364539911,
+      "collectionTag": null,
+      "listing": {
+        "id": 49700699,
+        "listingIdStr": "49700699",
+        "name": "Stylish 180 sq.m architect apartment / LAKE"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Sissi",
+        "hasProfilePic": true,
+        "id": 364539911,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/d68827ab-60db-4c6c-946f-538d3a33f2df.jpg?aki_policy=profile_x_medium",
+        "smartName": "Sissi",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/d68827ab-60db-4c6c-946f-538d3a33f2df.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Alexander",
+        "hasProfilePic": true,
+        "id": 30149159,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/a6d7db88-6da4-4984-8e3e-a0e24a391fb4.jpg?aki_policy=profile_x_medium",
+        "smartName": "Alexander",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/a6d7db88-6da4-4984-8e3e-a0e24a391fb4.jpg?aki_policy=profile_small"
+      },
+      "authorId": 30149159,
+      "canBeEdited": false,
+      "comments": "Great stay, close to city center and sights all in walking distance, lake very close. We stayed at this spacious apartment with our two kids. Sissi was always available for questions via phone and (Hidden by Airbnb) . She and Romain are very warm-hearted and friendly hosts. Thanks for a happy stay.",
+      "createdAt": "2021-08-26T11:49:35Z",
+      "id": 437396915940509630,
+      "idStr": "437396915940509614",
+      "listingId": 49700699,
+      "recipientId": 364539911,
+      "collectionTag": null,
+      "listing": {
+        "id": 49700699,
+        "listingIdStr": "49700699",
+        "name": "Stylish 180 sq.m architect apartment / LAKE"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Sissi",
+        "hasProfilePic": true,
+        "id": 364539911,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/d68827ab-60db-4c6c-946f-538d3a33f2df.jpg?aki_policy=profile_x_medium",
+        "smartName": "Sissi",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/d68827ab-60db-4c6c-946f-538d3a33f2df.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Parus",
+        "hasProfilePic": true,
+        "id": 61493842,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/59befccc-1b06-4488-ac09-b89df8a5fed7.jpg?aki_policy=profile_x_medium",
+        "smartName": "Parus",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/59befccc-1b06-4488-ac09-b89df8a5fed7.jpg?aki_policy=profile_small"
+      },
+      "authorId": 61493842,
+      "canBeEdited": false,
+      "comments": "Great apartment centrally located on the 7th floor with good views.  Few minutes walk from Lake Geneva. Apartment has a lot of character.  Kitchen, dining and Lounge area in big open plan area so we had a great time relaxing in the evening.  Sissi is a great host.",
+      "createdAt": "2021-08-12T11:15:06Z",
+      "id": 427232701268148300,
+      "idStr": "427232701268148297",
+      "listingId": 49700699,
+      "recipientId": 364539911,
+      "collectionTag": null,
+      "listing": {
+        "id": 49700699,
+        "listingIdStr": "49700699",
+        "name": "Stylish 180 sq.m architect apartment / LAKE"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Sissi",
+        "hasProfilePic": true,
+        "id": 364539911,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/d68827ab-60db-4c6c-946f-538d3a33f2df.jpg?aki_policy=profile_x_medium",
+        "smartName": "Sissi",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/d68827ab-60db-4c6c-946f-538d3a33f2df.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Herbert",
+        "hasProfilePic": true,
+        "id": 65572840,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/ec32dd03-44e9-446b-95dc-83090468984c.jpg?aki_policy=profile_x_medium",
+        "smartName": "Herbert",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/ec32dd03-44e9-446b-95dc-83090468984c.jpg?aki_policy=profile_small"
+      },
+      "authorId": 65572840,
+      "canBeEdited": false,
+      "comments": "Actually, we would rather keep this appartment to ourselves, because it's great! Spacious and very nicely decorated in our favourite part of Geneve. A real city appartment, run by real people. Just like we think Airbnb was meant to be. And if after a couple of days you'r tired of eating out. The kitchen has everything to prepare and enjoy a home cooked meal. We were there on the night of the Europa Cup finales and had the time of our lives at the square in front of the appartment.",
+      "createdAt": "2021-07-14T11:47:56Z",
+      "id": 406230730320727900,
+      "idStr": "406230730320727891",
+      "listingId": 49700699,
+      "recipientId": 364539911,
+      "collectionTag": null,
+      "listing": {
+        "id": 49700699,
+        "listingIdStr": "49700699",
+        "name": "Stylish 180 sq.m architect apartment / LAKE"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Sissi",
+        "hasProfilePic": true,
+        "id": 364539911,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/d68827ab-60db-4c6c-946f-538d3a33f2df.jpg?aki_policy=profile_x_medium",
+        "smartName": "Sissi",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/d68827ab-60db-4c6c-946f-538d3a33f2df.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Veronica",
+        "hasProfilePic": true,
+        "id": 19095584,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/4e90dae6-f42f-4b07-aec5-4dc9a016998f.jpg?aki_policy=profile_x_medium",
+        "smartName": "Veronica",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/4e90dae6-f42f-4b07-aec5-4dc9a016998f.jpg?aki_policy=profile_small"
+      },
+      "authorId": 19095584,
+      "canBeEdited": false,
+      "comments": "Beautiful, big and bright apartment with all comforts and amenities and a fully stocked kitchen. \nLocation is very convenient. Just 1 minute walk to the lake. Bus stop and three supermarkets around the corner. \nThe area is also nice in the evening as there are many bars and restaurants.  \nSissi was a lovely host and the lady taking care of the apartment made check-in and checkout super easy.",
+      "createdAt": "2021-06-12T13:37:38Z",
+      "id": 383093122581296100,
+      "idStr": "383093122581296155",
+      "listingId": 49700699,
+      "recipientId": 364539911,
+      "collectionTag": null,
+      "listing": {
+        "id": 49700699,
+        "listingIdStr": "49700699",
+        "name": "Stylish 180 sq.m architect apartment / LAKE"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Sissi",
+        "hasProfilePic": true,
+        "id": 364539911,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/d68827ab-60db-4c6c-946f-538d3a33f2df.jpg?aki_policy=profile_x_medium",
+        "smartName": "Sissi",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/d68827ab-60db-4c6c-946f-538d3a33f2df.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 636,
+      "amount_formatted": "636 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 636,
+      "amount_formatted": "636 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/25003391",
+  "name": "Charming penthouse studio near the UN and lake",
+  "stars": 5,
+  "numberOfGuests": 2,
+  "address": "Genève, Switzerland",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 46.21758,
+    "lng": 6.14729
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Mark",
+        "hasProfilePic": true,
+        "id": 9698727,
+        "pictureUrl": "https://a0.muscache.com/im/users/9698727/profile_pic/1383055726/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Mark",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/9698727/profile_pic/1383055726/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 9698727,
+      "canBeEdited": false,
+      "comments": "Cozy penthouse studio with a stunning view. That reads like the title for the listing but it’s true on many levels.  I was there for two weeks while working in Geneva and the studio quickly became home.  Even though it’s on the top floor of the building, there’s great shower pressure and plenty of hot water!  Great value and Catherine was an awesome host.",
+      "createdAt": "2018-12-01T12:30:17Z",
+      "id": 354243203,
+      "idStr": "354243203",
+      "listingId": 25003391,
+      "recipientId": 19693948,
+      "collectionTag": null,
+      "listing": {
+        "id": 25003391,
+        "listingIdStr": "25003391",
+        "name": "Charming penthouse studio near the UN and lake"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Catherine",
+        "hasProfilePic": true,
+        "id": 19693948,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b77e7f1d-3b33-4c1e-8b8e-3efd4b54de03.jpg?aki_policy=profile_x_medium",
+        "smartName": "Catherine",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b77e7f1d-3b33-4c1e-8b8e-3efd4b54de03.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Paul",
+        "hasProfilePic": true,
+        "id": 64139706,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/51b99c27-2010-4c4d-92bc-8a033df22bee.jpg?aki_policy=profile_x_medium",
+        "smartName": "Paul",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/51b99c27-2010-4c4d-92bc-8a033df22bee.jpg?aki_policy=profile_small"
+      },
+      "authorId": 64139706,
+      "canBeEdited": false,
+      "comments": "This a great location in Geneva. Ideal for those travelling on foot or public transport. Great view too.",
+      "createdAt": "2019-05-13T12:26:32Z",
+      "id": 452453493,
+      "idStr": "452453493",
+      "listingId": 25003391,
+      "recipientId": 19693948,
+      "collectionTag": null,
+      "listing": {
+        "id": 25003391,
+        "listingIdStr": "25003391",
+        "name": "Charming penthouse studio near the UN and lake"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Catherine",
+        "hasProfilePic": true,
+        "id": 19693948,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b77e7f1d-3b33-4c1e-8b8e-3efd4b54de03.jpg?aki_policy=profile_x_medium",
+        "smartName": "Catherine",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b77e7f1d-3b33-4c1e-8b8e-3efd4b54de03.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Jacqueline",
+        "hasProfilePic": true,
+        "id": 165610809,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/4f9fc1de-8f73-431d-ab56-568f2300e2dc.jpg?aki_policy=profile_x_medium",
+        "smartName": "Jacqueline",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/4f9fc1de-8f73-431d-ab56-568f2300e2dc.jpg?aki_policy=profile_small"
+      },
+      "authorId": 165610809,
+      "canBeEdited": false,
+      "comments": "The apartment was very nice with a wonderful view. The flat is well located. \nWe had a nice weekend!!",
+      "createdAt": "2019-03-25T13:54:43Z",
+      "id": 428508443,
+      "idStr": "428508443",
+      "listingId": 25003391,
+      "recipientId": 19693948,
+      "collectionTag": null,
+      "listing": {
+        "id": 25003391,
+        "listingIdStr": "25003391",
+        "name": "Charming penthouse studio near the UN and lake"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Catherine",
+        "hasProfilePic": true,
+        "id": 19693948,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b77e7f1d-3b33-4c1e-8b8e-3efd4b54de03.jpg?aki_policy=profile_x_medium",
+        "smartName": "Catherine",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b77e7f1d-3b33-4c1e-8b8e-3efd4b54de03.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Gaetano",
+        "hasProfilePic": true,
+        "id": 13773268,
+        "pictureUrl": "https://a0.muscache.com/im/users/13773268/profile_pic/1396619369/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Gaetano",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/13773268/profile_pic/1396619369/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 13773268,
+      "canBeEdited": false,
+      "comments": "Great location, beautiful studio and view, excellent value for money",
+      "createdAt": "2019-01-18T12:29:17Z",
+      "id": 402341788,
+      "idStr": "402341788",
+      "listingId": 25003391,
+      "recipientId": 19693948,
+      "collectionTag": null,
+      "listing": {
+        "id": 25003391,
+        "listingIdStr": "25003391",
+        "name": "Charming penthouse studio near the UN and lake"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Catherine",
+        "hasProfilePic": true,
+        "id": 19693948,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b77e7f1d-3b33-4c1e-8b8e-3efd4b54de03.jpg?aki_policy=profile_x_medium",
+        "smartName": "Catherine",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b77e7f1d-3b33-4c1e-8b8e-3efd4b54de03.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Denis",
+        "hasProfilePic": true,
+        "id": 58577770,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/6c72c50f-964b-4b71-9f93-9af1f4ac4d80.jpg?aki_policy=profile_x_medium",
+        "smartName": "Denis",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/6c72c50f-964b-4b71-9f93-9af1f4ac4d80.jpg?aki_policy=profile_small"
+      },
+      "authorId": 58577770,
+      "canBeEdited": false,
+      "comments": "The host canceled this reservation 41 days before arrival. This is an automated posting.",
+      "createdAt": "2018-10-31T15:02:14Z",
+      "id": 343371969,
+      "idStr": "343371969",
+      "listingId": 25003391,
+      "recipientId": 19693948,
+      "collectionTag": null,
+      "listing": {
+        "id": 25003391,
+        "listingIdStr": "25003391",
+        "name": "Charming penthouse studio near the UN and lake"
+      },
+      "rating": 0,
+      "recipient": {
+        "firstName": "Catherine",
+        "hasProfilePic": true,
+        "id": 19693948,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b77e7f1d-3b33-4c1e-8b8e-3efd4b54de03.jpg?aki_policy=profile_x_medium",
+        "smartName": "Catherine",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b77e7f1d-3b33-4c1e-8b8e-3efd4b54de03.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Alexander",
+        "hasProfilePic": true,
+        "id": 35791152,
+        "pictureUrl": "https://a0.muscache.com/im/users/35791152/profile_pic/1434303959/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Alexander",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/35791152/profile_pic/1434303959/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 35791152,
+      "canBeEdited": false,
+      "comments": "Staying at Catherines' place was amazing. A charming little appartment with a great view, location and communication. We would book it again anytime :)",
+      "createdAt": "2018-09-03T13:33:54Z",
+      "id": 318096019,
+      "idStr": "318096019",
+      "listingId": 25003391,
+      "recipientId": 19693948,
+      "collectionTag": null,
+      "listing": {
+        "id": 25003391,
+        "listingIdStr": "25003391",
+        "name": "Charming penthouse studio near the UN and lake"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Catherine",
+        "hasProfilePic": true,
+        "id": 19693948,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b77e7f1d-3b33-4c1e-8b8e-3efd4b54de03.jpg?aki_policy=profile_x_medium",
+        "smartName": "Catherine",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b77e7f1d-3b33-4c1e-8b8e-3efd4b54de03.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Jovan",
+        "hasProfilePic": true,
+        "id": 22044136,
+        "pictureUrl": "https://a0.muscache.com/im/users/22044136/profile_pic/1412261477/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Jovan",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/22044136/profile_pic/1412261477/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 22044136,
+      "canBeEdited": false,
+      "comments": "This place is one of the best I have been in aribnb in the last years!  It is just amazing and convenient (specially if you have to do something in UN, or just relax in Geneva).  Coming to the room is one first great experience, and then discovering the simplicity of the room, with the amazing view, it is just something that will bring happiness to anyone!  Absolutely recommended!!!  And, Catherine has a super amazing quick communication.  It will enhance for sure your staying in Geneva!!",
+      "createdAt": "2018-05-19T13:11:17Z",
+      "id": 266088548,
+      "idStr": "266088548",
+      "listingId": 25003391,
+      "recipientId": 19693948,
+      "collectionTag": null,
+      "listing": {
+        "id": 25003391,
+        "listingIdStr": "25003391",
+        "name": "Charming penthouse studio near the UN and lake"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Catherine",
+        "hasProfilePic": true,
+        "id": 19693948,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b77e7f1d-3b33-4c1e-8b8e-3efd4b54de03.jpg?aki_policy=profile_x_medium",
+        "smartName": "Catherine",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b77e7f1d-3b33-4c1e-8b8e-3efd4b54de03.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 1000,
+      "amount_formatted": "1,000 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1000,
+      "amount_formatted": "1,000 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/53225875",
+  "name": "Genève-centre, vue lac, grand et beau appartement",
+  "numberOfGuests": 8,
+  "address": "Genève, Switzerland",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 46.19734,
+    "lng": 6.15845
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Lopépé",
+        "hasProfilePic": true,
+        "id": 19495753,
+        "pictureUrl": "https://a0.muscache.com/im/users/19495753/profile_pic/1435957178/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Lopépé",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/19495753/profile_pic/1435957178/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 19495753,
+      "canBeEdited": false,
+      "comments": "Très bon hôte, Noreddine a été très sympa et arrangeant.",
+      "createdAt": "2021-11-28T15:03:55Z",
+      "id": 505623646861407550,
+      "idStr": "505623646861407550",
+      "listingId": 53225875,
+      "recipientId": 410299355,
+      "collectionTag": null,
+      "listing": {
+        "id": 53225875,
+        "listingIdStr": "53225875",
+        "name": "Genève-centre, vue lac, grand et beau appartement"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Noreddine",
+        "hasProfilePic": true,
+        "id": 410299355,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/246e19d6-6014-4889-9bf4-c51f4bfab49a.jpg?aki_policy=profile_x_medium",
+        "smartName": "Noreddine",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/246e19d6-6014-4889-9bf4-c51f4bfab49a.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "fr",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 696,
+      "amount_formatted": "696 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 696,
+      "amount_formatted": "696 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/50835155",
+  "name": "Villa Paradise with pool",
+  "numberOfGuests": 7,
+  "address": "Vandœuvres, Genève, Switzerland",
+  "roomType": "Entire villa",
+  "location": {
+    "lat": 46.21765,
+    "lng": 6.19814
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 1250,
+      "amount_formatted": "1,250 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1250,
+      "amount_formatted": "1,250 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/53806677",
+  "name": "Appartement pour fêter le nouvel an",
+  "numberOfGuests": 10,
+  "address": "Genève, Switzerland",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 46.19092,
+    "lng": 6.1596
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 943,
+      "amount_formatted": "943 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 943,
+      "amount_formatted": "943 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/25796141",
+  "name": "Appartement de 360m2 en vieille ville",
+  "numberOfGuests": 2,
+  "address": "Genève, Switzerland",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 46.19962,
+    "lng": 6.14918
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Sarl",
+        "hasProfilePic": true,
+        "id": 74987871,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/aa129e70-c620-45e3-a4e7-1807427f5317.jpg?aki_policy=profile_x_medium",
+        "smartName": "Sarl",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/aa129e70-c620-45e3-a4e7-1807427f5317.jpg?aki_policy=profile_small"
+      },
+      "authorId": 74987871,
+      "canBeEdited": false,
+      "comments": "Très bon séjour dans l'appartement de Charlotte. Nous venions pour un évent professionnel et nous avons adoré la qualité de la prestation.",
+      "createdAt": "2018-09-11T14:39:55Z",
+      "id": 321862582,
+      "idStr": "321862582",
+      "listingId": 25796141,
+      "recipientId": 64227174,
+      "collectionTag": null,
+      "listing": {
+        "id": 25796141,
+        "listingIdStr": "25796141",
+        "name": "Appartement de 360m2 en vieille ville"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Charlotte",
+        "hasProfilePic": true,
+        "id": 64227174,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/de690221-1c60-4d4e-87ec-4e7d053f93df.jpg?aki_policy=profile_x_medium",
+        "smartName": "Charlotte",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/de690221-1c60-4d4e-87ec-4e7d053f93df.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "fr",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 809,
+      "amount_formatted": "809 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 809,
+      "amount_formatted": "809 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/47765028",
+  "name": "Cosy and exclusive bed-sofa in the heart of Geneva",
+  "numberOfGuests": 2,
+  "address": "Genève, Switzerland",
+  "roomType": "Shared room in rental unit",
+  "location": {
+    "lat": 46.19967,
+    "lng": 6.13756
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Felipe",
+        "hasProfilePic": true,
+        "id": 110462341,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/c83152aa-16c0-460a-9231-c0601099650b.jpg?aki_policy=profile_x_medium",
+        "smartName": "Felipe",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/c83152aa-16c0-460a-9231-c0601099650b.jpg?aki_policy=profile_small"
+      },
+      "authorId": 110462341,
+      "canBeEdited": false,
+      "comments": "Thierry is a very nice person, ready to listen and tell you nice stories. Homemade food is awesome! \nNice location near to the old city.\nThis is my first time in Switzerland, Thierry's sofa was an excellent choice to land in Geneva city.",
+      "createdAt": "2021-01-30T12:12:17Z",
+      "id": 727607071,
+      "idStr": "727607071",
+      "listingId": 47765028,
+      "recipientId": 384932847,
+      "collectionTag": null,
+      "listing": {
+        "id": 47765028,
+        "listingIdStr": "47765028",
+        "name": "Cosy and exclusive bed-sofa in the heart of Geneva"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Thierry Lilianne",
+        "hasProfilePic": true,
+        "id": 384932847,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/af009785-2f90-44dc-a5ec-e1e3c3b566e2.jpg?aki_policy=profile_x_medium",
+        "smartName": "Thierry Lilianne",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/af009785-2f90-44dc-a5ec-e1e3c3b566e2.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 700,
+      "amount_formatted": "700 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 700,
+      "amount_formatted": "700 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/50582973",
+  "name": "Villa familiale full confort à 25 min de Genève",
+  "numberOfGuests": 14,
+  "address": "Monnetier-Mornex, Auvergne-Rhône-Alpes, France",
+  "roomType": "Entire villa",
+  "location": {
+    "lat": 46.15318,
+    "lng": 6.19476
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Robert",
+        "hasProfilePic": true,
+        "id": 70507508,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/c0b8d48e-d00b-4f45-993e-c403f8d051a9.jpg?aki_policy=profile_x_medium",
+        "smartName": "Robert",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/c0b8d48e-d00b-4f45-993e-c403f8d051a9.jpg?aki_policy=profile_small"
+      },
+      "authorId": 70507508,
+      "canBeEdited": false,
+      "comments": "Unique place with fantastic view. Great house when you are with a group. \nThibault was really helpfull.",
+      "createdAt": "2021-09-20T12:21:46Z",
+      "id": 455532507051671700,
+      "idStr": "455532507051671666",
+      "listingId": 50582973,
+      "recipientId": 23037873,
+      "collectionTag": null,
+      "listing": {
+        "id": 50582973,
+        "listingIdStr": "50582973",
+        "name": "Villa familiale full confort à 25 min de Genève"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Thibault",
+        "hasProfilePic": true,
+        "id": 23037873,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/ff1106ff-1398-4f0f-94dd-766587d9286d.jpg?aki_policy=profile_x_medium",
+        "smartName": "Thibault",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/ff1106ff-1398-4f0f-94dd-766587d9286d.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 716,
+      "amount_formatted": "716 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 716,
+      "amount_formatted": "716 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/29752544",
+  "name": "Chambre avec vue",
+  "numberOfGuests": 1,
+  "address": "Ferney-Voltaire, Auvergne-Rhône-Alpes, France",
+  "roomType": "Private room in rental unit",
+  "location": {
+    "lat": 46.25594,
+    "lng": 6.10925
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 778,
+      "amount_formatted": "778 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 778,
+      "amount_formatted": "778 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/40877122",
+  "name": "The Hamlet - Townhouse 22",
+  "numberOfGuests": 4,
+  "address": "Genève, Switzerland",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 46.19975,
+    "lng": 6.15045
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 676,
+      "amount_formatted": "676 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 676,
+      "amount_formatted": "676 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/39811762",
+  "name": "Chambre étudiant(e) dans une maison (6 mois/plus)",
+  "numberOfGuests": 1,
+  "address": "Onex, Genève, Switzerland",
+  "roomType": "Private room in residential home",
+  "location": {
+    "lat": 46.18291,
+    "lng": 6.09974
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 800,
+      "amount_formatted": "800 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 800,
+      "amount_formatted": "800 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+}]

@@ -1,0 +1,1142 @@
+[{
+  "url": "https://www.airbnb.com/rooms/39075831",
+  "name": "Spacious, modern apartment with sunny balcony in the heart of les Portes du Soleil",
+  "numberOfGuests": 8,
+  "address": "La Chapelle d'Abondance, France",
+  "roomType": "Entire chalet",
+  "location": {
+    "lat": 46.2953,
+    "lng": 6.78016
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Emmanuelle",
+        "hasProfilePic": true,
+        "id": 15778549,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/a96a319b-2c10-4f48-8d69-d1ad4284bef6.jpg?aki_policy=profile_x_medium",
+        "smartName": "Emmanuelle",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/a96a319b-2c10-4f48-8d69-d1ad4284bef6.jpg?aki_policy=profile_small"
+      },
+      "authorId": 15778549,
+      "canBeEdited": false,
+      "comments": "Un appartement très agréable, bien équipé , spacieux et lumineux, à 5mn à pied du télésiège du crêt béni. Un plus : des caisses de jouets mis à disposition des petits, notre fille a adoré. Nous avons passé une super semaine.",
+      "createdAt": "2020-02-15T13:51:28Z",
+      "id": 605729584,
+      "idStr": "605729584",
+      "listingId": 39075831,
+      "recipientId": 109955734,
+      "collectionTag": null,
+      "listing": {
+        "id": 39075831,
+        "listingIdStr": "39075831",
+        "name": "Spacious, modern apartment with sunny balcony in the heart of les Portes du Soleil"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Lisa - BELVILLA",
+        "hasProfilePic": true,
+        "id": 109955734,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/ebe1dead-86c5-482f-8f50-9c9ef5690a5e.jpg?aki_policy=profile_x_medium",
+        "smartName": "Lisa - BELVILLA",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/ebe1dead-86c5-482f-8f50-9c9ef5690a5e.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "fr",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Martijn",
+        "hasProfilePic": true,
+        "id": 196125373,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/8b260352-c350-4e2e-9bd9-202900e26be0.jpg?aki_policy=profile_x_medium",
+        "smartName": "Martijn",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/8b260352-c350-4e2e-9bd9-202900e26be0.jpg?aki_policy=profile_small"
+      },
+      "authorId": 196125373,
+      "canBeEdited": false,
+      "comments": "Het was een heerlijk ruime appartement, ook de plaats is heerlijk vertoeven lekker authentiek. Met 4 volwassen en 2 kinderen is het appartement zeer goed te doen.",
+      "createdAt": "2020-02-08T12:42:49Z",
+      "id": 602895708,
+      "idStr": "602895708",
+      "listingId": 39075831,
+      "recipientId": 109955734,
+      "collectionTag": null,
+      "listing": {
+        "id": 39075831,
+        "listingIdStr": "39075831",
+        "name": "Spacious, modern apartment with sunny balcony in the heart of les Portes du Soleil"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Lisa - BELVILLA",
+        "hasProfilePic": true,
+        "id": 109955734,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/ebe1dead-86c5-482f-8f50-9c9ef5690a5e.jpg?aki_policy=profile_x_medium",
+        "smartName": "Lisa - BELVILLA",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/ebe1dead-86c5-482f-8f50-9c9ef5690a5e.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "nl",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 16557,
+      "amount_formatted": "16,557 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 16557,
+      "amount_formatted": "16,557 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/44618383",
+  "name": "Luxurious Chalet in Rhone Alpes with Sauna",
+  "numberOfGuests": 14,
+  "address": "Saint-Jean-d'Aulps, Auvergne-Rhône-Alpes, France",
+  "roomType": "Entire chalet",
+  "location": {
+    "lat": 46.23759,
+    "lng": 6.66018
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 16557,
+      "amount_formatted": "16,557 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 16557,
+      "amount_formatted": "16,557 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/52528262",
+  "name": "3 Roomed Duplex",
+  "numberOfGuests": 6,
+  "address": "Châtel, Auvergne-Rhône-Alpes, France",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 46.268210018905975,
+    "lng": 6.837857552221891
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 20748,
+      "amount_formatted": "20,748 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 20748,
+      "amount_formatted": "20,748 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/39881855",
+  "name": "The luxurious La Gentiane chalet and four minutes from the village of Saint Jean dAulps.",
+  "numberOfGuests": 8,
+  "address": "St. Jean D'aulps, France",
+  "roomType": "Entire chalet",
+  "location": {
+    "lat": 46.23945,
+    "lng": 6.65955
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Lynda",
+        "hasProfilePic": true,
+        "id": 95756917,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/c6d86ce5-9423-4418-ad02-925d29eb1b0a.jpg?aki_policy=profile_x_medium",
+        "smartName": "Lynda",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/c6d86ce5-9423-4418-ad02-925d29eb1b0a.jpg?aki_policy=profile_small"
+      },
+      "authorId": 95756917,
+      "canBeEdited": false,
+      "comments": "Mauvaise expérience,  je ne pense pas réserver à nouveau avec Belvilla et je ne les recommanderais pas à mon entourage, ils sont très réactifs lors de la réservation mais plus du tout dès qu'il y a un problème sur place, aucun appel de leur part pour savoir si le problème est résolu. \nJ'ai dû trouver par moi-même le numéro du propriétaire hollandais du chalet, et heureusement que je parle anglais ! \nConcernant notre séjour le chalet était très beau, la vue magnifique et l'intérieur chaleureux. C'est un très grand et très  beau chalet, assez spacieux pour accueillir des grandes familles. Ce n'est pas \"luxueux\" mais on y a passé une semaine presque parfaite si l'on avait pas eu les problèmes de coupures d'eau chaude et de coupure d'eau 3 jours consécutifs, les problèmes peuvent arriver partout et à tout le monde ce n'est pas ce qui nous a le plus dérangé mais ce que j'attendais c'était une vrai réactivité de la part de mon hôte c'est à dire Bellevilla, or ça ne s'est pas résolu grâce à eux car j'ai dû me débrouiller pour contacter directement le propriétaire que belvilla n'arrivait  soi-disant pas à joindre, pour ma part il a décroché (Website hidden by Airbnb) a résolu le problème et m'a demandé des nouvelles par la suite pour savoir si tout était redevenu normal, par contre Belvilla n'a jamais cherché à savoir si le problème était résolu quand à un geste commercial ne rêvons pas !\nLe chalet est situé assez haut en altitude et accessible par une seule route qui s'appelle \"route du péage\" c'est en réalité une petite route qui peut paraître escarpée mais elle se monte bien, nous avons des souvenirs pleins la tête dans ce superbe chalet, nous avons occupé les 1er et 2ème étage qui sont indépendants du RDC, les chambres étaient spacieuses, confortables mais les couettes et oreillers n'avaient pas été changé nous avons eu des draps et taie et housse de couettes propres, j'avais heureusement pris quelques duvets de chez moi...nous n'avons pas du tout eu froid le chalet est très bien isolé, les petits bémols sont que les chaines de TV sont uniquement en hollandais, il n'y a pas de machine à laver dans le chalet mais il faut sortir à l'extérieur pour accéder à une petite buanderie à partager avec les locataires du RDC. Point positif il y a assez de vaisselle pour tout le monde et aussi pour cuisiner, un vrai grand sauna privatif se trouve dans une des sdb.\nNous reviendrons dans le coin car il y a beaucoup de sites à explorer mais nous nous passerons de l'agence Belvilla pour trouvre une prochaine location.",
+      "createdAt": "2020-08-22T13:50:33Z",
+      "id": 654713577,
+      "idStr": "654713577",
+      "listingId": 39881855,
+      "recipientId": 270230184,
+      "collectionTag": null,
+      "listing": {
+        "id": 39881855,
+        "listingIdStr": "39881855",
+        "name": "The luxurious La Gentiane chalet and four minutes from the village of Saint Jean dAulps."
+      },
+      "rating": 3,
+      "recipient": {
+        "firstName": "Janna - BELVILLA",
+        "hasProfilePic": true,
+        "id": 270230184,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/7201ff6b-1b00-4c16-a49b-e471007b22ad.jpg?aki_policy=profile_x_medium",
+        "smartName": "Janna - BELVILLA",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/7201ff6b-1b00-4c16-a49b-e471007b22ad.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "fr",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 20541,
+      "amount_formatted": "20,541 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 20541,
+      "amount_formatted": "20,541 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/49891805",
+  "name": "4 Roomed 6 persons",
+  "numberOfGuests": 6,
+  "address": "Châtel, Auvergne-Rhône-Alpes, France",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 46.25699978910989,
+    "lng": 6.840705382452964
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 20748,
+      "amount_formatted": "20,748 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 20748,
+      "amount_formatted": "20,748 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/15866539",
+  "name": "6BD Unique villa overlooking the lake and the Alps",
+  "numberOfGuests": 8,
+  "address": "Montreux, Vaud, Switzerland",
+  "roomType": "Entire villa",
+  "location": {
+    "lat": 46.441,
+    "lng": 6.91
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 9199,
+      "amount_formatted": "9,199 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 9199,
+      "amount_formatted": "9,199 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/53017417",
+  "name": "Splendid Villa with Stunning Lake View",
+  "numberOfGuests": 12,
+  "address": "Montreux, Vaud, Switzerland",
+  "roomType": "Entire villa",
+  "location": {
+    "lat": 46.44479,
+    "lng": 6.90215
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Ivan",
+        "hasProfilePic": true,
+        "id": 152461422,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/8180089e-3289-4657-9b1a-750332baf5a2.jpg?aki_policy=profile_x_medium",
+        "smartName": "Ivan",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/8180089e-3289-4657-9b1a-750332baf5a2.jpg?aki_policy=profile_small"
+      },
+      "authorId": 152461422,
+      "canBeEdited": false,
+      "comments": "Endroit très chaleureux, spacieux et paisible.",
+      "createdAt": "2021-11-07T15:06:18Z",
+      "id": 490404550904981400,
+      "idStr": "490404550904981349",
+      "listingId": 53017417,
+      "recipientId": 422965160,
+      "collectionTag": null,
+      "listing": {
+        "id": 53017417,
+        "listingIdStr": "53017417",
+        "name": "Splendid Villa with Stunning Lake View"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Reka",
+        "hasProfilePic": true,
+        "id": 422965160,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/8dd677c7-6429-4968-b46c-08c47726d680.jpg?aki_policy=profile_x_medium",
+        "smartName": "Reka",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/8dd677c7-6429-4968-b46c-08c47726d680.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "fr",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 1571,
+      "amount_formatted": "1,571 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1571,
+      "amount_formatted": "1,571 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/42264726",
+  "name": "6BD Luxury Duplex in Lausanne",
+  "numberOfGuests": 10,
+  "address": "Lausanne, Vaud, Switzerland",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 46.56,
+    "lng": 6.67215
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 1610,
+      "amount_formatted": "1,610 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1610,
+      "amount_formatted": "1,610 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/39459413",
+  "name": "Amazing Chalet for 12, fitness and spa",
+  "numberOfGuests": 12,
+  "address": "Châtel, Savoie (Haute), France",
+  "roomType": "Entire chalet",
+  "location": {
+    "lat": 46.27545,
+    "lng": 6.83993
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Romina",
+        "hasProfilePic": true,
+        "id": 11353532,
+        "pictureUrl": "https://a0.muscache.com/im/users/11353532/profile_pic/1427380327/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Romina",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/11353532/profile_pic/1427380327/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 11353532,
+      "canBeEdited": false,
+      "comments": "The host canceled this reservation 184 days before arrival. This is an automated posting.",
+      "createdAt": "2020-01-22T16:23:49Z",
+      "id": 596337399,
+      "idStr": "596337399",
+      "listingId": 39459413,
+      "recipientId": 155258318,
+      "collectionTag": null,
+      "listing": {
+        "id": 39459413,
+        "listingIdStr": "39459413",
+        "name": "Amazing Chalet for 12, fitness and spa"
+      },
+      "rating": 0,
+      "recipient": {
+        "firstName": "Claire",
+        "hasProfilePic": true,
+        "id": 155258318,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/3b2b50d1-0bfb-42c3-b242-bc9159333029.jpg?aki_policy=profile_x_medium",
+        "smartName": "Claire",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/3b2b50d1-0bfb-42c3-b242-bc9159333029.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Fabian",
+        "hasProfilePic": true,
+        "id": 185387555,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/eaca5fc7-3b2f-4eae-b8d1-a2a1a3108199.jpg?aki_policy=profile_x_medium",
+        "smartName": "Fabian",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/eaca5fc7-3b2f-4eae-b8d1-a2a1a3108199.jpg?aki_policy=profile_small"
+      },
+      "authorId": 185387555,
+      "canBeEdited": false,
+      "comments": "Super schönes Haus sehr stilvoll eingerichtet. Ist alles vorhanden was man braucht für eine schönen Urlaub. Übertraf unsere Erwartungen. Hat auch bei bei der Übergabe reibungslos geklappt. Mit Claire hat die Kommunikation supper geklappt. Sehr nette Person. Kann man nur empfehlen. Super schönes Wander und Bike Gebiet",
+      "createdAt": "2020-07-12T11:20:31Z",
+      "id": 637095973,
+      "idStr": "637095973",
+      "listingId": 39459413,
+      "recipientId": 155258318,
+      "collectionTag": null,
+      "listing": {
+        "id": 39459413,
+        "listingIdStr": "39459413",
+        "name": "Amazing Chalet for 12, fitness and spa"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Claire",
+        "hasProfilePic": true,
+        "id": 155258318,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/3b2b50d1-0bfb-42c3-b242-bc9159333029.jpg?aki_policy=profile_x_medium",
+        "smartName": "Claire",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/3b2b50d1-0bfb-42c3-b242-bc9159333029.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "de",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 1285,
+      "amount_formatted": "1,285 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1285,
+      "amount_formatted": "1,285 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/19408598",
+  "name": "Amazing villa, swimming pool, close Montreux-Vevey",
+  "numberOfGuests": 12,
+  "address": "Bossonnens, Fribourg, Switzerland",
+  "roomType": "Entire villa",
+  "location": {
+    "lat": 46.52291,
+    "lng": 6.85084
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Philipp",
+        "hasProfilePic": true,
+        "id": 51008655,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/13c49f3f-f0c0-4ed2-8de9-182f40f03425.jpg?aki_policy=profile_x_medium",
+        "smartName": "Philipp",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/13c49f3f-f0c0-4ed2-8de9-182f40f03425.jpg?aki_policy=profile_small"
+      },
+      "authorId": 51008655,
+      "canBeEdited": false,
+      "comments": "Nice villa in a nice area. We stayed 3 Nights. One day we travelled to Monteux. With public transport very easy to reach. Suzi‘s Villa is very charming and the communication with Suzi was very easy! Thank you very much.",
+      "createdAt": "2021-08-15T13:00:15Z",
+      "id": 429459950774251600,
+      "idStr": "429459950774251582",
+      "listingId": 19408598,
+      "recipientId": 127954895,
+      "collectionTag": null,
+      "listing": {
+        "id": 19408598,
+        "listingIdStr": "19408598",
+        "name": "Amazing villa, swimming pool, close Montreux-Vevey"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Suzi",
+        "hasProfilePic": true,
+        "id": 127954895,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/fb89c632-57e2-4b21-899d-0e557ad550e5.jpg?aki_policy=profile_x_medium",
+        "smartName": "Suzi",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/fb89c632-57e2-4b21-899d-0e557ad550e5.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Daniel",
+        "hasProfilePic": true,
+        "id": 6004915,
+        "pictureUrl": "https://a0.muscache.com/im/users/6004915/profile_pic/1403454044/original.jpg?aki_policy=profile_x_medium",
+        "smartName": "Daniel",
+        "thumbnailUrl": "https://a0.muscache.com/im/users/6004915/profile_pic/1403454044/original.jpg?aki_policy=profile_small"
+      },
+      "authorId": 6004915,
+      "canBeEdited": false,
+      "comments": "The host canceled this reservation 3 days before arrival. This is an automated posting.",
+      "createdAt": "2017-06-30T10:27:07Z",
+      "id": 165094789,
+      "idStr": "165094789",
+      "listingId": 19408598,
+      "recipientId": 127954895,
+      "collectionTag": null,
+      "listing": {
+        "id": 19408598,
+        "listingIdStr": "19408598",
+        "name": "Amazing villa, swimming pool, close Montreux-Vevey"
+      },
+      "rating": 0,
+      "recipient": {
+        "firstName": "Suzi",
+        "hasProfilePic": true,
+        "id": 127954895,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/fb89c632-57e2-4b21-899d-0e557ad550e5.jpg?aki_policy=profile_x_medium",
+        "smartName": "Suzi",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/fb89c632-57e2-4b21-899d-0e557ad550e5.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 1264,
+      "amount_formatted": "1,264 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1264,
+      "amount_formatted": "1,264 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/44739217",
+  "name": "Panoramic Villa with pool in the Swiss Riviera",
+  "numberOfGuests": 8,
+  "address": "Chardonne, Vaud, Switzerland",
+  "roomType": "Entire villa",
+  "location": {
+    "lat": 46.47828,
+    "lng": 6.82112
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 2300,
+      "amount_formatted": "2,300 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 2300,
+      "amount_formatted": "2,300 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/45810339",
+  "name": "La villa M Évian",
+  "stars": 5,
+  "numberOfGuests": 10,
+  "address": "Publier, Auvergne-Rhône-Alpes, France",
+  "roomType": "Entire villa",
+  "location": {
+    "lat": 46.391,
+    "lng": 6.564
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Natalia",
+        "hasProfilePic": true,
+        "id": 30430318,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/6e80e1d9-c299-48af-a852-677d039d91e1.jpg?aki_policy=profile_x_medium",
+        "smartName": "Natalia",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/6e80e1d9-c299-48af-a852-677d039d91e1.jpg?aki_policy=profile_small"
+      },
+      "authorId": 30430318,
+      "canBeEdited": false,
+      "comments": "We spent a family weekend and it was lovely! The house is beautiful, perfectly equipped with everything you need to relax and enjoy! Spacious, comfortable, great views and surrounded by nature. We totally recommend this place and look forward to staying there again!",
+      "createdAt": "2021-06-21T12:57:00Z",
+      "id": 389595646906067000,
+      "idStr": "389595646906066990",
+      "listingId": 45810339,
+      "recipientId": 36938846,
+      "collectionTag": null,
+      "listing": {
+        "id": 45810339,
+        "listingIdStr": "45810339",
+        "name": "La villa M Évian"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Christophe",
+        "hasProfilePic": true,
+        "id": 36938846,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/4d852097-05f7-476b-adc2-03e4c237b8a2.jpg?aki_policy=profile_x_medium",
+        "smartName": "Christophe",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/4d852097-05f7-476b-adc2-03e4c237b8a2.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Christophe",
+        "hasProfilePic": true,
+        "id": 35310443,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/f17d590d-e93e-4034-9de1-9eeb80861056.jpg?aki_policy=profile_x_medium",
+        "smartName": "Christophe",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/f17d590d-e93e-4034-9de1-9eeb80861056.jpg?aki_policy=profile_small"
+      },
+      "authorId": 35310443,
+      "canBeEdited": false,
+      "comments": "La maison est splendide, meublée avec goût, l’emplacement idéal et les propriétaires ont un sens inné de l’accueil.... nous reviendrons c’est sûr.",
+      "createdAt": "2021-04-24T14:09:52Z",
+      "id": 751442402,
+      "idStr": "751442402",
+      "listingId": 45810339,
+      "recipientId": 36938846,
+      "collectionTag": null,
+      "listing": {
+        "id": 45810339,
+        "listingIdStr": "45810339",
+        "name": "La villa M Évian"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Christophe",
+        "hasProfilePic": true,
+        "id": 36938846,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/4d852097-05f7-476b-adc2-03e4c237b8a2.jpg?aki_policy=profile_x_medium",
+        "smartName": "Christophe",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/4d852097-05f7-476b-adc2-03e4c237b8a2.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "fr",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Laura",
+        "hasProfilePic": false,
+        "id": 391515088,
+        "pictureUrl": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+        "smartName": "Laura",
+        "thumbnailUrl": "https://a0.muscache.com/defaults/user_pic-50x50.png?v=3"
+      },
+      "authorId": 391515088,
+      "canBeEdited": false,
+      "comments": "Nous avons passé un week-end de pâque en famille à la villa M . Une maison sublime, décorée avec beaucoup de goût , une literie juste aux top  , des petits attentions chocolat de pâque , bouteille de vins , le top ! Un accueil sympathique de Christophe . Rien a redire tout était parfait. Nous reviendrons !!!",
+      "createdAt": "2021-04-05T14:37:52Z",
+      "id": 746044041,
+      "idStr": "746044041",
+      "listingId": 45810339,
+      "recipientId": 36938846,
+      "collectionTag": null,
+      "listing": {
+        "id": 45810339,
+        "listingIdStr": "45810339",
+        "name": "La villa M Évian"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Christophe",
+        "hasProfilePic": true,
+        "id": 36938846,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/4d852097-05f7-476b-adc2-03e4c237b8a2.jpg?aki_policy=profile_x_medium",
+        "smartName": "Christophe",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/4d852097-05f7-476b-adc2-03e4c237b8a2.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "fr",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Jean Pierre",
+        "hasProfilePic": false,
+        "id": 189193915,
+        "pictureUrl": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+        "smartName": "Jean Pierre",
+        "thumbnailUrl": "https://a0.muscache.com/defaults/user_pic-50x50.png?v=3"
+      },
+      "authorId": 189193915,
+      "canBeEdited": false,
+      "comments": "Tres belle maison, tres bien equipee, agreable a vivre, avec un tres belle vue.\nDes hotes aux petits soins.\nVivement recommandee.",
+      "createdAt": "2021-01-02T13:59:29Z",
+      "id": 720776176,
+      "idStr": "720776176",
+      "listingId": 45810339,
+      "recipientId": 36938846,
+      "collectionTag": null,
+      "listing": {
+        "id": 45810339,
+        "listingIdStr": "45810339",
+        "name": "La villa M Évian"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Christophe",
+        "hasProfilePic": true,
+        "id": 36938846,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/4d852097-05f7-476b-adc2-03e4c237b8a2.jpg?aki_policy=profile_x_medium",
+        "smartName": "Christophe",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/4d852097-05f7-476b-adc2-03e4c237b8a2.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "fr",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 1369,
+      "amount_formatted": "1,369 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1369,
+      "amount_formatted": "1,369 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/38181036",
+  "name": "Luxury 6BD Duplex in the Center of Vevey",
+  "numberOfGuests": 12,
+  "address": "Vevey, Vaud, Switzerland",
+  "roomType": "Private room in rental unit",
+  "location": {
+    "lat": 46.46327,
+    "lng": 6.84156
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 1349,
+      "amount_formatted": "1,349 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1349,
+      "amount_formatted": "1,349 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/50302791",
+  "name": "Best summer Villa with Pool and Panoramic views!",
+  "numberOfGuests": 9,
+  "address": "Lutry, Vaud, Switzerland",
+  "roomType": "Entire villa",
+  "location": {
+    "lat": 46.51089,
+    "lng": 6.68241
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 1725,
+      "amount_formatted": "1,725 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1725,
+      "amount_formatted": "1,725 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/53449113",
+  "name": "Modern Boutique room with Lake view in the City center",
+  "numberOfGuests": 2,
+  "address": "Montreux, Vaud, Switzerland",
+  "roomType": "Private room in hostel",
+  "location": {
+    "lat": 46.43442,
+    "lng": 6.91222
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Marc",
+        "hasProfilePic": true,
+        "id": 432879365,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/b2463ad9-48e3-4b9e-b5ff-b794d1229ae9.jpg?aki_policy=profile_x_medium",
+        "smartName": "Marc",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/b2463ad9-48e3-4b9e-b5ff-b794d1229ae9.jpg?aki_policy=profile_small"
+      },
+      "authorId": 432879365,
+      "canBeEdited": false,
+      "comments": "War alles perfekt, eig. sollten wir bis 11:00 auschecken, da wir aber nochmals auf den Montreux Noel wollten, liss er uns bis 14:00 das Zimmer, sehr sympathisch. Kann ich nur weiterempfehlen.",
+      "createdAt": "2021-12-12T13:02:00Z",
+      "id": 515709138968582850,
+      "idStr": "515709138968582831",
+      "listingId": 53449113,
+      "recipientId": 43777505,
+      "collectionTag": null,
+      "listing": {
+        "id": 53449113,
+        "listingIdStr": "53449113",
+        "name": "Modern Boutique room with Lake view in the City center"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Julian",
+        "hasProfilePic": true,
+        "id": 43777505,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/25b75125-beb0-474f-8fd0-6fc415ed3b3f.jpg?aki_policy=profile_x_medium",
+        "smartName": "Julian",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/25b75125-beb0-474f-8fd0-6fc415ed3b3f.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "de",
+      "userFlag": null
+    },
+    {
+      "author": {
+        "firstName": "Zeljana",
+        "hasProfilePic": false,
+        "id": 273469408,
+        "pictureUrl": "https://a0.muscache.com/defaults/user_pic-225x225.png?v=3",
+        "smartName": "Zeljana",
+        "thumbnailUrl": "https://a0.muscache.com/defaults/user_pic-50x50.png?v=3"
+      },
+      "authorId": 273469408,
+      "canBeEdited": false,
+      "comments": "Das Preis-Leistungs-Verhältnis ist unschlagbar. Die Lage ist super und die Unterkunft ist sehr sauber. Obwohl das abgemachte Babybett vergessen wurde, haben sie ein komplett neues Babybett innerhalb von einigen Stunden organisiert.",
+      "createdAt": "2021-12-11T15:20:46Z",
+      "id": 515054214277014900,
+      "idStr": "515054214277014940",
+      "listingId": 53449113,
+      "recipientId": 43777505,
+      "collectionTag": null,
+      "listing": {
+        "id": 53449113,
+        "listingIdStr": "53449113",
+        "name": "Modern Boutique room with Lake view in the City center"
+      },
+      "rating": 5,
+      "recipient": {
+        "firstName": "Julian",
+        "hasProfilePic": true,
+        "id": 43777505,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/25b75125-beb0-474f-8fd0-6fc415ed3b3f.jpg?aki_policy=profile_x_medium",
+        "smartName": "Julian",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/25b75125-beb0-474f-8fd0-6fc415ed3b3f.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "de",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 1617,
+      "amount_formatted": "1,617 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1617,
+      "amount_formatted": "1,617 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/43672839",
+  "name": "Chalet for 15pp ; spa, close to ski slopes",
+  "numberOfGuests": 16,
+  "address": "Châtel, Savoie (Haute), France",
+  "roomType": "Entire chalet",
+  "location": {
+    "lat": 46.23637,
+    "lng": 6.79202
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Inès",
+        "hasProfilePic": true,
+        "id": 117826849,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/5e995569-5933-4971-b340-85699374ab6c.jpg?aki_policy=profile_x_medium",
+        "smartName": "Inès",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/5e995569-5933-4971-b340-85699374ab6c.jpg?aki_policy=profile_small"
+      },
+      "authorId": 117826849,
+      "canBeEdited": false,
+      "comments": "Très beau chalet très bien équipé à la déco soignée, avec un extérieur parfaitement entretenu et vaste. Parfait pour un groupe d’amis de 15 personnes ! Nous avons passé un superbe séjour. Nous avons également apprécié la réactivité des propriétaires.",
+      "createdAt": "2020-08-22T12:49:59Z",
+      "id": 654633174,
+      "idStr": "654633174",
+      "listingId": 43672839,
+      "recipientId": 155258318,
+      "collectionTag": null,
+      "listing": {
+        "id": 43672839,
+        "listingIdStr": "43672839",
+        "name": "Chalet for 15pp ; spa, close to ski slopes"
+      },
+      "rating": 4,
+      "recipient": {
+        "firstName": "Claire",
+        "hasProfilePic": true,
+        "id": 155258318,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/3b2b50d1-0bfb-42c3-b242-bc9159333029.jpg?aki_policy=profile_x_medium",
+        "smartName": "Claire",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/3b2b50d1-0bfb-42c3-b242-bc9159333029.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "fr",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 1266,
+      "amount_formatted": "1,266 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1266,
+      "amount_formatted": "1,266 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/39459344",
+  "name": "Luxury Chalet for 16p. ; hot tube and sauna",
+  "numberOfGuests": 16,
+  "address": "Châtel, Savoie (Haute), France",
+  "roomType": "Entire chalet",
+  "location": {
+    "lat": 46.269,
+    "lng": 6.83724
+  },
+  "reviews": [
+    {
+      "author": {
+        "firstName": "Sophie",
+        "hasProfilePic": true,
+        "id": 27051983,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/80c5b917-9f13-4949-96fb-53eb8bf3877c.jpg?aki_policy=profile_x_medium",
+        "smartName": "Sophie",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/80c5b917-9f13-4949-96fb-53eb8bf3877c.jpg?aki_policy=profile_small"
+      },
+      "authorId": 27051983,
+      "canBeEdited": false,
+      "comments": "The host canceled this reservation 122 days before arrival. This is an automated posting.",
+      "createdAt": "2020-01-20T15:17:59Z",
+      "id": 595485429,
+      "idStr": "595485429",
+      "listingId": 39459344,
+      "recipientId": 155258318,
+      "collectionTag": null,
+      "listing": {
+        "id": 39459344,
+        "listingIdStr": "39459344",
+        "name": "Luxury Chalet for 16p. ; hot tube and sauna"
+      },
+      "rating": 0,
+      "recipient": {
+        "firstName": "Claire",
+        "hasProfilePic": true,
+        "id": 155258318,
+        "pictureUrl": "https://a0.muscache.com/im/pictures/user/3b2b50d1-0bfb-42c3-b242-bc9159333029.jpg?aki_policy=profile_x_medium",
+        "smartName": "Claire",
+        "thumbnailUrl": "https://a0.muscache.com/im/pictures/user/3b2b50d1-0bfb-42c3-b242-bc9159333029.jpg?aki_policy=profile_small"
+      },
+      "response": "",
+      "role": "guest",
+      "language": "en",
+      "userFlag": null
+    }
+  ],
+  "pricing": {
+    "rate": {
+      "amount": 1475,
+      "amount_formatted": "1,475 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1475,
+      "amount_formatted": "1,475 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/48794862",
+  "name": "Luxury apartment 14 people, 5 bedrooms",
+  "numberOfGuests": 14,
+  "address": "Châtel, Auvergne-Rhône-Alpes, France",
+  "roomType": "Entire rental unit",
+  "location": {
+    "lat": 46.27486,
+    "lng": 6.84046
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 1536,
+      "amount_formatted": "1,536 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1536,
+      "amount_formatted": "1,536 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/39459374",
+  "name": "Luxury Chalet 12p ; in center, sauna, spa, view",
+  "numberOfGuests": 12,
+  "address": "Châtel, Savoie (Haute), France",
+  "roomType": "Entire chalet",
+  "location": {
+    "lat": 46.26394,
+    "lng": 6.84359
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 1699,
+      "amount_formatted": "1,699 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 1699,
+      "amount_formatted": "1,699 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+},
+{
+  "url": "https://www.airbnb.com/rooms/44387499",
+  "name": "Chalet Chatel at Auvergne-Rhône-Alpes",
+  "numberOfGuests": 12,
+  "address": "Châtel, Auvergne-Rhône-Alpes, France",
+  "roomType": "Entire villa",
+  "location": {
+    "lat": 46.27711,
+    "lng": 6.83477
+  },
+  "reviews": [],
+  "pricing": {
+    "rate": {
+      "amount": 2054,
+      "amount_formatted": "2,054 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    },
+    "rate_type": "nightly",
+    "rate_with_service_fee": {
+      "amount": 2054,
+      "amount_formatted": "2,054 CHF",
+      "currency": "CHF",
+      "is_micros_accuracy": false
+    }
+  }
+}]

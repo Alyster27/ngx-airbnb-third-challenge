@@ -1,0 +1,69 @@
+<ion-content class="ion-no-padding">
+    <ion-grid class="ion-no-padding ion-no-margin">
+        <ion-row class="ion-no-padding ion-no-margin">
+            <ion-col size="6" class="ion-no-padding ion-no-margin">
+                <div class="ion-padding">
+                    <h1>Séjours dans la zone sélectionnée</h1>
+                    <ion-text color="medium">
+                        <p>
+                            <small>Saisissez les dates et le nombre de voyageurs pour voir le prix total par nuit.</small>
+                        </p>
+                    </ion-text>
+                </div>
+                <ion-grid>
+                    <!-- loop filtred items location -->
+                    <ion-row
+                        *ngFor="let place of (filteredMarkers||[]).slice(maxItemCount - maxItemCountPerPage, maxItemCount)"
+                        class="item ion-no-padding ion-justify-content-start ion-align-items-center">
+                        <ion-col size="5">
+                            <ion-img [src]="place.imgUrl"></ion-img>
+                        </ion-col>
+                        <ion-col size="7" class="ion-padding">
+                            <ion-row>
+                                <ion-col size="12">
+                                    <ion-text color="medium">
+                                        <p>
+                                            <small>{{ place.shortDesc}}</small>
+                                        </p>
+                                    </ion-text>
+                                </ion-col>
+                                <ion-col size="6">
+                                    <ion-text color="dark">
+                                        <p class="ion-text-end">
+                                            <b>{{ place.pricing }}</b> / nuit
+                                        </p>
+                                    </ion-text>
+                                </ion-col>
+                            </ion-row>
+                        </ion-col>
+                    </ion-row>
+                </ion-grid>
+            </ion-col>
+
+            <ion-col size="6">
+                <div id="map-container" *ngIf="ready === true">
+                    <div id="map">
+                        <!-- mgl-map element -->
+                        <mgl-map
+                            #map
+                            [style]="'mapbox://styles/mapbox/streets-v9'"
+                            [zoom]="[13]"
+                            [center]="center"
+                            (moveEnd)="searchResults($event)"
+                            (zoomEnd)="searchResults($event)">
+                        <mgl-marker
+                        *ngFor="let marker of (filteredMarkers||[]).slice(maxItemCount - maxItemCountPerPage, maxItemCount)"
+                        [lngLat]="marker.lngLat">
+                            <div class="marker" (click)="displayPopUp($event, marker)">
+                                <div>
+                                    dès {{marker.pricing}}
+                                </div>
+                            </div>
+                        </mgl-marker>
+                        </mgl-map>
+                    </div>
+                </div>
+            </ion-col>
+        </ion-row>
+    </ion-grid>
+</ion-content>
